@@ -1,0 +1,104 @@
+[
+  {
+    "id":"",
+    "name":"agua cielo - sin gas",
+    "unit":"625",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "category":["agua","no retornable","sin gas"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"agua cielo - sin gas",
+    "unit":"1000",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"bebidas",
+    "category":["agua","no retornable", "chupon","sin gas"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"agua cielo - sin gas",
+    "unit":"2500",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"3.00",
+    "store":"bebidas",
+    "category":["agua","no retornable","sin gas"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"agua cielo - sin gas",
+    "unit":"7000",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"8.00",
+    "store":"bebidas",
+    "category":["agua","no retornable","sin gas"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"benedictino",
+    "unit":"3000",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"3.00",
+    "store":"bebidas",
+    "category":["agua","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"san luis - sin gas",
+    "unit":"2500",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"3.50",
+    "store":"bebidas",
+    "category":["agua","no retornable","sin gas"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

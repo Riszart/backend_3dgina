@@ -1,0 +1,495 @@
+[
+  {
+    "id":"",
+    "name":"guarana",
+    "unit":"1",
+    "extent":"ml",
+    "brand":"backus",
+    "price":"",
+    "newPrice":"3.5",
+    "store":"bebidas",
+    "category":["gaseosas"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"guarana",
+    "unit":"3010",
+    "extent":"ml",
+    "brand":"backus",
+    "price":"",
+    "newPrice":"8.5",
+    "store":"bebidas",
+    "category":["gaseosas"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"coca cola",
+    "unit":"600",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"3.00",
+    "store":"bebidas",
+    "category":["gaseosas"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"coca cola - retornable",
+    "unit":"ml",
+    "extent":"l000",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"4.00",
+    "store":"bebidas",
+    "category":["gaseosas", "retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"coca cola - retornable",
+    "unit":"1500",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"bebidas",
+    "category":["gaseosas", "retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"coca cola - retornable",
+    "unit":"2500",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"7.00",
+    "store":"bebidas",
+    "category":["gaseosas", "retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"coca cola",
+    "unit":"3000",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"12.00",
+    "store":"bebidas",
+    "category":["gaseosas", "no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"inka kola",
+    "unit":"600",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"3.00",
+    "store":"bebidas",
+    "category":["gaseosas", "no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"inka kola - retornable",
+    "unit":"650",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"2.80",
+    "store":"bebidas",
+    "category":["gaseosas", "retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"inka kola - retornable",
+    "unit":"1000",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"4.00",
+    "store":"bebidas",
+    "category":["gaseosas","retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"inka kola - retornable",
+    "unit":"1500",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"bebidas",
+    "category":["gaseosas","retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"inka kola - retornable",
+    "unit":"2500",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"7.00",
+    "store":"bebidas",
+    "category":["gaseosas","retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"inka kola - retornable",
+    "unit":"3000",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"12.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"fanta - cola inglesa",
+    "unit":"500",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"fanta",
+    "unit":"3000",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"8.50",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"sprite",
+    "unit":"3000",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"8.50",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"cool - cola",
+    "unit":"350",
+    "extent":"ml",
+    "brand":"msi",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"cool - fresh piña",
+    "unit":"350",
+    "extent":"ml",
+    "brand":"msi",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"cool - amarilla",
+    "unit":"350",
+    "extent":"ml",
+    "brand":"msi",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"kr - negra",
+    "unit":"350",
+    "extent":"ml",
+    "brand":"msi",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"kr - roja",
+    "unit":"350",
+    "extent":"ml",
+    "brand":"msi",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"kr - naranja",
+    "unit":"350",
+    "extent":"ml",
+    "brand":"msi",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"kr - limon",
+    "unit":"350",
+    "extent":"ml",
+    "brand":"msi",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"kr - negra",
+    "unit":"3000",
+    "extent":"ml",
+    "brand":"msi",
+    "price":"",
+    "newPrice":"6.50",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"big cola",
+    "unit":"350",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"big cola",
+    "unit":"1700",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"4.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"big cola",
+    "unit":"3000",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"7.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"oro",
+    "unit":"350",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"oro",
+    "unit":"1700",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"4.00",
+    "store":"bebidas",
+    "category":["gaseosas","no retornable"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

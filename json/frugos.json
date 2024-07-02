@@ -1,0 +1,87 @@
+[
+  {
+    "id":"",
+    "name":"valle",
+    "unit":"235",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"1.50",
+    "store":"bebidas",
+    "category":["frugos","no retornable","caja"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"valle",
+    "unit":"300",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"2.30",
+    "store":"bebidas",
+    "category":["frugos","no retornable","botella"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"valle",
+    "unit":"1500",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"6.30",
+    "store":"bebidas",
+    "category":["frugos","no retornable","caja"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"pulp",
+    "unit":"145",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"0.70",
+    "store":"bebidas",
+    "category":["frugos","no retornable","caja"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "id":"",
+    "name":"pulp",
+    "unit":"1000",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"3.50",
+    "store":"bebidas",
+    "category":["frugos","no retornable","caja"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]
