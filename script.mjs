@@ -12,21 +12,21 @@ const array_data_backend_all = {
 }
 
 
-Object.values(array_data_backend_all).forEach(url => {
-  loadData(url)
-});
-async function loadData(URL){
-  const response = await fetch(URL)
-  data = await response.json();
-  data.forEach(element => {
-    data_global.push(element)
-  });
-  console.log(data_global)
-}
+// Object.values(array_data_backend_all).forEach(url => {
+//   loadData(url)
+// });
+// async function loadData(URL){
+//   const response = await fetch(URL)
+//   data = await response.json();
+//   data.forEach(element => {
+//     data_global.push(element)
+//   });
+//   console.log(data_global)
+// }
 
 
-function allProducts(data){
+// function allProducts(data){
   
-} 
+// } 
 
-module.exports = array_data_backend_all
+export {array_data_backend_all}
