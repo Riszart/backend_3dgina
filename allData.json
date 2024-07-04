@@ -1,0 +1,8 @@
+[
+  {"detergentes":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/detergentes.json"},
+  {"jabones":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/jabones.json"},
+  {"gaseosas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/bebidas_gasificadas.json"},
+  {"aguas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/aguas.json"},
+  {"frugos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/frugos.json"},
+  {"lejias":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/lejias.json"}
+]
