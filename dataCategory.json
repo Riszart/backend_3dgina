@@ -1,8 +1,56 @@
 [
   {
     "idCategory":"",
-    "nameCategory":"agua cielo - sin gas",
-    "store":"bebidas",
+    "nameCategory":"lacteos y huevos",
+    "store":"lacteos, huevos",
+    "imgCategory":""
+  },
+  {
+    "idCategory":"",
+    "nameCategory":"abarrotes",
+    "store":"",
+    "imgCategory":""
+  },
+  {
+    "idCategory":"",
+    "nameCategory":"desayunos",
+    "store":"",
+    "imgCategory":""
+  },
+  {
+    "idCategory":"",
+    "nameCategory":"abarrotes",
+    "store":"",
+    "imgCategory":""
+  },
+  {
+    "idCategory":"",
+    "nameCategory":"bebidas",
+    "store":"",
+    "imgCategory":""
+  },
+  {
+    "idCategory":"",
+    "nameCategory":"cuidado de bebe",
+    "store":"",
+    "imgCategory":""
+  },
+  {
+    "idCategory":"",
+    "nameCategory":"cuidado personal y salud",
+    "store":"",
+    "imgCategory":""
+  },
+  {
+    "idCategory":"",
+    "nameCategory":"limpieza",
+    "store":"",
+    "imgCategory":""
+  },
+  {
+    "idCategory":"",
+    "nameCategory":"mascotas",
+    "store":"",
     "imgCategory":""
   }
 ]
