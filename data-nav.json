@@ -1,25 +1,21 @@
 [
   {
-    "category":{
-      "category-market":"abarrotes",
-      "category-candy":"dulces",
-      "category-soda":"refresco",
-      "category-bookshop":"libreria",
-      "category-animals-foot":"alimentos de animales",
-      "category-liquor-store":"licoreria",
-      "category-clean-product":"productos de limpiesa"
-    }
+    "category-market":"abarrotes",
+    "category-candy":"dulces",
+    "category-soda":"refresco",
+    "category-bookshop":"libreria",
+    "category-animals-foot":"alimentos de animales",
+    "category-liquor-store":"licoreria",
+    "category-clean-product":"productos de limpiesa"
   },
   {
-    "brand":{
-      "brand-ritinza":"ritinza",
-      "brand-backus":"backus",
-      "brand-age":"age",
-      "brand-msi":"msi",
-      "brand-molitalia":"molitalia",
-      "brand-lynley":"lynley",
-      "brand-vega":"vega",
-      "brand-nutritec":"nutritec"
-    }
+    "brand-ritinza":"ritinza",
+    "brand-backus":"backus",
+    "brand-age":"age",
+    "brand-msi":"msi",
+    "brand-molitalia":"molitalia",
+    "brand-lynley":"lynley",
+    "brand-vega":"vega",
+    "brand-nutritec":"nutritec"
   }
 ]
