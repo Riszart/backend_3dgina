@@ -1,15 +1,16 @@
 [
   {
     "id":"",
-    "name":"",
+    "name":"cuates",
     "unit":"",
-    "extent":"ml",
-    "brand":"",
+    "extent":"",
+    "brand":"pepsico",
     "price":"",
-    "newPrice":"",
+    "newPrice":"1.00",
     "store":"",
-    "category":[],
-    "stock":"",
+    "tags":[""],
+    "categories":["candy"],
+    "stock":"true",
     "image":{
       "url_01":"",
       "url_02":"",

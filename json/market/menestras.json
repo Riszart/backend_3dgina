@@ -1,0 +1,19 @@
+[
+  {
+    "id":"",
+    "name":"arroz faraon original",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"faron",
+    "price":"",
+    "newPrice":"4.80",
+    "store":"",
+    "category":["market"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

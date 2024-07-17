@@ -1,0 +1,19 @@
+[
+  {
+    "id":"",
+    "name":"jamonada",
+    "unit":"",
+    "extent":"gr",
+    "brand":"san fernando",
+    "price":"",
+    "newPrice":"1.8",
+    "store":"",
+    "category":["breakfast"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

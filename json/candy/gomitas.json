@@ -1,0 +1,20 @@
+[
+  {
+    "id":"",
+    "name":"gomitas",
+    "unit":"",
+    "extent":"",
+    "brand":"ambrosoly",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"",
+    "tags":[""],
+    "categories":["candy"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

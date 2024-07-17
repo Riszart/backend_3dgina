@@ -8,7 +8,8 @@
     "price":"",
     "newPrice":"3.5",
     "store":"bebidas",
-    "category":["gaseosas"],
+    "tags":["gaseosas"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -25,7 +26,8 @@
     "price":"",
     "newPrice":"8.5",
     "store":"bebidas",
-    "category":["gaseosas"],
+    "tags":["gaseosas"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -42,7 +44,8 @@
     "price":"",
     "newPrice":"3.00",
     "store":"bebidas",
-    "category":["gaseosas"],
+    "tags":["gaseosas"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -59,7 +62,8 @@
     "price":"",
     "newPrice":"4.00",
     "store":"bebidas",
-    "category":["gaseosas", "retornable"],
+    "tags":["gaseosas", "retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -76,7 +80,8 @@
     "price":"",
     "newPrice":"5.50",
     "store":"bebidas",
-    "category":["gaseosas", "retornable"],
+    "tags":["gaseosas", "retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -93,7 +98,8 @@
     "price":"",
     "newPrice":"7.00",
     "store":"bebidas",
-    "category":["gaseosas", "retornable"],
+    "tags":["gaseosas", "retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -110,7 +116,8 @@
     "price":"",
     "newPrice":"12.00",
     "store":"bebidas",
-    "category":["gaseosas", "no retornable"],
+    "tags":["gaseosas", "no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -127,7 +134,8 @@
     "price":"",
     "newPrice":"3.00",
     "store":"bebidas",
-    "category":["gaseosas", "no retornable"],
+    "tags":["gaseosas", "no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -144,7 +152,8 @@
     "price":"",
     "newPrice":"2.80",
     "store":"bebidas",
-    "category":["gaseosas", "retornable"],
+    "tags":["gaseosas", "retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -161,7 +170,8 @@
     "price":"",
     "newPrice":"4.00",
     "store":"bebidas",
-    "category":["gaseosas","retornable"],
+    "tags":["gaseosas","retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -178,7 +188,8 @@
     "price":"",
     "newPrice":"5.50",
     "store":"bebidas",
-    "category":["gaseosas","retornable"],
+    "tags":["gaseosas","retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -195,7 +206,8 @@
     "price":"",
     "newPrice":"7.00",
     "store":"bebidas",
-    "category":["gaseosas","retornable"],
+    "tags":["gaseosas","retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -212,7 +224,8 @@
     "price":"",
     "newPrice":"12.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -229,7 +242,8 @@
     "price":"",
     "newPrice":"2.50",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -246,7 +260,8 @@
     "price":"",
     "newPrice":"8.50",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -263,7 +278,8 @@
     "price":"",
     "newPrice":"8.50",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -280,7 +296,8 @@
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -297,7 +314,8 @@
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -314,7 +332,8 @@
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -331,7 +350,8 @@
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -348,7 +368,8 @@
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -365,7 +386,8 @@
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -382,7 +404,8 @@
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -399,7 +422,8 @@
     "price":"",
     "newPrice":"6.50",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -416,7 +440,8 @@
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -433,7 +458,8 @@
     "price":"",
     "newPrice":"4.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -450,7 +476,8 @@
     "price":"",
     "newPrice":"7.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -467,7 +494,8 @@
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -484,7 +512,8 @@
     "price":"",
     "newPrice":"4.00",
     "store":"bebidas",
-    "category":["gaseosas","no retornable"],
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",

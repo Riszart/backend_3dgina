@@ -1,0 +1,19 @@
+[
+  {
+    "id":"",
+    "name":"paracas morado x2",
+    "unit":"",
+    "extent":"",
+    "brand":"paracas",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"",
+    "category":["health"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

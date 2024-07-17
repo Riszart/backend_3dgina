@@ -1,0 +1,19 @@
+[
+  {
+    "id":"",
+    "name":"ricocat",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocat",
+    "price":"",
+    "newPrice":"10.00",
+    "store":"",
+    "category":["liquor-store"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

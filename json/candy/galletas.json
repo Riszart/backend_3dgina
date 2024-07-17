@@ -1,0 +1,20 @@
+[
+  {
+    "id":"",
+    "name":"casino",
+    "unit":"",
+    "extent":"",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"",
+    "tags":[""],
+    "category":["candy"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

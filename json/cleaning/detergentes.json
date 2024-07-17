@@ -8,7 +8,8 @@
     "price":"13.50",
     "newPrice":"10.00",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/P%26G/ariel/ariel-revita-color-750gr.png",
@@ -25,7 +26,8 @@
     "price":"13.50",
     "newPrice":"10.00",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/P%26G/ariel/ariel-detergente-downy-700gr.jpg",
@@ -42,7 +44,8 @@
     "price":"13.50",
     "newPrice":"10.00",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -59,7 +62,8 @@
     "price":"",
     "newPrice":"3.00",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -76,7 +80,8 @@
     "price":"",
     "newPrice":"",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -93,7 +98,8 @@
     "price":"",
     "newPrice":"",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -110,7 +116,8 @@
     "price":"",
     "newPrice":"",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -127,7 +134,8 @@
     "price":"",
     "newPrice":"",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -144,7 +152,8 @@
     "price":"",
     "newPrice":"",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -161,7 +170,8 @@
     "price":"",
     "newPrice":"",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -178,7 +188,8 @@
     "price":"",
     "newPrice":"",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -195,7 +206,8 @@
     "price":"",
     "newPrice":"",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -212,7 +224,8 @@
     "price":"",
     "newPrice":"",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -229,7 +242,8 @@
     "price":"",
     "newPrice":"1.80",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -246,7 +260,8 @@
     "price":"",
     "newPrice":"1.30",
     "store":"limpiesa",
-    "category":["detergente"],
+    "tags":["detergente"],
+    "categories":["cleaning"],
     "stock":"true",
     "image":{
       "url_01":"",

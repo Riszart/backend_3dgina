@@ -1,0 +1,19 @@
+[
+  {
+    "id":"",
+    "name":"cereales",
+    "unit":"",
+    "extent":"gr",
+    "brand":"",
+    "price":"",
+    "newPrice":"0.80",
+    "store":"",
+    "category":["breakfast"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

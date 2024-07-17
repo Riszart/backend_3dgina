@@ -8,7 +8,8 @@
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
-    "category":["agua","no retornable","sin gas"],
+    "tags":["agua","no retornable","sin gas"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -25,7 +26,8 @@
     "price":"",
     "newPrice":"2.00",
     "store":"bebidas",
-    "category":["agua","no retornable", "chupon","sin gas"],
+    "tags":["agua","no retornable", "chupon","sin gas"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -42,7 +44,8 @@
     "price":"",
     "newPrice":"3.00",
     "store":"bebidas",
-    "category":["agua","no retornable","sin gas"],
+    "tags":["agua","no retornable","sin gas"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -59,7 +62,8 @@
     "price":"",
     "newPrice":"8.00",
     "store":"bebidas",
-    "category":["agua","no retornable","sin gas"],
+    "tags":["agua","no retornable","sin gas"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -76,7 +80,8 @@
     "price":"",
     "newPrice":"3.00",
     "store":"bebidas",
-    "category":["agua","no retornable"],
+    "tags":["agua","no retornable"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -93,7 +98,8 @@
     "price":"",
     "newPrice":"3.50",
     "store":"bebidas",
-    "category":["agua","no retornable","sin gas"],
+    "tags":["agua","no retornable","sin gas"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",

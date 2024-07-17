@@ -1,0 +1,19 @@
+[
+  {
+    "id":"",
+    "name":"pan chavata",
+    "unit":"4",
+    "extent":"und",
+    "brand":"",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"",
+    "category":["breakfast"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

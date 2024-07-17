@@ -8,7 +8,8 @@
     "price":"",
     "newPrice":"1.50",
     "store":"bebidas",
-    "category":["frugos","no retornable","caja"],
+    "tags":["frugos","no retornable","caja"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -25,7 +26,8 @@
     "price":"",
     "newPrice":"2.30",
     "store":"bebidas",
-    "category":["frugos","no retornable","botella"],
+    "tags":["frugos","no retornable","botella"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -42,7 +44,8 @@
     "price":"",
     "newPrice":"6.30",
     "store":"bebidas",
-    "category":["frugos","no retornable","caja"],
+    "tags":["frugos","no retornable","caja"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -59,7 +62,8 @@
     "price":"",
     "newPrice":"0.70",
     "store":"bebidas",
-    "category":["frugos","no retornable","caja"],
+    "tags":["frugos","no retornable","caja"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",
@@ -76,7 +80,8 @@
     "price":"",
     "newPrice":"3.50",
     "store":"bebidas",
-    "category":["frugos","no retornable","caja"],
+    "tags":["frugos","no retornable","caja"],
+    "categories":["soda"],
     "stock":"true",
     "image":{
       "url_01":"",

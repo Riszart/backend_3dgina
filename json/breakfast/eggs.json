@@ -1,0 +1,19 @@
+[
+  {
+    "id":"",
+    "name":"huevo de corral",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"",
+    "price":"",
+    "newPrice":"15.00",
+    "store":"",
+    "category":["breakfast"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]
