@@ -4,7 +4,7 @@
       "name":"abarrotes",
       "id":"110",
       "urls":{
-        "memestras":"",
+        "memestras":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/market/menestras.json",
         "apanar":"",
         "":""
       },
@@ -14,11 +14,11 @@
       "name":"dulces",
       "id":"115",
       "urls":{
-        "caramelos":"",
-        "galletas":"",
-        "chocolates":"",
-        "snack":"",
-        "gomitas":""
+        "caramelos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/caramelos.json",
+        "galletas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/galletas.json",
+        "chocolates":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/chocolates.json",
+        "snack":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/snacks.json",
+        "gomitas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/gomitas.json"
       },
       "img":""
     },
@@ -48,9 +48,9 @@
       "name":"alimentos de mascotas",
       "id":"130",
       "urls":{
-        "comida-de-perro":"",
-        "comida-de-gato":"",        
-        "comida-de-aves":""
+        "comida-de-perro":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/pets/perros.json",
+        "comida-de-gato":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/pets/gatos.json",        
+        "comida-de-aves":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/pets/aves.json"
       },
       "img":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/8334302.png"
     },
@@ -58,12 +58,12 @@
       "name":"bebidas 1alcoholicas",
       "id":"135",
       "urls":{
-        "vinos":"",
-        "piscos":"",
-        "ron":"",
-        "whisky":"",
-        "cervezas":"",
-        "vodka":"",
+        "vinos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/vinos.json",
+        "piscos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/piscos.json",
+        "ron":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/ron.json",
+        "whisky":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/whisky.json",
+        "cervezas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/cervezas.json",
+        "vodka":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/vodka.json",
         "listo-para-tomar":""
       },
       "img":""
@@ -86,10 +86,10 @@
       "name":"cuidado1 personal y salud",
       "id":"145",
       "urls":{
-        "toallas-higienicas":"",
+        "toallas-higienicas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/health/sanitary-towels.json",
         "salud":"",
         "bebes":"",
-        "papel-higienico":""
+        "papel-higienico":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/health/toilet-paper.json"
       },
       "img":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/imssages.png"
     },
@@ -97,12 +97,12 @@
       "name":"desayuno", 
       "id":"155",
       "urls":{
-        "embutidos":"",
-        "untar":"",
-        "cereales":"",
-        "lacteos":"",
-        "pan":"",
-        "huevos":""
+        "embutidos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/embutidos.json",
+        "untar":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/untar.json",
+        "cereales":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/cereales.json",
+        "lacteos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/lacteos.json",
+        "pan":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/pan.json",
+        "huevos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/eggs.json"
       },
       "img":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/1163016.png"
     }
