@@ -2,16 +2,18 @@
   {
     "category-market":{
       "name":"abarrotes",
+      "nameE":"category/market",
       "id":"110",
       "urls":{
         "memestras":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/market/menestras.json",
         "apanar":"",
         "":""
       },
-      "img":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/3098291.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/3098291.png"
     },
     "category-candy":{
       "name":"dulces",
+      "nameE":"category/candy",
       "id":"115",
       "urls":{
         "caramelos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/caramelos.json",
@@ -20,10 +22,11 @@
         "snack":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/snacks.json",
         "gomitas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/gomitas.json"
       },
-      "img":""
+      "imgCategory":""
     },
     "category-soda":{
       "name":"bebidas",
+      "nameE":"category/soda",
       "id":"120",
       "tags":["gaseosas","aguas","frugos"],
       "urls":{
@@ -31,10 +34,11 @@
         "aguas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/soda/aguas.json",
         "frugos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/soda/frugos.json"
       },
-      "img":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/images.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/images.png"
     },
     "category-bookshop":{
       "name":"libreria",
+      "nameE":"category/bookshop",
       "id":"125",
       "urls":{
         "escolar":"",
@@ -42,20 +46,22 @@
         "oficinas":"",
         "regalos":""
       },
-      "img":""
+      "imgCategory":""
     },
     "category-pets":{
       "name":"alimentos de mascotas",
+      "nameE":"category/pets",
       "id":"130",
       "urls":{
         "comida-de-perro":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/pets/perros.json",
         "comida-de-gato":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/pets/gatos.json",        
         "comida-de-aves":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/pets/aves.json"
       },
-      "img":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/8334302.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/8334302.png"
     },
     "category-liquor-store":{
-      "name":"bebidas 1alcoholicas",
+      "name":"bebidas alcoholicas",
+      "nameE":"category/liquor-store",
       "id":"135",
       "urls":{
         "vinos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/vinos.json",
@@ -66,10 +72,11 @@
         "vodka":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/vodka.json",
         "listo-para-tomar":""
       },
-      "img":""
+      "imgCategory":""
     },
     "category-clean-product":{
       "name":"productos de limpieza",
+      "nameE":"category/clean-product",
       "id":"140",
       "tags":["jabones","detergentes","lejias"],
       "urls":{
@@ -80,10 +87,11 @@
         "enjuages":"",
         "acido":""
       },
-      "img":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/imagweqwees.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/imagweqwees.png"
     },
     "category-health":{
       "name":"cuidado1 personal y salud",
+      "nameE":"category/health",
       "id":"145",
       "urls":{
         "toallas-higienicas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/health/sanitary-towels.json",
@@ -91,10 +99,11 @@
         "bebes":"",
         "papel-higienico":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/health/toilet-paper.json"
       },
-      "img":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/imssages.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/imssages.png"
     },
     "category-breakfast":{
       "name":"desayuno", 
+      "nameE":"breakfast",
       "id":"155",
       "urls":{
         "embutidos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/embutidos.json",
@@ -104,7 +113,7 @@
         "pan":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/pan.json",
         "huevos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/eggs.json"
       },
-      "img":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/1163016.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/1163016.png"
     }
   },
   {
