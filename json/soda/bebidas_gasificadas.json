@@ -1,6 +1,6 @@
 [
   {
-    "id":"",
+    "id":"120-200",
     "name":"guarana",
     "unit":"1",
     "extent":"ml",
@@ -18,7 +18,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-201",
     "name":"guarana",
     "unit":"3010",
     "extent":"ml",
@@ -36,7 +36,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-202",
     "name":"coca cola",
     "unit":"600",
     "extent":"ml",
@@ -54,7 +54,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-203",
     "name":"coca cola - retornable",
     "unit":"ml",
     "extent":"l000",
@@ -72,7 +72,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-204",
     "name":"coca cola - retornable",
     "unit":"1500",
     "extent":"ml",
@@ -90,7 +90,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-205",
     "name":"coca cola - retornable",
     "unit":"2500",
     "extent":"ml",
@@ -108,7 +108,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-206",
     "name":"coca cola",
     "unit":"3000",
     "extent":"ml",
@@ -126,7 +126,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-207",
     "name":"inka kola",
     "unit":"600",
     "extent":"ml",
@@ -144,7 +144,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-208",
     "name":"inka kola - retornable",
     "unit":"650",
     "extent":"ml",
@@ -162,7 +162,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-209",
     "name":"inka kola - retornable",
     "unit":"1000",
     "extent":"ml",
@@ -180,7 +180,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-210",
     "name":"inka kola - retornable",
     "unit":"1500",
     "extent":"ml",
@@ -198,7 +198,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-211",
     "name":"inka kola - retornable",
     "unit":"2500",
     "extent":"ml",
@@ -216,7 +216,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-212",
     "name":"inka kola - retornable",
     "unit":"3000",
     "extent":"ml",
@@ -234,7 +234,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-213",
     "name":"fanta - cola inglesa",
     "unit":"500",
     "extent":"ml",
@@ -252,7 +252,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-214",
     "name":"fanta",
     "unit":"3000",
     "extent":"ml",
@@ -270,7 +270,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-215",
     "name":"sprite",
     "unit":"3000",
     "extent":"ml",
@@ -288,7 +288,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-216",
     "name":"cool - cola",
     "unit":"350",
     "extent":"ml",
@@ -306,7 +306,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-217",
     "name":"cool - fresh piña",
     "unit":"350",
     "extent":"ml",
@@ -324,7 +324,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-218",
     "name":"cool - amarilla",
     "unit":"350",
     "extent":"ml",
@@ -342,7 +342,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-219",
     "name":"kr - negra",
     "unit":"350",
     "extent":"ml",
@@ -360,7 +360,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-220",
     "name":"kr - roja",
     "unit":"350",
     "extent":"ml",
@@ -378,7 +378,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-221",
     "name":"kr - naranja",
     "unit":"350",
     "extent":"ml",
@@ -396,7 +396,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-222",
     "name":"kr - limon",
     "unit":"350",
     "extent":"ml",
@@ -414,7 +414,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-223",
     "name":"kr - negra",
     "unit":"3000",
     "extent":"ml",
@@ -432,7 +432,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-224",
     "name":"big cola",
     "unit":"350",
     "extent":"ml",
@@ -450,7 +450,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-225",
     "name":"big cola",
     "unit":"1700",
     "extent":"ml",
@@ -468,7 +468,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-226",
     "name":"big cola",
     "unit":"3000",
     "extent":"ml",
@@ -486,7 +486,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-227",
     "name":"oro",
     "unit":"350",
     "extent":"ml",
@@ -504,7 +504,7 @@
       }
   },
   {
-    "id":"",
+    "id":"120-228",
     "name":"oro",
     "unit":"1700",
     "extent":"ml",
