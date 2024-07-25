@@ -5,7 +5,7 @@
       "nameE":"category/market",
       "id":"110",
       "urls":{
-        "memestras":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/market/menestras.json",
+        "memestras":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11010.json",
         "apanar":"",
         "":""
       },
@@ -16,11 +16,11 @@
       "nameE":"category/candy",
       "id":"115",
       "urls":{
-        "caramelos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/caramelos.json",
-        "galletas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/galletas.json",
-        "chocolates":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/chocolates.json",
-        "snack":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/snacks.json",
-        "gomitas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/candy/gomitas.json"
+        "caramelos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/115510.json",
+        "galletas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/115530.json",
+        "chocolates":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/115520.json",
+        "snack":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/11550.json",
+        "gomitas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/115540.json"
       },
       "imgCategory":""
     },
@@ -30,9 +30,9 @@
       "id":"120",
       "tags":["gaseosas","aguas","frugos"],
       "urls":{
-        "gaseosas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/soda/bebidas_gasificadas.json",
-        "aguas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/soda/aguas.json",
-        "frugos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/soda/frugos.json"
+        "gaseosas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12020.json",
+        "aguas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12010.json",
+        "frugos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12030.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/images.png"
     },
@@ -53,9 +53,9 @@
       "nameE":"category/pets",
       "id":"130",
       "urls":{
-        "comida-de-perro":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/pets/perros.json",
-        "comida-de-gato":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/pets/gatos.json",        
-        "comida-de-aves":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/pets/aves.json"
+        "perro":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13030.json",
+        "gato":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13020.json",        
+        "aves":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13010.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/8334302.png"
     },
@@ -64,12 +64,12 @@
       "nameE":"category/liquor-store",
       "id":"135",
       "urls":{
-        "vinos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/vinos.json",
-        "piscos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/piscos.json",
-        "ron":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/ron.json",
-        "whisky":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/whisky.json",
-        "cervezas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/cervezas.json",
-        "vodka":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/liquor-store/vodka.json",
+        "vinos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13540.json",
+        "piscos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13520.json",
+        "ron":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13530.json",
+        "whisky":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13560.json",
+        "cervezas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13510.json",
+        "vodka":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13550.json",
         "listo-para-tomar":""
       },
       "imgCategory":""
@@ -80,9 +80,9 @@
       "id":"140",
       "tags":["jabones","detergentes","lejias"],
       "urls":{
-        "jabones":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/cleaning/jabones.json",
-        "detergentes":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/cleaning/detergentes.json",
-        "lejias":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/cleaning/lejias.json",
+        "jabones":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14010.json",
+        "detergentes":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14020.json",
+        "lejias":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14030.json",
         "lavavajilla":"",
         "enjuages":"",
         "acido":""
@@ -94,24 +94,24 @@
       "nameE":"category/health",
       "id":"145",
       "urls":{
-        "toallas-higienicas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/health/sanitary-towels.json",
+        "toallas-higienicas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14510.json",
         "salud":"",
         "bebes":"",
-        "papel-higienico":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/health/toilet-paper.json"
+        "papel-higienico":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14520.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/imssages.png"
     },
     "category-breakfast":{
       "name":"desayuno", 
       "nameE":"breakfast",
-      "id":"155",
+      "id":"150",
       "urls":{
-        "embutidos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/embutidos.json",
-        "untar":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/untar.json",
-        "cereales":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/cereales.json",
-        "lacteos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/lacteos.json",
-        "pan":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/pan.json",
-        "huevos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/breakfast/eggs.json"
+        "embutidos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15030.json",
+        "untar":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15060.json",
+        "cereales":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15010.json",
+        "lacteos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15040.json",
+        "pan":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15050.json",
+        "huevos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15020.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/1163016.png"
     }

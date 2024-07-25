@@ -1,0 +1,22 @@
+[
+  {
+    "idCategory":"150",
+    "idStore":"15050",
+    "id":"150-50-5001",
+    "idProduct":"150505001",
+    "name":"pan chavata",
+    "unit":"4",
+    "extent":"und",
+    "brand":"",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"panes",
+    "category":["breakfast"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

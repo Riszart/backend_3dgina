@@ -1,0 +1,22 @@
+[
+  {
+    "idCategory":"135",
+    "idStore":"13540",
+    "id":"135-40-4001",
+    "idProduct":"135404001",
+    "name":"intipalka - tannac",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"intipalka",
+    "price":"",
+    "newPrice":"",
+    "store":"vinos",
+    "category":["liquor-store"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

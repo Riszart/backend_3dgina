@@ -1,0 +1,23 @@
+[
+  {
+    "idCategory":"115",
+    "idStore":"11520",
+    "id":"115-20-2001",
+    "idProduct":"115201001",
+    "name":"sublime",
+    "unit":"",
+    "extent":"",
+    "brand":"",
+    "price":"",
+    "newPrice":"1.70",
+    "store":"chocolates",
+    "tags":[""],
+    "category":["candy"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

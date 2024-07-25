@@ -1,0 +1,22 @@
+[
+  {
+    "idCategory":"135",
+    "idStore":"13560",
+    "id":"135-60-6001",
+    "idProduct":"135606001",
+    "name":"red label",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"jonny wolker",
+    "price":"",
+    "newPrice":"",
+    "store":"whisky",
+    "category":["liquor-store"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "idCategory":"150",
+    "idStore":"15040",
+    "id":"150-40-4001",
+    "idProduct":"150404001",
+    "name":"leche azul - grande",
+    "unit":"",
+    "extent":"",
+    "brand":"gloria",
+    "price":"",
+    "newPrice":"4.2",
+    "store":"lacteos",
+    "category":["breakfast"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "idCategory":"135",
+    "idStore":"13550",
+    "id":"135-50-5001",
+    "idProduct":"135505001",
+    "name":"russkaya",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"russkaya",
+    "price":"",
+    "newPrice":"",
+    "store":"vodka",
+    "category":["liquor-store"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

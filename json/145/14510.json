@@ -1,0 +1,22 @@
+[
+  {
+    "idCategory":"145",
+    "idStore":"14510",
+    "id":"145-10-1001",
+    "idProduct":"145101001",
+    "name":"kotex",
+    "unit":"",
+    "extent":"",
+    "brand":"",
+    "price":"",
+    "newPrice":"",
+    "store":"toallas higienicas",
+    "category":["health"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

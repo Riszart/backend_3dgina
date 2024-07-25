@@ -1,0 +1,23 @@
+[
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-3001",
+    "idProduct":"115103001",
+    "name":"casino",
+    "unit":"",
+    "extent":"",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":[""],
+    "category":["candy"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

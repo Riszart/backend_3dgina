@@ -1,0 +1,23 @@
+[
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1001",
+    "idProduct":"125101001",
+    "name":"colores",
+    "unit":"",
+    "extent":"",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"libreria",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "idCategory":"150",
+    "idStore":"15060",
+    "id":"150-60-6001",
+    "idProduct":"150606001",
+    "name":"margarina",
+    "unit":"",
+    "extent":"",
+    "brand":"sello de oro",
+    "price":"",
+    "newPrice":"1.5",
+    "store":"untar",
+    "category":["breakfast"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

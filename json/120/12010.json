@@ -1,0 +1,118 @@
+[
+  {
+    "idCategory":"120",
+    "idStore":"12010",
+    "id":"120-10-1001",
+    "idProduct":"120101001",
+    "name":"agua cielo - sin gas",
+    "unit":"625",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "tags":["agua","no retornable","sin gas"],
+    "categories":["soda"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idProduct":"1201002",
+    "name":"agua cielo - sin gas",
+    "unit":"1000",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"bebidas",
+    "tags":["agua","no retornable", "chupon","sin gas"],
+    "categories":["soda"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idProduct":"1201003",
+    "name":"agua cielo - sin gas",
+    "unit":"2500",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"3.00",
+    "store":"bebidas",
+    "tags":["agua","no retornable","sin gas"],
+    "categories":["soda"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idProduct":"1201004",
+    "name":"agua cielo - sin gas",
+    "unit":"7000",
+    "extent":"ml",
+    "brand":"age",
+    "price":"",
+    "newPrice":"8.00",
+    "store":"bebidas",
+    "tags":["agua","no retornable","sin gas"],
+    "categories":["soda"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idProduct":"1201005",
+    "name":"benedictino",
+    "unit":"3000",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"3.00",
+    "store":"bebidas",
+    "tags":["agua","no retornable"],
+    "categories":["soda"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idProduct":"1201006",
+    "name":"san luis - sin gas",
+    "unit":"2500",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"3.50",
+    "store":"bebidas",
+    "tags":["agua","no retornable","sin gas"],
+    "categories":["soda"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

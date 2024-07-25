@@ -1,0 +1,23 @@
+[
+  {
+    "idCategory":"115",
+    "idStore":"11540",
+    "id":"115-40-4001",
+    "idProduct":"115404001",
+    "name":"gomitas",
+    "unit":"",
+    "extent":"",
+    "brand":"ambrosoly",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"gomitas",
+    "tags":[""],
+    "categories":["candy"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

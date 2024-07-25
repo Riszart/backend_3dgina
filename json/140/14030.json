@@ -1,0 +1,23 @@
+[
+  {
+    "idCategory":"140",
+    "idStore":"14030",
+    "id":"140-30-3001",
+    "idProduct":"140303001",
+    "name":"",
+    "unit":"",
+    "extent":"ml",
+    "brand":"",
+    "price":"",
+    "newPrice":"",
+    "store":"lejias",
+    "tags":[],
+    "categories":["cleaning"],
+    "stock":"",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

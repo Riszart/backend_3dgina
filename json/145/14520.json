@@ -1,0 +1,22 @@
+[
+  {
+    "idCategory":"145",
+    "idStore":"14520",
+    "id":"145-20-2001",
+    "idProduct":"145202001",
+    "name":"paracas morado x2",
+    "unit":"",
+    "extent":"",
+    "brand":"paracas",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"papel higienicos",
+    "category":["health"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

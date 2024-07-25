@@ -1,0 +1,23 @@
+[
+  {
+    "idCategory":"130",
+    "idStore":"13010",
+    "id":"130-10-1001",
+    "idProduct":"130101001",
+    "name":"alpiste",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"nutritec",
+    "price":"",
+    "newPrice":"",
+    "store":"aves",
+    "tags":[""],
+    "category":["pets"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

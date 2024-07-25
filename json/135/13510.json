@@ -1,0 +1,23 @@
+[
+  {
+    "idCategory":"135",
+    "idStore":"13510",
+    "id":"135-10-1001",
+    "idProduct":"135101001",
+    "name":"cuzqueña trigo - retornable",
+    "unit":"",
+    "extent":"ml",
+    "brand":"cuzqueña",
+    "price":"",
+    "newPrice":"7.50",
+    "store":"cervezas",
+    "tags":[""],
+    "category":["liquor-store"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-5001",
+    "idProduct":"115505001",
+    "name":"cuates",
+    "unit":"",
+    "extent":"",
+    "brand":"pepsico",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"snacks",
+    "tags":[""],
+    "categories":["candy"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

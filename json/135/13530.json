@@ -1,0 +1,22 @@
+[
+  {
+    "idCategory":"135",
+    "idStore":"13530",
+    "id":"135-30-3001",
+    "idProduct":"135303001",
+    "name":"ron cartavio - black",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"cartavio",
+    "price":"",
+    "newPrice":"",
+    "store":"rons",
+    "category":["liquor-store"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

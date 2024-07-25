@@ -1,0 +1,23 @@
+[
+  {
+    "idCategory":"115",
+    "idStore":"11510",
+    "id":"115-10-1001",
+    "idProduct":"115101001",
+    "name":"colorado",
+    "unit":"",
+    "extent":"",
+    "brand":"ambrosoly",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"caramelos",
+    "tags":[""],
+    "category":["candy"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

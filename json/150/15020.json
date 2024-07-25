@@ -1,0 +1,22 @@
+[
+  {
+    "idCategory":"150",
+    "idStore":"15020",
+    "id":"150-20-2001",
+    "idProduct":"150202001",
+    "name":"huevo de corral",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"",
+    "price":"",
+    "newPrice":"15.00",
+    "store":"huevos",
+    "category":["breakfast"],
+    "stock":"true",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]
