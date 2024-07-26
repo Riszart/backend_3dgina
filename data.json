@@ -16,11 +16,11 @@
       "nameE":"category/candy",
       "id":"115",
       "urls":{
-        "caramelos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/115510.json",
-        "galletas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/115530.json",
-        "chocolates":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/115520.json",
-        "snack":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/11550.json",
-        "gomitas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/115540.json"
+        "caramelos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/11510.json",
+        "galletas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/11530.json",
+        "chocolates":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/11520.json",
+        "snack":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/1150.json",
+        "gomitas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/11540.json"
       },
       "imgCategory":""
     },
@@ -90,7 +90,7 @@
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/imagweqwees.png"
     },
     "category-health":{
-      "name":"cuidado1 personal y salud",
+      "name":"cuidado personal y salud",
       "nameE":"category/health",
       "id":"145",
       "urls":{
