@@ -9,7 +9,7 @@
         "apanar":"",
         "":""
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/3098291.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/market.png"
     },
     "category-candy":{
       "name":"dulces",
@@ -22,7 +22,7 @@
         "snack":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/1150.json",
         "gomitas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/11540.json"
       },
-      "imgCategory":""
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/sweets.png"
     },
     "category-soda":{
       "name":"bebidas",
@@ -34,7 +34,7 @@
         "aguas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12010.json",
         "frugos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12030.json"
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/images.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/drink.png"
     },
     "category-bookshop":{
       "name":"libreria",
@@ -46,7 +46,7 @@
         "oficinas":"",
         "regalos":""
       },
-      "imgCategory":""
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/bookshop.png"
     },
     "category-pets":{
       "name":"alimentos de mascotas",
@@ -57,7 +57,7 @@
         "gato":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13020.json",        
         "aves":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13010.json"
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/8334302.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/pet-shop.png"
     },
     "category-liquor-store":{
       "name":"bebidas alcoholicas",
@@ -72,7 +72,7 @@
         "vodka":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13550.json",
         "listo-para-tomar":""
       },
-      "imgCategory":""
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/liquor-store.png"
     },
     "category-clean-product":{
       "name":"productos de limpieza",
@@ -87,7 +87,7 @@
         "enjuages":"",
         "acido":""
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/imagweqwees.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/clean-product.png"
     },
     "category-health":{
       "name":"cuidado personal y salud",
@@ -99,7 +99,7 @@
         "bebes":"",
         "papel-higienico":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14520.json"
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/imssages.png"
+      "imgCategory":""
     },
     "category-breakfast":{
       "name":"desayuno", 
@@ -113,7 +113,7 @@
         "pan":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15050.json",
         "huevos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15020.json"
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/1163016.png"
+      "imgCategory":""
     }
   },
   {
