@@ -9,7 +9,7 @@
         "apanar":"",
         "":""
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/market.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/market.jpg"
     },
     "category-candy":{
       "name":"dulces",
@@ -22,7 +22,7 @@
         "snack":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/1150.json",
         "gomitas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/115/11540.json"
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/sweets.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/sweets.jpg"
     },
     "category-soda":{
       "name":"bebidas",
@@ -34,7 +34,7 @@
         "aguas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12010.json",
         "frugos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12030.json"
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/drink.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/drink.jpg"
     },
     "category-bookshop":{
       "name":"libreria",
@@ -46,7 +46,7 @@
         "oficinas":"",
         "regalos":""
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/bookshop.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/bookshop.jpg"
     },
     "category-pets":{
       "name":"alimentos de mascotas",
@@ -57,7 +57,7 @@
         "gato":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13020.json",        
         "aves":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13010.json"
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/pet-shop.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/pet-shop.jpg"
     },
     "category-liquor-store":{
       "name":"bebidas alcoholicas",
@@ -72,7 +72,7 @@
         "vodka":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13550.json",
         "listo-para-tomar":""
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/liquor-store.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/liquor-store.jpg"
     },
     "category-clean-product":{
       "name":"productos de limpieza",
@@ -87,7 +87,7 @@
         "enjuages":"",
         "acido":""
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/clean-product.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/clean-product.jpg"
     },
     "category-health":{
       "name":"cuidado personal y salud",
@@ -99,7 +99,7 @@
         "bebes":"",
         "papel-higienico":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14520.json"
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/personal-hygiene.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/personal-hygiene.jpg"
     },
     "category-breakfast":{
       "name":"desayuno", 
@@ -113,7 +113,7 @@
         "pan":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15050.json",
         "huevos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15020.json"
       },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/breakfast.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/breakfast.jpg"
     }
   },
   {
