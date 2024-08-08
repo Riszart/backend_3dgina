@@ -4,18 +4,18 @@
     "idStore":"11010",
     "id":"110-10-1001",
     "idProduct":"110101001",
-    "name":"arroz faraon original",
+    "name":"arroz faraon - anaranjado (granel)",
     "unit":"1",
     "extent":"kg",
-    "brand":"faron",
+    "brand":"faraon",
     "price":"",
     "newPrice":"4.80",
     "store":"menestras",
-    "tags":[""],
+    "tags":["arroz"],
     "category":["market"],
     "stock":"true",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/P%26G/pulses/110101001_arroz-faraon.jpg",
       "url_02":"",
       "url_03":""
       }
