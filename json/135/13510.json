@@ -13,7 +13,7 @@
     "store":"cervezas",
     "tags":[""],
     "category":["liquor-store"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",

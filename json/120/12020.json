@@ -5,7 +5,7 @@
     "id":"120-20-2001",
     "idProduct":"120202001",
     "name":"guarana",
-    "unit":"1",
+    "unit":"1000",
     "extent":"ml",
     "brand":"backus",
     "price":"",
@@ -13,9 +13,9 @@
     "store":"bebidas",
     "tags":["gaseosas"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202001-guarana.webp",
       "url_02":"",
       "url_03":""
       }
@@ -34,9 +34,9 @@
     "store":"bebidas",
     "tags":["gaseosas"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202002-guarana.webp",
       "url_02":"",
       "url_03":""
       }
@@ -55,7 +55,7 @@
     "store":"bebidas",
     "tags":["gaseosas"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -76,7 +76,7 @@
     "store":"bebidas",
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -97,7 +97,7 @@
     "store":"bebidas",
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -118,7 +118,7 @@
     "store":"bebidas",
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -139,9 +139,9 @@
     "store":"bebidas",
     "tags":["gaseosas", "no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202007-coca_cola.webp",
       "url_02":"",
       "url_03":""
       }
@@ -151,7 +151,7 @@
     "idStore":"12020",
     "id":"120-20-2008",
     "idProduct":"120202008",
-    "name":"inka kola",
+    "name":"inca kola",
     "unit":"600",
     "extent":"ml",
     "brand":"linley",
@@ -160,7 +160,7 @@
     "store":"bebidas",
     "tags":["gaseosas", "no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -172,7 +172,7 @@
     "idStore":"12020",
     "id":"120-20-2009",
     "idProduct":"120202009",
-    "name":"inka kola - retornable",
+    "name":"inca kola - retornable",
     "unit":"650",
     "extent":"ml",
     "brand":"linley",
@@ -181,7 +181,7 @@
     "store":"bebidas",
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -193,7 +193,7 @@
     "idStore":"12020",
     "id":"120-20-2010",
     "idProduct":"120202010",
-    "name":"inka kola - retornable",
+    "name":"inca kola - retornable",
     "unit":"1000",
     "extent":"ml",
     "brand":"linley",
@@ -202,7 +202,7 @@
     "store":"bebidas",
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -214,7 +214,7 @@
     "idStore":"12020",
     "id":"120-20-2011",
     "idProduct":"120202011",
-    "name":"inka kola - retornable",
+    "name":"inca kola - retornable",
     "unit":"1500",
     "extent":"ml",
     "brand":"linley",
@@ -223,7 +223,7 @@
     "store":"bebidas",
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -235,7 +235,7 @@
     "idStore":"12020",
     "id":"120-20-2012",
     "idProduct":"120202012",
-    "name":"inka kola - retornable",
+    "name":"inca kola - retornable",
     "unit":"2500",
     "extent":"ml",
     "brand":"linley",
@@ -244,7 +244,7 @@
     "store":"bebidas",
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -256,7 +256,7 @@
     "idStore":"12020",
     "id":"120-20-2013",
     "idProduct":"120202013",
-    "name":"inka kola - retornable",
+    "name":"inca kola - retornable",
     "unit":"3000",
     "extent":"ml",
     "brand":"linley",
@@ -265,9 +265,9 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202013-inka_kola.webp",
       "url_02":"",
       "url_03":""
       }
@@ -286,9 +286,9 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202014-fanta_cola_inglesa.webp",
       "url_02":"",
       "url_03":""
       }
@@ -298,7 +298,7 @@
     "idStore":"12020",
     "id":"120-20-2015",
     "idProduct":"120202015",
-    "name":"fanta",
+    "name":"fanta - naranja",
     "unit":"3000",
     "extent":"ml",
     "brand":"linley",
@@ -307,9 +307,9 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202015-fanta_naranja.webp",
       "url_02":"",
       "url_03":""
       }
@@ -328,9 +328,9 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202016-sprite.webp",
       "url_02":"",
       "url_03":""
       }
@@ -349,7 +349,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -370,7 +370,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -391,7 +391,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -412,7 +412,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -433,7 +433,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -454,7 +454,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -475,7 +475,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -496,9 +496,9 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202024-kr_negra.png",
       "url_02":"",
       "url_03":""
       }
@@ -511,15 +511,15 @@
     "name":"big cola",
     "unit":"350",
     "extent":"ml",
-    "brand":"age",
+    "brand":"aje",
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/",
       "url_02":"",
       "url_03":""
       }
@@ -532,15 +532,15 @@
     "name":"big cola",
     "unit":"1700",
     "extent":"ml",
-    "brand":"age",
+    "brand":"aje",
     "price":"",
     "newPrice":"4.00",
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202026-big_cola.png",
       "url_02":"",
       "url_03":""
       }
@@ -553,15 +553,15 @@
     "name":"big cola",
     "unit":"3000",
     "extent":"ml",
-    "brand":"age",
+    "brand":"aje",
     "price":"",
     "newPrice":"7.00",
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202027-big_cola.png",
       "url_02":"",
       "url_03":""
       }
@@ -574,13 +574,13 @@
     "name":"oro",
     "unit":"350",
     "extent":"ml",
-    "brand":"age",
+    "brand":"aje",
     "price":"",
     "newPrice":"1.00",
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -595,15 +595,15 @@
     "name":"oro",
     "unit":"1700",
     "extent":"ml",
-    "brand":"age",
+    "brand":"aje",
     "price":"",
     "newPrice":"4.00",
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202028-oro.png",
       "url_02":"",
       "url_03":""
       }

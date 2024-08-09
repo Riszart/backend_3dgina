@@ -15,7 +15,7 @@
     "categories":["soda"],
     "stock":"true",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/P%26G/aje/bebidas/120101001-agua_cielo.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120101001-agua_cielo.png",
       "url_02":"",
       "url_03":""
       }
@@ -36,7 +36,7 @@
     "categories":["soda"],
     "stock":"true",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/P%26G/aje/bebidas/120101002-agua_cielo.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120101002-agua_cielo.png",
       "url_02":"",
       "url_03":""
       }
@@ -57,7 +57,7 @@
     "categories":["soda"],
     "stock":"true",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/P%26G/aje/bebidas/120101003-agua_cielo.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120101003-agua_cielo.png",
       "url_02":"",
       "url_03":""
       }
@@ -78,7 +78,7 @@
     "categories":["soda"],
     "stock":"true",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/P%26G/aje/bebidas/120101004-agua_cielo.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120101004-agua_cielo.png",
       "url_02":"",
       "url_03":""
       }
@@ -99,7 +99,7 @@
     "categories":["soda"],
     "stock":"true",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/P%26G/aje/bebidas/120101005-benedictino.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120101005-benedictino.png",
       "url_02":"",
       "url_03":""
       }
@@ -120,7 +120,7 @@
     "categories":["soda"],
     "stock":"true",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/P%26G/lindley/aguas/120101006-san_luis_sin_gas",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/aguas/120101006-san_luis_sin_gas",
       "url_02":"",
       "url_03":""
       }

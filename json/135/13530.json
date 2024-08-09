@@ -12,9 +12,89 @@
     "newPrice":"",
     "store":"rons",
     "category":["liquor-store"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135303001-ron_cartabio_black.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13530",
+    "id":"135-30-3002",
+    "idProduct":"135303002",
+    "name":"ron cartavio - blanco",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"cartavio",
+    "price":"",
+    "newPrice":"",
+    "store":"rons",
+    "category":["liquor-store"],
+    "stock":true,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135303002-ron_cartabio_blanco.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13530",
+    "id":"135-30-3003",
+    "idProduct":"135303003",
+    "name":"ron cartavio - black",
+    "unit":"1000",
+    "extent":"ml",
+    "brand":"cartavio",
+    "price":"",
+    "newPrice":"",
+    "store":"rons",
+    "category":["liquor-store"],
+    "stock":true,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135303003-ron_cartabio_black.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13530",
+    "id":"135-30-3004",
+    "idProduct":"135303004",
+    "name":"ron cartavio - selecto",
+    "unit":"1000",
+    "extent":"ml",
+    "brand":"cartavio",
+    "price":"",
+    "newPrice":"",
+    "store":"rons",
+    "category":["liquor-store"],
+    "stock":true,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135303004-ron_cartabio_selecto.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13530",
+    "id":"135-30-3005",
+    "idProduct":"135303005",
+    "name":"ron cartavio - black barrel",
+    "unit":"1000",
+    "extent":"ml",
+    "brand":"cartavio",
+    "price":"",
+    "newPrice":"",
+    "store":"rons",
+    "category":["liquor-store"],
+    "stock":true,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135303005-ron_cartabio_black_barrel.webp",
       "url_02":"",
       "url_03":""
       }

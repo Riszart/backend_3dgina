@@ -13,7 +13,7 @@
     "store":"libreria",
     "tags":[""],
     "categories":["bookshop"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",

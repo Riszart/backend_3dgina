@@ -13,7 +13,7 @@
     "store":"perro",
     "tags":[""],
     "category":["pets"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",
