@@ -5,16 +5,59 @@
     "id":"150-40-4001",
     "idProduct":"150404001",
     "name":"leche azul - grande",
-    "unit":"",
-    "extent":"",
+    "unit":"390",
+    "extent":"gr",
     "brand":"gloria",
     "price":"",
     "newPrice":"4.2",
     "store":"lacteos",
+    "tags":["leche"],
     "category":["breakfast"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/gloria/milk/150404001-leche_azul.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15040",
+    "id":"150-40-4002",
+    "idProduct":"150404002",
+    "name":"leche roja - grande",
+    "unit":"390",
+    "extent":"gr",
+    "brand":"gloria",
+    "price":"",
+    "newPrice":"4.4",
+    "store":"lacteos",
+    "tags":["leche"],
+    "category":["breakfast"],
+    "stock":true,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/gloria/milk/150404002-leche_azul.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15040",
+    "id":"150-40-4003",
+    "idProduct":"150404003",
+    "name":"leche azul - pequeña",
+    "unit":"170",
+    "extent":"gr",
+    "brand":"gloria",
+    "price":"",
+    "newPrice":"2.2",
+    "store":"lacteos",
+    "tags":["leche"],
+    "category":["breakfast"],
+    "stock":true,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/gloria/milk/150404003-leche_azul.jpg",
       "url_02":"",
       "url_03":""
       }

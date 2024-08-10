@@ -4,7 +4,7 @@
     "idStore":"14020",
     "id":"140-20-2001",
     "idProduct":"140202001",
-    "name":"bolibar - floral",
+    "name":"bolibar - cuidado total",
     "unit":"190",
     "extent":"gr",
     "brand":"alicorp",
@@ -13,9 +13,9 @@
     "store":"jabones",
     "tags":["jabon","ropa"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/jabon/140202001-bolibar_cuidado_total.webp",
       "url_02":"",
       "url_03":""
       }
@@ -34,9 +34,9 @@
     "store":"jabones",
     "tags":["jabon","ropa"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/jabon/140202002-bolibar_limon.webp",
       "url_02":"",
       "url_03":""
       }
@@ -46,7 +46,7 @@
     "idStore":"14020",
     "id":"140-20-2003",
     "idProduct":"140202003",
-    "name":"bolibar - baby & kids",
+    "name":"bolibar - bebés y niños",
     "unit":"190",
     "extent":"gr",
     "brand":"alicorp",
@@ -55,9 +55,9 @@
     "store":"jabones",
     "tags":["jabon","ropa"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/jabon/140202003-bolibar_bebes_ninos.webp",
       "url_02":"",
       "url_03":""
       }
@@ -67,102 +67,18 @@
     "idStore":"14020",
     "id":"140-20-2004",
     "idProduct":"140202004",
-    "name":"neko - extra proteccion",
-    "unit":"125",
+    "name":"bolibar - antibacterial",
+    "unit":"190",
     "extent":"gr",
-    "brand":"johnson & johnson",
+    "brand":"alicorp",
     "price":"",
-    "newPrice":"",
+    "newPrice":"3.00",
     "store":"jabones",
-    "tags":["jabon","cara"],
+    "tags":["jabon","ropa"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"140",
-    "idStore":"14020",
-    "id":"140-20-2005",
-    "idProduct":"140202005",
-    "name":"neko - extra suave",
-    "unit":"125",
-    "extent":"gr",
-    "brand":"johnson & johnson",
-    "price":"",
-    "newPrice":"",
-    "store":"jabones",
-    "tags":["jabon","cara"],
-    "categories":["cleaning"],
-    "stock":"true",
-    "image":{
-      "url_01":"",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"140",
-    "idStore":"14020",
-    "id":"140-20-2006",
-    "idProduct":"140202006",
-    "name":"johnson",
-    "unit":"75",
-    "extent":"gr",
-    "brand":"johnson & johnson",
-    "price":"",
-    "newPrice":"",
-    "store":"jabones",
-    "tags":["jabon","bebe"],
-    "categories":["cleaning"],
-    "stock":"true",
-    "image":{
-      "url_01":"",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"140",
-    "idStore":"14020",
-    "id":"140-20-2007",
-    "idProduct":"140202007",
-    "name":"palmolive",
-    "unit":"75",
-    "extent":"gr",
-    "brand":"palmolive naturals",
-    "price":"",
-    "newPrice":"",
-    "store":"jabones",
-    "tags":["jabon","cara"],
-    "categories":["cleaning"],
-    "stock":"true",
-    "image":{
-      "url_01":"",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"140",
-    "idStore":"14020",
-    "id":"140-20-2008",
-    "idProduct":"140202008",
-    "name":"palmolive",
-    "unit":"75",
-    "extent":"gr",
-    "brand":"palmolive naturals",
-    "price":"",
-    "newPrice":"",
-    "store":"jabones",
-    "tags":["jabon","cara"],
-    "categories":["cleaning"],
-    "stock":"true",
-    "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/jabon/140202004-bolibar_antibacterial.webp",
       "url_02":"",
       "url_03":""
       }

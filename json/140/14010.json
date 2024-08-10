@@ -9,13 +9,13 @@
     "extent":"gr",
     "brand":"p&g",
     "price":"13.50",
-    "newPrice":"10.00",
+    "newPrice":"10.50",
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/P%26G/ariel/ariel-revita-color-750gr.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/detergentes/140101001-ariel_revita_color.webp",
       "url_02":"",
       "url_03":""
       }
@@ -30,13 +30,13 @@
     "extent":"gr",
     "brand":"p&g",
     "price":"13.50",
-    "newPrice":"10.00",
+    "newPrice":"10.50",
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/P%26G/ariel/ariel-detergente-downy-700gr.jpg",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/detergentes/140101002-ariel_toque_de_dawnny.webp",
       "url_02":"",
       "url_03":""
       }
@@ -46,18 +46,18 @@
     "idStore":"14010",
     "id":"140-10-1003",
     "idProduct":"140101003",
-    "name":"ariel - otros",
+    "name":"ariel - pro cuidado",
     "unit":"750",
-    "extent":"kg",
+    "extent":"gr",
     "brand":"p&g",
     "price":"13.50",
-    "newPrice":"10.00",
+    "newPrice":"10.50",
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/detergentes/140101003-ariel_pro_cuidado.webp",
       "url_02":"",
       "url_03":""
       }
@@ -76,7 +76,7 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -97,7 +97,7 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -118,7 +118,7 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -130,18 +130,18 @@
     "idStore":"14010",
     "id":"140-10-1007",
     "idProduct":"140101007",
-    "name":"bolibar",
+    "name":"bolibar - cuidado total",
     "unit":"730",
     "extent":"gr",
     "brand":"alicorp",
     "price":"",
-    "newPrice":"",
+    "newPrice":"9.50",
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101007-bolibar_cuidado_total.webp",
       "url_02":"",
       "url_03":""
       }
@@ -160,7 +160,7 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -181,7 +181,7 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -202,7 +202,7 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -219,13 +219,13 @@
     "extent":"gr",
     "brand":"alicorp",
     "price":"",
-    "newPrice":"",
+    "newPrice":"9.00",
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101011-opal_ultra.webp",
       "url_02":"",
       "url_03":""
       }
@@ -244,9 +244,9 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101012-opal_ultra.webp",
       "url_02":"",
       "url_03":""
       }
@@ -265,7 +265,7 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
       "url_02":"",
@@ -286,9 +286,9 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101014-sapolio.jpg",
       "url_02":"",
       "url_03":""
       }
@@ -307,9 +307,93 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
+    "id":"140-10-1016",
+    "idProduct":"140101016",
+    "name":"ace - petalos florales",
+    "unit":"750",
+    "extent":"gr",
+    "brand":"p&g",
+    "price":"13.50",
+    "newPrice":"10.50",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/detergentes/140101016-ace_petalos_florales.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
+    "id":"140-10-1017",
+    "idProduct":"140101017",
+    "name":"ace - aroma limón",
+    "unit":"750",
+    "extent":"gr",
+    "brand":"p&g",
+    "price":"13.50",
+    "newPrice":"10.50",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/detergentes/140101017-ace_aroma_limon.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
+    "id":"140-10-1018",
+    "idProduct":"140101018",
+    "name":"bolibar - bebes y niños",
+    "unit":"730",
+    "extent":"gr",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"9.50",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101018-bolibar.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
+    "id":"140-10-1020",
+    "idProduct":"140101020",
+    "name":"bolibar - cuidado y suavidad",
+    "unit":"730",
+    "extent":"gr",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"9.50",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101020-bolibar_cuidado_suavidad.webp",
       "url_02":"",
       "url_03":""
       }

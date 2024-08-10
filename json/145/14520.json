@@ -6,15 +6,35 @@
     "idProduct":"145202001",
     "name":"paracas morado x2",
     "unit":"",
-    "extent":"",
+    "extent":"metros",
     "brand":"paracas",
     "price":"",
     "newPrice":"2.00",
     "store":"papel higienicos",
     "category":["health"],
-    "stock":"true",
+    "stock":true,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/paracas/145202001-paracas_morado.png",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14520",
+    "id":"145-20-2002",
+    "idProduct":"145202002",
+    "name":"paracas premium",
+    "unit":"40",
+    "extent":"metros",
+    "brand":"paracas",
+    "price":"",
+    "newPrice":"8.00",
+    "store":"papel higienicos",
+    "category":["health"],
+    "stock":true,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/paracas/145202002-paracas_premium.webp",
       "url_02":"",
       "url_03":""
       }

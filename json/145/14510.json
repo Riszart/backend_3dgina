@@ -12,7 +12,7 @@
     "newPrice":"",
     "store":"toallas higienicas",
     "category":["health"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",

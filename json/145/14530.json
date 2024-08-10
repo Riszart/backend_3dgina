@@ -1,0 +1,107 @@
+[
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-3001",
+    "idProduct":"145303001",
+    "name":"neko - extra proteccion",
+    "unit":"125",
+    "extent":"gr",
+    "brand":"johnson & johnson",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-3002",
+    "idProduct":"145303002",
+    "name":"neko - extra suave",
+    "unit":"125",
+    "extent":"gr",
+    "brand":"johnson & johnson",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-3003",
+    "idProduct":"145303003",
+    "name":"johnson",
+    "unit":"75",
+    "extent":"gr",
+    "brand":"johnson & johnson",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","bebe"],
+    "categories":["cleaning"],
+    "stock":true,
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-3004",
+    "idProduct":"145303004",
+    "name":"palmolive",
+    "unit":"75",
+    "extent":"gr",
+    "brand":"palmolive naturals",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-3005",
+    "idProduct":"145303005",
+    "name":"palmolive",
+    "unit":"75",
+    "extent":"gr",
+    "brand":"palmolive naturals",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

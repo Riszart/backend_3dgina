@@ -12,7 +12,7 @@
     "newPrice":"0.80",
     "store":"cereales",
     "category":["breakfast"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
       "url_02":"",

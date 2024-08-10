@@ -12,7 +12,7 @@
     "newPrice":"1.8",
     "store":"enbutidos",
     "category":["breakfast"],
-    "stock":"true",
+    "stock":false,
     "image":{
       "url_01":"",
       "url_02":"",

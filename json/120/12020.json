@@ -141,7 +141,7 @@
     "categories":["soda"],
     "stock":true,
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202007-coca_cola.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202007-coca_cola.webp",
       "url_02":"",
       "url_03":""
       }
@@ -267,7 +267,7 @@
     "categories":["soda"],
     "stock":true,
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202013-inka_kola.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202013-inka_kola.webp",
       "url_02":"",
       "url_03":""
       }
@@ -288,7 +288,7 @@
     "categories":["soda"],
     "stock":true,
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202014-fanta_cola_inglesa.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202014-fanta_cola_inglesa.webp",
       "url_02":"",
       "url_03":""
       }
@@ -309,7 +309,7 @@
     "categories":["soda"],
     "stock":true,
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202015-fanta_naranja.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202015-fanta_naranja.webp",
       "url_02":"",
       "url_03":""
       }
@@ -330,7 +330,7 @@
     "categories":["soda"],
     "stock":true,
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202016-sprite.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202016-sprite.webp",
       "url_02":"",
       "url_03":""
       }

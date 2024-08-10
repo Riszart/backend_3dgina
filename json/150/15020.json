@@ -12,7 +12,7 @@
     "newPrice":"15.00",
     "store":"huevos",
     "category":["breakfast"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
       "url_02":"",

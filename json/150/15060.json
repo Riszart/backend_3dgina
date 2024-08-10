@@ -12,7 +12,7 @@
     "newPrice":"1.5",
     "store":"untar",
     "category":["breakfast"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
       "url_02":"",

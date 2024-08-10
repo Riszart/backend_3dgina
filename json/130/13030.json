@@ -4,18 +4,60 @@
     "idStore":"13030",
     "id":"130-30-3001",
     "idProduct":"130303001",
-    "name":"ricocan",
+    "name":"ricocan adulto - multisobores",
     "unit":"1",
     "extent":"kg",
     "brand":"ricocan",
     "price":"",
-    "newPrice":"8.00",
+    "newPrice":"12.00",
     "store":"perro",
     "tags":[""],
     "category":["pets"],
     "stock":false,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303001-ricocan_adulto.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13030",
+    "id":"130-30-3002",
+    "idProduct":"130303002",
+    "name":"ricocan adulto - cordero cereales",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocan",
+    "price":"",
+    "newPrice":"12.00",
+    "store":"perro",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303002-ricocan_adulto.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13030",
+    "id":"130-30-3003",
+    "idProduct":"130303003",
+    "name":"ricocan adulto - raza pequeña",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocan",
+    "price":"",
+    "newPrice":"12.00",
+    "store":"perro",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303003-ricocan_adulto.webp",
       "url_02":"",
       "url_03":""
       }

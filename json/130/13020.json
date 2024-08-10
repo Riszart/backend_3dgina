@@ -4,7 +4,7 @@
     "idStore":"13020",
     "id":"130-20-2001",
     "idProduct":"130202001",
-    "name":"ricocat",
+    "name":"ricocat adulto - granel",
     "unit":"1",
     "extent":"kg",
     "brand":"ricocat",
@@ -15,7 +15,196 @@
     "category":["pets"],
     "stock":false,
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202001-ricocat_adulto_granel.jpg",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13020",
+    "id":"130-20-2002",
+    "idProduct":"130202002",
+    "name":"ricocat adulto",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocat",
+    "price":"",
+    "newPrice":"13.00",
+    "store":"gatos",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202002-ricocat_adulto.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13020",
+    "id":"130-20-2003",
+    "idProduct":"130202003",
+    "name":"ricocat adulto",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocat",
+    "price":"",
+    "newPrice":"13.00",
+    "store":"gatos",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202003-ricocat_adulto.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13020",
+    "id":"130-20-2004",
+    "idProduct":"130202004",
+    "name":"ricocat adulto",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocat",
+    "price":"",
+    "newPrice":"13.00",
+    "store":"gatos",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202004-ricocat_adulto.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13020",
+    "id":"130-20-2005",
+    "idProduct":"130202005",
+    "name":"ricocat adultos",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocat",
+    "price":"",
+    "newPrice":"13.00",
+    "store":"gatos",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202005-ricocat_adulto.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13020",
+    "id":"130-20-2006",
+    "idProduct":"130202006",
+    "name":"ricocat pate - adultos",
+    "unit":"330",
+    "extent":"gr",
+    "brand":"ricocat",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"gatos",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202006-ricocat_pate_adulto.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13020",
+    "id":"130-20-2007",
+    "idProduct":"130202007",
+    "name":"ricocat pate - adultos",
+    "unit":"330",
+    "extent":"gr",
+    "brand":"ricocat",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"gatos",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202007-ricocat_pate_adulto.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13020",
+    "id":"130-20-2008",
+    "idProduct":"130202008",
+    "name":"ricocat pate - esterilizados",
+    "unit":"180",
+    "extent":"gr",
+    "brand":"ricocat",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"gatos",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202007-ricocat_pate_esterilizados.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13020",
+    "id":"130-20-2009",
+    "idProduct":"130202009",
+    "name":"ricocat pate - gatitos",
+    "unit":"180",
+    "extent":"gr",
+    "brand":"ricocat",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"gatos",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202009-ricocat_pate_gatitos.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13020",
+    "id":"130-20-2010",
+    "idProduct":"130202010",
+    "name":"ricocat pate - adultos",
+    "unit":"180",
+    "extent":"gr",
+    "brand":"ricocat",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"gatos",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202010-ricocat_pate_adultos.webp",
       "url_02":"",
       "url_03":""
       }

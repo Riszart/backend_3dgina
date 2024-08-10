@@ -12,7 +12,7 @@
     "newPrice":"1.00",
     "store":"panes",
     "category":["breakfast"],
-    "stock":"true",
+    "stock":true,
     "image":{
       "url_01":"",
       "url_02":"",
