@@ -13,7 +13,12 @@
     "store":"galletas",
     "tags":["victoria"],
     "category":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"casino menta",
+      "color_back":"#12ce7f",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103001-casino_menta.png",
       "url_02":"",
@@ -34,7 +39,12 @@
     "store":"galletas",
     "tags":["victoria"],
     "category":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"casino chocolate",
+      "color_back":"#98684f",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103002-casino_chocolate.png",
       "url_02":"",
@@ -46,7 +56,7 @@
     "idStore":"11530",
     "id":"115-30-3003",
     "idProduct":"115103003",
-    "name":"tentacion - chocolate",
+    "name":"tentación - chocolate",
     "unit":"43",
     "extent":"gr",
     "brand":"alicorp",
@@ -55,7 +65,12 @@
     "store":"galletas",
     "tags":["victoria"],
     "category":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"tentación chocolate",
+      "color_back":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103003-tentacion_chocolate.png",
       "url_02":"",
@@ -67,7 +82,7 @@
     "idStore":"11530",
     "id":"115-30-3004",
     "idProduct":"115103004",
-    "name":"tentacion - naranja",
+    "name":"tentación - naranja",
     "unit":"43",
     "extent":"gr",
     "brand":"alicorp",
@@ -76,7 +91,12 @@
     "store":"galletas",
     "tags":["victoria"],
     "category":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"tentación naranja",
+      "color_back":"#ef510a",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103004-tentacion_naranja.png",
       "url_02":"",
@@ -97,7 +117,12 @@
     "store":"galletas",
     "tags":["victoria"],
     "category":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"glacitas chocolate",
+      "color_back":"#5d3a24",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103005-glacitas-chocolate.png",
       "url_02":"",
@@ -118,7 +143,12 @@
     "store":"galletas",
     "tags":["victoria"],
     "category":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"soda v original",
+      "color_back":"#0344ab",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103006-soda_v.png",
       "url_02":"",

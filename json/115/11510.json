@@ -13,7 +13,12 @@
     "store":"caramelos",
     "tags":[""],
     "category":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"",
+      "color_back":"#fe7814",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"",
       "url_02":"",

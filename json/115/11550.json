@@ -13,7 +13,13 @@
     "store":"snacks",
     "tags":["pepsico"],
     "categories":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"los cuates picantes",
+      "color_back_top":"#e15e01",
+      "color_back_bottom":"#ff200c",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115505001-los_cuates_picantes.png",
       "url_02":"",
@@ -34,7 +40,13 @@
     "store":"snacks",
     "tags":["pepsico"],
     "categories":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"piqueo snax original",
+      "color_back_top":"#3b3277",
+      "color_back_bottom":"#efc42e",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115505002-piqueo_snax.png",
       "url_02":"",
@@ -55,7 +67,13 @@
     "store":"snacks",
     "tags":["pepsico"],
     "categories":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"chizitos queso",
+      "color_back_top":"#ff5700",
+      "color_back_bottom":"#004f96",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115505003-chizitos.png",
       "url_02":"",

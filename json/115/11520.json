@@ -4,7 +4,7 @@
     "idStore":"11520",
     "id":"115-20-2001",
     "idProduct":"115201001",
-    "name":"sublime clasico",
+    "name":"sublime clásico",
     "unit":"28",
     "extent":"gr",
     "brand":"nestle",
@@ -13,9 +13,14 @@
     "store":"chocolates",
     "tags":["chocolate"],
     "category":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"sublime clásico",
+      "color_back":"#014aaa",
+      "color_text":"#fbfdfd"
+    },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201001-sublime_clasico.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201001-sublime_clásico.png",
       "url_02":"",
       "url_03":""
       }
@@ -34,7 +39,12 @@
     "store":"chocolates",
     "tags":["chocolate"],
     "category":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"sublime extremo",
+      "color_back":"#014aaa",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201002-sublime_extremo.png",
       "url_02":"",
@@ -55,7 +65,12 @@
     "store":"chocolates",
     "tags":["chocolate","d'onofrio"],
     "category":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"triangulo junior",
+      "color_back":"#d9271b",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201003-triangulo_junior.png",
       "url_02":"",
@@ -67,7 +82,7 @@
     "idStore":"11520",
     "id":"115-20-2004",
     "idProduct":"115201004",
-    "name":"triangulo clasico",
+    "name":"triangulo clásico",
     "unit":"30",
     "extent":"gr",
     "brand":"nestle",
@@ -76,9 +91,14 @@
     "store":"chocolates",
     "tags":["chocolate","d'onofrio"],
     "category":["candy"],
-    "stock":"true",
+    "stock":true,
+    "style-tag":{
+      "name":"triangulo clásico",
+      "color_back":"#d9271b",
+      "color_text":"#fbfdfd"
+    },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201004-triangulo_clasico.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201004-triangulo_clásico.png",
       "url_02":"",
       "url_03":""
       }

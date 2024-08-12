@@ -4,7 +4,7 @@
     "idStore":"13540",
     "id":"135-40-4001",
     "idProduct":"135404001",
-    "name":"intipalka - tannac",
+    "name":"intipalka - tannat",
     "unit":"750",
     "extent":"ml",
     "brand":"intipalka",
@@ -13,6 +13,12 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"intipalka vino tannat",
+      "color_back_top":"#b79b81",
+      "color_back_bottom":"#60252b",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135404001-intipalka_tannac.webp",
       "url_02":"",
@@ -33,6 +39,12 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"intipalka vino malbec",
+      "color_back_top":"#b79b81",
+      "color_back_bottom":"#60252b",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135404002-intipalka_malbec.webp",
       "url_02":"",
@@ -53,6 +65,12 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"intipalka vino syrah",
+      "color_back_top":"#b79b81",
+      "color_back_bottom":"#60252b",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135404003-intipalka_syrah.webp",
       "url_02":"",
@@ -73,6 +91,12 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"vino gran rose tabernero",
+      "color_back_top":"#ec608d",
+      "color_back_bottom":"#ec608d",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135404004-tabernero_gran_rose.webp",
       "url_02":"",
@@ -93,6 +117,12 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"vino borgoña tabernero",
+      "color_back_top":"#ec608d",
+      "color_back_bottom":"#ec608d",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135404005-tabernero_borgona.webp",
       "url_02":"",
@@ -113,6 +143,12 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"vino borgoña santiago queirolo",
+      "color_back_top":"#642435",
+      "color_back_bottom":"#642435",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135404006-santiago_queirolo_borgona.webp",
       "url_02":"",
@@ -133,6 +169,12 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"vino rosé santiago queirolo semiseco",
+      "color_back_top":"#642435",
+      "color_back_bottom":"#642435",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135404007-santiago_queirolo_rose.webp",
       "url_02":"",

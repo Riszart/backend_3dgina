@@ -14,6 +14,12 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
+    "style-tag":{
+      "name":"multisabores adultos todas las razas",
+      "color_back_top":"#5d267b",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303001-ricocan_adulto.webp",
       "url_02":"",
@@ -35,6 +41,12 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
+    "style-tag":{
+      "name":"cordero y cereales adultos med. y gran.",
+      "color_back_top":"#263267",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303002-ricocan_adulto.webp",
       "url_02":"",
@@ -56,8 +68,257 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
+    "style-tag":{
+      "name":"cordero y cereales adultos pequeños",
+      "color_back_top":"#006bb1",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303003-ricocan_adulto.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13030",
+    "id":"130-30-3004",
+    "idProduct":"130303004",
+    "name":"ricocan adulto - cachorros",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocan",
+    "price":"",
+    "newPrice":"12.00",
+    "store":"perro",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "style-tag":{
+      "name":"carne y leche cachorros pequeños",
+      "color_back_top":"#f2a59f",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303004-ricocan_cachorros.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13030",
+    "id":"130-30-3005",
+    "idProduct":"130303005",
+    "name":"ricocan adulto - original",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocan",
+    "price":"",
+    "newPrice":"12.00",
+    "store":"perro",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "style-tag":{
+      "name":"original adultos todas las razas",
+      "color_back_top":"#9f1629",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303005-ricocan_original.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13030",
+    "id":"130-30-3006",
+    "idProduct":"130303006",
+    "name":"ricocan pate - babycan",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocan",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"perro",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "style-tag":{
+      "name":"paté - cachorros babycan",
+      "color_back_top":"#f4aa97",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303006-ricocan_pate.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13030",
+    "id":"130-30-3007",
+    "idProduct":"130303007",
+    "name":"ricocan pate - adulto",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocan",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"perro",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "style-tag":{
+      "name":"paté - adultos carne",
+      "color_back_top":"#9d5e2b",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303007-ricocan_pate.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13030",
+    "id":"130-30-3008",
+    "idProduct":"130303008",
+    "name":"ricocan pate - adulto",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocan",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"perro",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "style-tag":{
+      "name":"paté - adultos cordero",
+      "color_back_top":"#074270",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303008-ricocan_pate.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13030",
+    "id":"130-30-3009",
+    "idProduct":"130303009",
+    "name":"ricocan adulto - granel",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocan",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"perro",
+    "tags":[""],
+    "category":["pets"],
+    "stock":true,
+    "style-tag":{
+      "name":"cordero y cereales adultos pequeños",
+      "color_back_top":"#006bb1",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303009-ricocan_granel.jpg",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13030",
+    "id":"130-30-3010",
+    "idProduct":"130303010",
+    "name":"ricocan adulto - granel",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocan",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"perro",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "style-tag":{
+      "name":"original adultos todas las razas",
+      "color_back_top":"#9f1629",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303010-ricocan_granel.jpg",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13030",
+    "id":"130-30-3011",
+    "idProduct":"130303011",
+    "name":"ricocan shampoo - 4 en 1",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocan",
+    "price":"",
+    "newPrice":"12.00",
+    "store":"perro",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "style-tag":{
+      "name":"shampoo 4 en 1",
+      "color_back_top":"#5a2c82",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303011-ricocan_shampoo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13030",
+    "id":"130-30-3012",
+    "idProduct":"130303012",
+    "name":"ricocan shampoo - antipulgas",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"ricocan",
+    "price":"",
+    "newPrice":"12.00",
+    "store":"perro",
+    "tags":[""],
+    "category":["pets"],
+    "stock":false,
+    "style-tag":{
+      "name":"shampoo antipulgas",
+      "color_back_top":"#233266",
+      "color_back_bottom":"#dc0533",
+      "color_text":"#f7fff9"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303012-ricocan_granel.webp",
       "url_02":"",
       "url_03":""
       }

@@ -14,6 +14,12 @@
     "tags":[""],
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"cuzqueña trigo - retornable",
+      "color_back_top":"#00612e",
+      "color_back_bottom":"#00612e",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/cervezas/135101001-cuzquena_trigo.png",
       "url_02":"",
@@ -35,6 +41,12 @@
     "tags":[""],
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"pilsen - retornable",
+      "color_back_top":"#008b2a",
+      "color_back_bottom":"#008b2a",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/cervezas/135101002-plisen.webp",
       "url_02":"",
@@ -46,7 +58,7 @@
     "idStore":"13510",
     "id":"135-10-1003",
     "idProduct":"135101003",
-    "name":"plisen - retornable",
+    "name":"cuzqueña negra - retornable",
     "unit":"620",
     "extent":"ml",
     "brand":"cuzqueña",
@@ -56,6 +68,12 @@
     "tags":[""],
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"cuzqueña negra - retornable",
+      "color_back_top":"#000000",
+      "color_back_bottom":"#000000",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/cervezas/135101003-cuzquena_negra.webp",
       "url_02":"",
@@ -77,6 +95,12 @@
     "tags":[""],
     "category":["liquor-store"],
     "stock":false,
+    "style-tag":{
+      "name":"cristal - retornable",
+      "color_back_top":"#1d3f8a",
+      "color_back_bottom":"#1d3f8a",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/cervezas/135101004-cristal.jpeg",
       "url_02":"",
@@ -98,6 +122,12 @@
     "tags":[""],
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"pilsen - lata",
+      "color_back_top":"#008b2a",
+      "color_back_bottom":"#008b2a",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/cervezas/135101005-plisen.webp",
       "url_02":"",

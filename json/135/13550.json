@@ -13,6 +13,12 @@
     "store":"vodka",
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"vooka russkaya",
+      "color_back_top":"#3f6bae",
+      "color_back_bottom":"#3f6bae",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135505001-russkaya.webp",
       "url_02":"",
@@ -33,6 +39,12 @@
     "store":"vodka",
     "category":["liquor-store"],
     "stock":true,
+    "style-tag":{
+      "name":"vooka russkaya pink strawberry",
+      "color_back_top":"#f375a4",
+      "color_back_bottom":"#f375a4",
+      "color_text":"#f7fff9"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135505002-russkaya_pink.webp",
       "url_02":"",

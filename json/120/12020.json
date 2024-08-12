@@ -14,6 +14,12 @@
     "tags":["gaseosas"],
     "categories":["soda"],
     "stock":true,
+    "style-tag":{
+      "name":"guarana original",
+      "color_back_top":"#de6a2f",
+      "color_back_bottom":"#de6a2f",
+      "color_text":"#fafcfc"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202001-guarana.webp",
       "url_02":"",
@@ -35,6 +41,12 @@
     "tags":["gaseosas"],
     "categories":["soda"],
     "stock":true,
+    "style-tag":{
+      "name":"guarana original",
+      "color_back_top":"#de6a2f",
+      "color_back_bottom":"#de6a2f",
+      "color_text":"#fafcfc"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202002-guarana.webp",
       "url_02":"",
@@ -56,6 +68,12 @@
     "tags":["gaseosas"],
     "categories":["soda"],
     "stock":false,
+    "style-tag":{
+      "name":"coca cola original",
+      "color_back_top":"#fe0a1a",
+      "color_back_bottom":"#fe0a1a",
+      "color_text":"#fafcfc"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -77,6 +95,12 @@
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
     "stock":false,
+    "style-tag":{
+      "name":"coca cola original",
+      "color_back_top":"#fe0a1a",
+      "color_back_bottom":"#fe0a1a",
+      "color_text":"#fafcfc"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -98,6 +122,12 @@
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
     "stock":false,
+    "style-tag":{
+      "name":"coca cola original",
+      "color_back_top":"#fe0a1a",
+      "color_back_bottom":"#fe0a1a",
+      "color_text":"#fafcfc"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -119,6 +149,12 @@
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
     "stock":false,
+    "style-tag":{
+      "name":"coca cola original",
+      "color_back_top":"#fe0a1a",
+      "color_back_bottom":"#fe0a1a",
+      "color_text":"#fafcfc"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -140,6 +176,12 @@
     "tags":["gaseosas", "no retornable"],
     "categories":["soda"],
     "stock":true,
+    "style-tag":{
+      "name":"coca cola original",
+      "color_back_top":"#fe0a1a",
+      "color_back_bottom":"#fe0a1a",
+      "color_text":"#fafcfc"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202007-coca_cola.webp",
       "url_02":"",
@@ -161,6 +203,12 @@
     "tags":["gaseosas", "no retornable"],
     "categories":["soda"],
     "stock":false,
+    "style-tag":{
+      "name":"inca kola original",
+      "color_back_top":"#ffdf1d",
+      "color_back_bottom":"#ffdf1d",
+      "color_text":"#030303"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -182,6 +230,12 @@
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
     "stock":false,
+    "style-tag":{
+      "name":"inca kola original",
+      "color_back_top":"#ffdf1d",
+      "color_back_bottom":"#ffdf1d",
+      "color_text":"#030303"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -203,6 +257,12 @@
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
     "stock":false,
+    "style-tag":{
+      "name":"inca kola original",
+      "color_back_top":"#ffdf1d",
+      "color_back_bottom":"#ffdf1d",
+      "color_text":"#030303"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -224,6 +284,12 @@
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
     "stock":false,
+    "style-tag":{
+      "name":"inca kola original",
+      "color_back_top":"#ffdf1d",
+      "color_back_bottom":"#ffdf1d",
+      "color_text":"#030303"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -245,6 +311,12 @@
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
     "stock":false,
+    "style-tag":{
+      "name":"inca kola original",
+      "color_back_top":"#ffdf1d",
+      "color_back_bottom":"#ffdf1d",
+      "color_text":"#030303"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -265,6 +337,12 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
+    "style-tag":{
+      "name":"inca kola original",
+      "color_back_top":"#ffdf1d",
+      "color_back_bottom":"#ffdf1d",
+      "color_text":"#030303"
+    },
     "stock":true,
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202013-inka_kola.webp",
@@ -277,7 +355,7 @@
     "idStore":"12020",
     "id":"120-20-2014",
     "idProduct":"120202014",
-    "name":"fanta - cola inglesa",
+    "name":"fanta - kola inglesa",
     "unit":"500",
     "extent":"ml",
     "brand":"linley",
@@ -287,6 +365,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
+    "style-tag":{
+      "name":"kola inglesa",
+      "color_back_top":"#fe1d22",
+      "color_back_bottom":"#fe1d22",
+      "color_text":"#fafcfc"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202014-fanta_cola_inglesa.webp",
       "url_02":"",
@@ -308,6 +392,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
+    "style-tag":{
+      "name":"naranja",
+      "color_back_top":"#fc8704",
+      "color_back_bottom":"#fc8704",
+      "color_text":"#fafcfc"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202015-fanta_naranja.webp",
       "url_02":"",
@@ -329,6 +419,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
+    "style-tag":{
+      "name":"lima - limon",
+      "color_back_top":"#02ae4b",
+      "color_back_bottom":"#02ae4b",
+      "color_text":"#fafcfc"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202016-sprite.webp",
       "url_02":"",
@@ -497,6 +593,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
+    "style-tag":{
+      "name":"kr negra",
+      "color_back_top":"#2c9942",
+      "color_back_bottom":"#2c9942",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202024-kr_negra.png",
       "url_02":"",
@@ -518,6 +620,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":false,
+    "style-tag":{
+      "name":"big cola",
+      "color_back_top":"#df0a1e",
+      "color_back_bottom":"#df0a1e",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/",
       "url_02":"",
@@ -539,6 +647,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
+    "style-tag":{
+      "name":"big cola",
+      "color_back_top":"#df0a1e",
+      "color_back_bottom":"#df0a1e",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202026-big_cola.png",
       "url_02":"",
@@ -560,6 +674,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
+    "style-tag":{
+      "name":"big cola",
+      "color_back_top":"#df0a1e",
+      "color_back_bottom":"#df0a1e",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202027-big_cola.png",
       "url_02":"",
@@ -581,6 +701,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":false,
+    "style-tag":{
+      "name":"sabor de oro",
+      "color_back_top":"#faea00",
+      "color_back_bottom":"#faea00",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -602,6 +728,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
+    "style-tag":{
+      "name":"sabor de oro",
+      "color_back_top":"#faea00",
+      "color_back_bottom":"#faea00",
+      "color_text":"#fbfdfd"
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202028-oro.png",
       "url_02":"",
