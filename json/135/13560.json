@@ -39,7 +39,7 @@
     "store":"whisky",
     "category":["liquor-store"],
     "stock":true,
-    "style_tag":{
+    "styleTag":{
       "name":"whisky black label",
       "color_back_top":"#000000",
       "color_back_bottom":"#000000",
@@ -65,7 +65,7 @@
     "store":"whisky",
     "category":["liquor-store"],
     "stock":true,
-    "style_tag":{
+    "styleTag":{
       "name":"whisky gold label",
       "color_back_top":"#e0b96b",
       "color_back_bottom":"#e0b96b",
