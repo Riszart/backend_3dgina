@@ -14,7 +14,7 @@
     "tags":["victoria"],
     "category":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"casino menta",
       "color_back":"#12ce7f",
       "color_text":"#fbfdfd"
@@ -40,7 +40,7 @@
     "tags":["victoria"],
     "category":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"casino chocolate",
       "color_back":"#98684f",
       "color_text":"#fbfdfd"
@@ -66,7 +66,7 @@
     "tags":["victoria"],
     "category":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"tentación chocolate",
       "color_back":"#905c4e",
       "color_text":"#fbfdfd"
@@ -92,7 +92,7 @@
     "tags":["victoria"],
     "category":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"tentación naranja",
       "color_back":"#ef510a",
       "color_text":"#fbfdfd"
@@ -118,7 +118,7 @@
     "tags":["victoria"],
     "category":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"glacitas chocolate",
       "color_back":"#5d3a24",
       "color_text":"#fbfdfd"
@@ -144,7 +144,7 @@
     "tags":["victoria"],
     "category":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"soda v original",
       "color_back":"#0344ab",
       "color_text":"#fbfdfd"

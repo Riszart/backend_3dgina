@@ -14,7 +14,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"",
       "color_back_top":"#de7031",
       "color_back_bottom":"#2ba7c1",
@@ -41,7 +41,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"pollo, sardina y salmón adultos",
       "color_back_top":"#de7031",
       "color_back_bottom":"#2ba7c1",
@@ -68,7 +68,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"carne, salmón y leche adultos",
       "color_back_top":"#c4463f",
       "color_back_bottom":"#2ba7c1",
@@ -95,7 +95,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"esterilizados adultos",
       "color_back_top":"#a8734e",
       "color_back_bottom":"#2ba7c1",
@@ -122,7 +122,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"festival de sabores adultos",
       "color_back_top":"#5f338d",
       "color_back_bottom":"#2ba7c1",
@@ -149,7 +149,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"paté - adultos pavo e hígado",
       "color_back_top":"#b0734f",
       "color_back_bottom":"#2ba7c1",
@@ -176,7 +176,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"paté - adultos hígado y pollo",
       "color_back_top":"#e16f29",
       "color_back_bottom":"#2ba7c1",
@@ -203,7 +203,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"paté - esterilizados",
       "color_back_top":"#955836",
       "color_back_bottom":"#2ba7c1",
@@ -230,7 +230,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"paté - gatitos pollo y carne",
       "color_back_top":"#f7b9ba",
       "color_back_bottom":"#2ba7c1",
@@ -257,7 +257,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"paté - adultos carne",
       "color_back_top":"#f27876",
       "color_back_bottom":"#2ba7c1",

@@ -14,7 +14,7 @@
     "tags":["arroz"],
     "category":["market"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"arroz faraon",
       "color_back":"#fe7814",
       "color_text":"#fbfdfd"

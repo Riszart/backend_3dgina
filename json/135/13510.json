@@ -14,7 +14,7 @@
     "tags":[""],
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"cuzqueña trigo - retornable",
       "color_back_top":"#00612e",
       "color_back_bottom":"#00612e",
@@ -41,7 +41,7 @@
     "tags":[""],
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"pilsen - retornable",
       "color_back_top":"#008b2a",
       "color_back_bottom":"#008b2a",
@@ -68,7 +68,7 @@
     "tags":[""],
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"cuzqueña negra - retornable",
       "color_back_top":"#000000",
       "color_back_bottom":"#000000",
@@ -95,7 +95,7 @@
     "tags":[""],
     "category":["liquor-store"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"cristal - retornable",
       "color_back_top":"#1d3f8a",
       "color_back_bottom":"#1d3f8a",
@@ -122,7 +122,7 @@
     "tags":[""],
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"pilsen - lata",
       "color_back_top":"#008b2a",
       "color_back_bottom":"#008b2a",

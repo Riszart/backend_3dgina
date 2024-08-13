@@ -14,7 +14,7 @@
     "tags":["agua","no retornable","sin gas"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"agua cielo sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
@@ -41,7 +41,7 @@
     "tags":["agua","no retornable", "chupon","sin gas"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"agua cielo sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
@@ -68,7 +68,7 @@
     "tags":["agua","no retornable","sin gas"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"agua cielo sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
@@ -95,7 +95,7 @@
     "tags":["agua","no retornable","sin gas"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"agua cielo sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
@@ -122,7 +122,7 @@
     "tags":["agua","no retornable"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"benedictino sin gas",
       "color_back_top":"#006a62",
       "color_back_bottom":"#006a62",
@@ -149,7 +149,7 @@
     "tags":["agua","no retornable","sin gas"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"san luis sin gas",
       "color_back_top":"#009dc5",
       "color_back_bottom":"#009dc5",

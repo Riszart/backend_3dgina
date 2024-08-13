@@ -14,7 +14,7 @@
     "tags":["gaseosas"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"guarana original",
       "color_back_top":"#de6a2f",
       "color_back_bottom":"#de6a2f",
@@ -41,7 +41,7 @@
     "tags":["gaseosas"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"guarana original",
       "color_back_top":"#de6a2f",
       "color_back_bottom":"#de6a2f",
@@ -68,7 +68,7 @@
     "tags":["gaseosas"],
     "categories":["soda"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"coca cola original",
       "color_back_top":"#fe0a1a",
       "color_back_bottom":"#fe0a1a",
@@ -95,7 +95,7 @@
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"coca cola original",
       "color_back_top":"#fe0a1a",
       "color_back_bottom":"#fe0a1a",
@@ -122,7 +122,7 @@
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"coca cola original",
       "color_back_top":"#fe0a1a",
       "color_back_bottom":"#fe0a1a",
@@ -149,7 +149,7 @@
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"coca cola original",
       "color_back_top":"#fe0a1a",
       "color_back_bottom":"#fe0a1a",
@@ -176,7 +176,7 @@
     "tags":["gaseosas", "no retornable"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"coca cola original",
       "color_back_top":"#fe0a1a",
       "color_back_bottom":"#fe0a1a",
@@ -203,7 +203,7 @@
     "tags":["gaseosas", "no retornable"],
     "categories":["soda"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"inca kola original",
       "color_back_top":"#ffdf1d",
       "color_back_bottom":"#ffdf1d",
@@ -230,7 +230,7 @@
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"inca kola original",
       "color_back_top":"#ffdf1d",
       "color_back_bottom":"#ffdf1d",
@@ -257,7 +257,7 @@
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"inca kola original",
       "color_back_top":"#ffdf1d",
       "color_back_bottom":"#ffdf1d",
@@ -284,7 +284,7 @@
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"inca kola original",
       "color_back_top":"#ffdf1d",
       "color_back_bottom":"#ffdf1d",
@@ -311,7 +311,7 @@
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"inca kola original",
       "color_back_top":"#ffdf1d",
       "color_back_bottom":"#ffdf1d",
@@ -337,7 +337,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "style-tag":{
+    "styleTag":{
       "name":"inca kola original",
       "color_back_top":"#ffdf1d",
       "color_back_bottom":"#ffdf1d",
@@ -365,7 +365,7 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"kola inglesa",
       "color_back_top":"#fe1d22",
       "color_back_bottom":"#fe1d22",
@@ -392,7 +392,7 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"naranja",
       "color_back_top":"#fc8704",
       "color_back_bottom":"#fc8704",
@@ -419,7 +419,7 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"lima - limon",
       "color_back_top":"#02ae4b",
       "color_back_bottom":"#02ae4b",
@@ -593,7 +593,7 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"kr negra",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
@@ -620,7 +620,7 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"big cola",
       "color_back_top":"#df0a1e",
       "color_back_bottom":"#df0a1e",
@@ -647,7 +647,7 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"big cola",
       "color_back_top":"#df0a1e",
       "color_back_bottom":"#df0a1e",
@@ -674,7 +674,7 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"big cola",
       "color_back_top":"#df0a1e",
       "color_back_bottom":"#df0a1e",
@@ -701,7 +701,7 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"sabor de oro",
       "color_back_top":"#faea00",
       "color_back_bottom":"#faea00",
@@ -728,7 +728,7 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"sabor de oro",
       "color_back_top":"#faea00",
       "color_back_bottom":"#faea00",

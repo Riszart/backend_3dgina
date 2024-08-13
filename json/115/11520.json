@@ -14,7 +14,7 @@
     "tags":["chocolate"],
     "category":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"sublime clásico",
       "color_back":"#014aaa",
       "color_text":"#fbfdfd"
@@ -40,7 +40,7 @@
     "tags":["chocolate"],
     "category":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"sublime extremo",
       "color_back":"#014aaa",
       "color_text":"#fbfdfd"
@@ -66,7 +66,7 @@
     "tags":["chocolate","d'onofrio"],
     "category":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"triangulo junior",
       "color_back":"#d9271b",
       "color_text":"#fbfdfd"
@@ -92,7 +92,7 @@
     "tags":["chocolate","d'onofrio"],
     "category":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"triangulo clásico",
       "color_back":"#d9271b",
       "color_text":"#fbfdfd"

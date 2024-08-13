@@ -14,7 +14,7 @@
     "tags":["pepsico"],
     "categories":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"los cuates picantes",
       "color_back_top":"#e15e01",
       "color_back_bottom":"#ff200c",
@@ -41,7 +41,7 @@
     "tags":["pepsico"],
     "categories":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"piqueo snax original",
       "color_back_top":"#3b3277",
       "color_back_bottom":"#efc42e",
@@ -68,7 +68,7 @@
     "tags":["pepsico"],
     "categories":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"chizitos queso",
       "color_back_top":"#ff5700",
       "color_back_bottom":"#004f96",

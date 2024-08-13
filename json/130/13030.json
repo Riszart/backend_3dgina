@@ -14,7 +14,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"multisabores adultos todas las razas",
       "color_back_top":"#5d267b",
       "color_back_bottom":"#dc0533",
@@ -41,7 +41,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"cordero y cereales adultos med. y gran.",
       "color_back_top":"#263267",
       "color_back_bottom":"#dc0533",
@@ -68,7 +68,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"cordero y cereales adultos pequeños",
       "color_back_top":"#006bb1",
       "color_back_bottom":"#dc0533",
@@ -95,7 +95,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"carne y leche cachorros pequeños",
       "color_back_top":"#f2a59f",
       "color_back_bottom":"#dc0533",
@@ -122,7 +122,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"original adultos todas las razas",
       "color_back_top":"#9f1629",
       "color_back_bottom":"#dc0533",
@@ -149,7 +149,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"paté - cachorros babycan",
       "color_back_top":"#f4aa97",
       "color_back_bottom":"#dc0533",
@@ -176,7 +176,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"paté - adultos carne",
       "color_back_top":"#9d5e2b",
       "color_back_bottom":"#dc0533",
@@ -203,7 +203,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"paté - adultos cordero",
       "color_back_top":"#074270",
       "color_back_bottom":"#dc0533",
@@ -230,7 +230,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"cordero y cereales adultos pequeños",
       "color_back_top":"#006bb1",
       "color_back_bottom":"#dc0533",
@@ -257,7 +257,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"original adultos todas las razas",
       "color_back_top":"#9f1629",
       "color_back_bottom":"#dc0533",
@@ -284,7 +284,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"shampoo 4 en 1",
       "color_back_top":"#5a2c82",
       "color_back_bottom":"#dc0533",
@@ -311,7 +311,7 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
-    "style-tag":{
+    "styleTag":{
       "name":"shampoo antipulgas",
       "color_back_top":"#233266",
       "color_back_bottom":"#dc0533",

@@ -13,7 +13,7 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"intipalka vino tannat",
       "color_back_top":"#b79b81",
       "color_back_bottom":"#60252b",
@@ -39,7 +39,7 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"intipalka vino malbec",
       "color_back_top":"#b79b81",
       "color_back_bottom":"#60252b",
@@ -65,7 +65,7 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"intipalka vino syrah",
       "color_back_top":"#b79b81",
       "color_back_bottom":"#60252b",
@@ -91,7 +91,7 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"vino gran rose tabernero",
       "color_back_top":"#ec608d",
       "color_back_bottom":"#ec608d",
@@ -117,7 +117,7 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"vino borgoña tabernero",
       "color_back_top":"#ec608d",
       "color_back_bottom":"#ec608d",
@@ -143,7 +143,7 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"vino borgoña santiago queirolo",
       "color_back_top":"#642435",
       "color_back_bottom":"#642435",
@@ -169,7 +169,7 @@
     "store":"vinos",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"vino rosé santiago queirolo semiseco",
       "color_back_top":"#642435",
       "color_back_bottom":"#642435",

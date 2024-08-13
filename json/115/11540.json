@@ -14,7 +14,7 @@
     "tags":["molitalia"],
     "categories":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"gomitas ambrosito",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
@@ -41,7 +41,7 @@
     "tags":["molitalia"],
     "categories":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"gomitas ambrosito",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
@@ -68,7 +68,7 @@
     "tags":["molitalia"],
     "categories":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"gomitas flipy",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
@@ -95,7 +95,7 @@
     "tags":["molitalia"],
     "categories":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"gomitas flipy",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
@@ -122,7 +122,7 @@
     "tags":["molitalia"],
     "categories":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"gomitas gusanos acidos",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
@@ -149,7 +149,7 @@
     "tags":["molitalia"],
     "categories":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"gomitas gusanos",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
@@ -176,7 +176,7 @@
     "tags":["molitalia"],
     "categories":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"gomitas cerditos! play",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
@@ -203,7 +203,7 @@
     "tags":["molitalia"],
     "categories":["candy"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"gomitas donas play",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",

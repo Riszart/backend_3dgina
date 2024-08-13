@@ -13,7 +13,7 @@
     "store":"piscos",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"intipalka pisco quebranta",
       "color_back_top":"#39413c",
       "color_back_bottom":"#25609e",
@@ -39,7 +39,7 @@
     "store":"piscos",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"la caravedo pisco acholado",
       "color_back_top":"#8a828a",
       "color_back_bottom":"#8a828a",
@@ -65,7 +65,7 @@
     "store":"piscos",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"la caravedo pisco puro quebranta",
       "color_back_top":"#6e0005",
       "color_back_bottom":"#6e0005",

@@ -13,7 +13,7 @@
     "store":"rons",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"ron cartavio black",
       "color_back_top":"#787978",
       "color_back_bottom":"#181918",
@@ -39,7 +39,7 @@
     "store":"rons",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"ron cartavio blanco",
       "color_back_top":"#3b3c48",
       "color_back_bottom":"#181918",
@@ -65,7 +65,7 @@
     "store":"rons",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"ron cartavio black",
       "color_back_top":"#787978",
       "color_back_bottom":"#181918",
@@ -91,7 +91,7 @@
     "store":"rons",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"ron cartavio selecto 5 años",
       "color_back_top":"#371f18",
       "color_back_bottom":"#181918",
@@ -117,7 +117,7 @@
     "store":"rons",
     "category":["liquor-store"],
     "stock":true,
-    "style-tag":{
+    "styleTag":{
       "name":"ron cartavio black barrel",
       "color_back_top":"#1a1712",
       "color_back_bottom":"#181918",
