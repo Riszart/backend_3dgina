@@ -15,11 +15,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"multisabores adultos todas las razas",
+      "name":"multisabores adultos",
       "color_back_top":"#5d267b",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"todas las razas",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303001-ricocan_adulto.webp",
       "url_02":"",
@@ -42,11 +43,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"cordero y cereales adultos med. y gran.",
+      "name":"adultos med. y gran.",
       "color_back_top":"#263267",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"cordero y cereales",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303002-ricocan_adulto.webp",
       "url_02":"",
@@ -69,11 +71,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"cordero y cereales adultos pequeños",
+      "name":"adultos pequeños",
       "color_back_top":"#006bb1",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"cordero y cereales",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303003-ricocan_adulto.webp",
       "url_02":"",
@@ -96,11 +99,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"carne y leche cachorros pequeños",
+      "name":"cachorros pequeños",
       "color_back_top":"#f2a59f",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"carne y leche",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303004-ricocan_cachorros.webp",
       "url_02":"",
@@ -123,11 +127,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"original adultos todas las razas",
+      "name":"original adultos",
       "color_back_top":"#9f1629",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"todas las razas",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303005-ricocan_original.webp",
       "url_02":"",
@@ -150,11 +155,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"paté - cachorros babycan",
+      "name":"paté - cachorros",
       "color_back_top":"#f4aa97",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"babycan",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303006-ricocan_pate.webp",
       "url_02":"",
@@ -177,11 +183,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"paté - adultos carne",
+      "name":"paté - adultos",
       "color_back_top":"#9d5e2b",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"carne",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303007-ricocan_pate.webp",
       "url_02":"",
@@ -204,11 +211,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"paté - adultos cordero",
+      "name":"paté - adultos",
       "color_back_top":"#074270",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"cordero",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303008-ricocan_pate.webp",
       "url_02":"",
@@ -231,11 +239,12 @@
     "category":["pets"],
     "stock":true,
     "styleTag":{
-      "name":"cordero y cereales adultos pequeños",
+      "name":"adultos pequeños",
       "color_back_top":"#006bb1",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"cordero y cereales ",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303009-ricocan_granel.jpg",
       "url_02":"",
@@ -258,11 +267,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"original adultos todas las razas",
+      "name":"original adultos",
       "color_back_top":"#9f1629",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"todas las razas",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303010-ricocan_granel.jpg",
       "url_02":"",
@@ -285,11 +295,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"shampoo 4 en 1",
+      "name":"4 en 1",
       "color_back_top":"#5a2c82",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"shampoo",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303011-ricocan_shampoo.webp",
       "url_02":"",
@@ -308,15 +319,16 @@
     "price":"",
     "newPrice":"12.00",
     "store":"perro",
-    "tags":[""],
+    "tags":["shampoo"],
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"shampoo antipulgas",
+      "name":"antipulgas",
       "color_back_top":"#233266",
       "color_back_bottom":"#dc0533",
       "color_text":"#f7fff9"
     },
+    "description":"shampoo",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/dogs/130303012-ricocan_granel.webp",
       "url_02":"",

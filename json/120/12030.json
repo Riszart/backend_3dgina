@@ -88,13 +88,19 @@
     "name":"pulp",
     "unit":"145",
     "extent":"ml",
-    "brand":"age",
+    "brand":"aje",
     "price":"",
     "newPrice":"0.70",
     "store":"bebidas",
     "tags":["frugos","no retornable","caja"],
     "categories":["soda"],
     "stock":false,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#",
+      "color_back_bottom":"#",
+      "color_text":"#"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -109,13 +115,19 @@
     "name":"pulp",
     "unit":"1000",
     "extent":"ml",
-    "brand":"age",
+    "brand":"aje",
     "price":"",
     "newPrice":"3.50",
     "store":"bebidas",
     "tags":["frugos","no retornable","caja"],
     "categories":["soda"],
     "stock":false,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#",
+      "color_back_bottom":"#",
+      "color_text":"#"
+    },
     "image":{
       "url_01":"",
       "url_02":"",

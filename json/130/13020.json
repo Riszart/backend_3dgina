@@ -15,11 +15,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"",
+      "name":"adulto",
       "color_back_top":"#de7031",
       "color_back_bottom":"#2ba7c1",
       "color_text":"#f7fff9"
     },
+    "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202001-ricocat_adulto_granel.jpg",
       "url_02":"",
@@ -42,11 +43,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"pollo, sardina y salmón adultos",
+      "name":"adultos",
       "color_back_top":"#de7031",
       "color_back_bottom":"#2ba7c1",
       "color_text":"#f7fff9"
     },
+    "description":"pollo, sardina y salmón",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202002-ricocat_adulto.webp",
       "url_02":"",
@@ -69,11 +71,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"carne, salmón y leche adultos",
+      "name":"adultos",
       "color_back_top":"#c4463f",
       "color_back_bottom":"#2ba7c1",
       "color_text":"#f7fff9"
     },
+    "description":"carne, salmón y leche",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202003-ricocat_adulto.webp",
       "url_02":"",
@@ -101,6 +104,7 @@
       "color_back_bottom":"#2ba7c1",
       "color_text":"#f7fff9"
     },
+    "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202004-ricocat_adulto.webp",
       "url_02":"",
@@ -123,11 +127,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"festival de sabores adultos",
+      "name":"adultos",
       "color_back_top":"#5f338d",
       "color_back_bottom":"#2ba7c1",
       "color_text":"#f7fff9"
     },
+    "description":"festival de sabores",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202005-ricocat_adulto.webp",
       "url_02":"",
@@ -150,11 +155,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"paté - adultos pavo e hígado",
+      "name":"paté - adultos",
       "color_back_top":"#b0734f",
       "color_back_bottom":"#2ba7c1",
       "color_text":"#f7fff9"
     },
+    "description":"pavo e hígado",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202006-ricocat_pate_adulto.webp",
       "url_02":"",
@@ -177,11 +183,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"paté - adultos hígado y pollo",
+      "name":"paté - adultos",
       "color_back_top":"#e16f29",
       "color_back_bottom":"#2ba7c1",
       "color_text":"#f7fff9"
     },
+    "description":"hígado y pollo",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202007-ricocat_pate_adulto.webp",
       "url_02":"",
@@ -209,6 +216,7 @@
       "color_back_bottom":"#2ba7c1",
       "color_text":"#f7fff9"
     },
+    "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202007-ricocat_pate_esterilizados.webp",
       "url_02":"",
@@ -231,11 +239,12 @@
     "category":["pets"],
     "stock":false,
     "styleTag":{
-      "name":"paté - gatitos pollo y carne",
+      "name":"paté - gatitos",
       "color_back_top":"#f7b9ba",
       "color_back_bottom":"#2ba7c1",
       "color_text":"#f7fff9"
     },
+    "description":"pollo y carne",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202009-ricocat_pate_gatitos.webp",
       "url_02":"",
@@ -263,6 +272,7 @@
       "color_back_bottom":"#2ba7c1",
       "color_text":"#f7fff9"
     },
+    "description":"carne",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130202010-ricocat_pate_adultos.webp",
       "url_02":"",

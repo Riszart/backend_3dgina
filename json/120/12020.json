@@ -446,6 +446,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":false,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#",
+      "color_back_bottom":"#",
+      "color_text":"#"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -467,6 +473,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":false,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#",
+      "color_back_bottom":"#",
+      "color_text":"#"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -488,6 +500,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":false,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#",
+      "color_back_bottom":"#",
+      "color_text":"#"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -509,6 +527,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":false,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#",
+      "color_back_bottom":"#",
+      "color_text":"#"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -530,6 +554,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":false,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#",
+      "color_back_bottom":"#",
+      "color_text":"#"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -551,6 +581,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":false,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#",
+      "color_back_bottom":"#",
+      "color_text":"#"
+    },
     "image":{
       "url_01":"",
       "url_02":"",
@@ -572,6 +608,12 @@
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
     "stock":false,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#",
+      "color_back_bottom":"#",
+      "color_text":"#"
+    },
     "image":{
       "url_01":"",
       "url_02":"",

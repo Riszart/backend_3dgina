@@ -15,7 +15,7 @@
     "categories":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"los cuates picantes",
+      "name":"cuates picantes",
       "color_back_top":"#e15e01",
       "color_back_bottom":"#ff200c",
       "color_text":"#fbfdfd"
@@ -42,7 +42,7 @@
     "categories":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"piqueo snax original",
+      "name":"piqueo snax",
       "color_back_top":"#3b3277",
       "color_back_bottom":"#efc42e",
       "color_text":"#fbfdfd"

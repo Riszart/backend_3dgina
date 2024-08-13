@@ -14,6 +14,12 @@
     "tags":[""],
     "category":["pets"],
     "stock":false,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#",
+      "color_back_bottom":"#",
+      "color_text":"#"
+    },
     "image":{
       "url_01":"",
       "url_02":"",

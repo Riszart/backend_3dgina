@@ -16,7 +16,8 @@
     "stock":true,
     "styleTag":{
       "name":"casino menta",
-      "color_back":"#12ce7f",
+      "color_back_top":"#12ce7f",
+      "color_back_bottom":"#12ce7f",
       "color_text":"#fbfdfd"
     },
     "image":{
@@ -42,7 +43,8 @@
     "stock":true,
     "styleTag":{
       "name":"casino chocolate",
-      "color_back":"#98684f",
+      "color_back_top":"#98684f",
+      "color_back_bottom":"#98684f",
       "color_text":"#fbfdfd"
     },
     "image":{
@@ -68,7 +70,8 @@
     "stock":true,
     "styleTag":{
       "name":"tentación chocolate",
-      "color_back":"#905c4e",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
       "color_text":"#fbfdfd"
     },
     "image":{
@@ -94,7 +97,8 @@
     "stock":true,
     "styleTag":{
       "name":"tentación naranja",
-      "color_back":"#ef510a",
+      "color_back_top":"#ef510a",
+      "color_back_bottom":"#ef510a",
       "color_text":"#fbfdfd"
     },
     "image":{
@@ -120,7 +124,8 @@
     "stock":true,
     "styleTag":{
       "name":"glacitas chocolate",
-      "color_back":"#5d3a24",
+      "color_back_top":"#5d3a24",
+      "color_back_bottom":"#5d3a24",
       "color_text":"#fbfdfd"
     },
     "image":{
@@ -146,7 +151,8 @@
     "stock":true,
     "styleTag":{
       "name":"soda v original",
-      "color_back":"#0344ab",
+      "color_back_top":"#0344ab",
+      "color_back_bottom":"#0344ab",
       "color_text":"#fbfdfd"
     },
     "image":{

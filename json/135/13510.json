@@ -11,11 +11,11 @@
     "price":"",
     "newPrice":"7.50",
     "store":"cervezas",
-    "tags":[""],
+    "tags":["retornable"],
     "category":["liquor-store"],
     "stock":true,
     "styleTag":{
-      "name":"cuzqueña trigo - retornable",
+      "name":"cuzqueña trigo",
       "color_back_top":"#00612e",
       "color_back_bottom":"#00612e",
       "color_text":"#f7fff9"
@@ -38,11 +38,11 @@
     "price":"",
     "newPrice":"7.00",
     "store":"cervezas",
-    "tags":[""],
+    "tags":["retornable"],
     "category":["liquor-store"],
     "stock":true,
     "styleTag":{
-      "name":"pilsen - retornable",
+      "name":"pilsen",
       "color_back_top":"#008b2a",
       "color_back_bottom":"#008b2a",
       "color_text":"#f7fff9"
@@ -63,13 +63,13 @@
     "extent":"ml",
     "brand":"cuzqueña",
     "price":"",
-    "newPrice":"7.50",
+    "newPrice":"8.00",
     "store":"cervezas",
-    "tags":[""],
+    "tags":["retornable"],
     "category":["liquor-store"],
     "stock":true,
     "styleTag":{
-      "name":"cuzqueña negra - retornable",
+      "name":"cuzqueña negra",
       "color_back_top":"#000000",
       "color_back_bottom":"#000000",
       "color_text":"#f7fff9"
@@ -90,13 +90,13 @@
     "extent":"ml",
     "brand":"cristal",
     "price":"",
-    "newPrice":"7.50",
+    "newPrice":"6.50",
     "store":"cervezas",
     "tags":[""],
     "category":["liquor-store"],
     "stock":false,
     "styleTag":{
-      "name":"cristal - retornable",
+      "name":"cristal",
       "color_back_top":"#1d3f8a",
       "color_back_bottom":"#1d3f8a",
       "color_text":"#f7fff9"

@@ -16,7 +16,8 @@
     "stock":true,
     "styleTag":{
       "name":"sublime clásico",
-      "color_back":"#014aaa",
+      "color_back_top":"#014aaa",
+      "color_back_bottom":"#014aaa",
       "color_text":"#fbfdfd"
     },
     "image":{
@@ -42,7 +43,8 @@
     "stock":true,
     "styleTag":{
       "name":"sublime extremo",
-      "color_back":"#014aaa",
+      "color_back_top":"#014aaa",
+      "color_back_bottom":"#014aaa",
       "color_text":"#fbfdfd"
     },
     "image":{
@@ -68,7 +70,8 @@
     "stock":true,
     "styleTag":{
       "name":"triangulo junior",
-      "color_back":"#d9271b",
+      "color_back_top":"#d9271b",
+      "color_back_bottom":"#d9271b",
       "color_text":"#fbfdfd"
     },
     "image":{
@@ -94,7 +97,8 @@
     "stock":true,
     "styleTag":{
       "name":"triangulo clásico",
-      "color_back":"#d9271b",
+      "color_back_bottom_top":"#d9271b",
+      "color_back_bottom_bottom":"#d9271b",
       "color_text":"#fbfdfd"
     },
     "image":{

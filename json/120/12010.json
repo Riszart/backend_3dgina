@@ -15,7 +15,7 @@
     "categories":["soda"],
     "stock":true,
     "styleTag":{
-      "name":"agua cielo sin gas",
+      "name":"cielo sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
       "color_text":"#fbfdfd"
@@ -42,7 +42,7 @@
     "categories":["soda"],
     "stock":true,
     "styleTag":{
-      "name":"agua cielo sin gas",
+      "name":"cielo sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
       "color_text":"#fbfdfd"
@@ -69,7 +69,7 @@
     "categories":["soda"],
     "stock":true,
     "styleTag":{
-      "name":"agua cielo sin gas",
+      "name":"cielo sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
       "color_text":"#fbfdfd"
@@ -96,7 +96,7 @@
     "categories":["soda"],
     "stock":true,
     "styleTag":{
-      "name":"agua cielo sin gas",
+      "name":"cielo sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
       "color_text":"#fbfdfd"

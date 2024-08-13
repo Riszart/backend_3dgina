@@ -15,7 +15,7 @@
     "categories":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"gomitas ambrosito",
+      "name":"ambrosito",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
       "color_text":"#fbfdfd"
@@ -42,7 +42,7 @@
     "categories":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"gomitas ambrosito",
+      "name":"ambrosito",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
       "color_text":"#fbfdfd"
@@ -69,7 +69,7 @@
     "categories":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"gomitas flipy",
+      "name":"flipy",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
       "color_text":"#fbfdfd"
@@ -96,7 +96,7 @@
     "categories":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"gomitas flipy",
+      "name":"flipy",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
       "color_text":"#fbfdfd"
@@ -123,7 +123,7 @@
     "categories":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"gomitas gusanos acidos",
+      "name":"gusanos acidos",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
       "color_text":"#fbfdfd"
@@ -150,7 +150,7 @@
     "categories":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"gomitas gusanos",
+      "name":"gusanos",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
       "color_text":"#fbfdfd"
@@ -177,7 +177,7 @@
     "categories":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"gomitas cerditos! play",
+      "name":"cerditos! play",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
       "color_text":"#fbfdfd"
@@ -204,7 +204,7 @@
     "categories":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"gomitas donas play",
+      "name":"donas play",
       "color_back_top":"#cb1a83",
       "color_back_bottom":"#84715e",
       "color_text":"#fbfdfd"
