@@ -13,6 +13,13 @@
     "store":"papel higienicos",
     "category":["health"],
     "stock":true,
+    "styleTag":{
+      "name":"paracas x2",
+      "color_back_top":"##8e2d8e",
+      "color_back_bottom":"#9a6a22",
+      "color_text":"#ffffff"
+    },
+    "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/paracas/145202001-paracas_morado.png",
       "url_02":"",
@@ -33,6 +40,13 @@
     "store":"papel higienicos",
     "category":["health"],
     "stock":true,
+    "styleTag":{
+      "name":"premium",
+      "color_back_top":"#000",
+      "color_back_bottom":"#9a6a22",
+      "color_text":"#fff"
+    },
+    "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/paracas/145202002-paracas_premium.webp",
       "url_02":"",

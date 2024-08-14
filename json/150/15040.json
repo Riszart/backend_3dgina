@@ -14,6 +14,13 @@
     "tags":["leche"],
     "category":["breakfast"],
     "stock":true,
+    "styleTag":{
+      "name":"evaporada",
+      "color_back_top":"#837f88",
+      "color_back_bottom":"#1e294c",
+      "color_text":"#fff"
+    },
+    "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/gloria/milk/150404001-leche_azul.webp",
       "url_02":"",
@@ -35,6 +42,13 @@
     "tags":["leche"],
     "category":["breakfast"],
     "stock":true,
+    "styleTag":{
+      "name":"evaporada",
+      "color_back_top":"#e81d1e",
+      "color_back_bottom":"#1e294c",
+      "color_text":"#fff"
+    },
+    "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/gloria/milk/150404002-leche_azul.webp",
       "url_02":"",
@@ -56,6 +70,13 @@
     "tags":["leche"],
     "category":["breakfast"],
     "stock":true,
+    "styleTag":{
+      "name":"evaporada",
+      "color_back_top":"#837f88",
+      "color_back_bottom":"#1e294c",
+      "color_text":"#fff"
+    },
+    "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/gloria/milk/150404003-leche_azul.jpg",
       "url_02":"",

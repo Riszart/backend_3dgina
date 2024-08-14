@@ -4,7 +4,7 @@
     "idStore":"15010",
     "id":"150-10-1001",
     "idProduct":"150101001",
-    "name":"cereal",
+    "name":"cereal - zuck",
     "unit":"",
     "extent":"gr",
     "brand":"",
@@ -13,6 +13,40 @@
     "store":"cereales",
     "category":["breakfast"],
     "stock":true,
+    "styleTag":{
+      "name":"zuck",
+      "color_back_top":"#010c8e",
+      "color_back_bottom":"#0672d2",
+      "color_text":"#"
+    },
+    "description":"",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15010",
+    "id":"150-10-1002",
+    "idProduct":"150101002",
+    "name":"cereal - fruit",
+    "unit":"",
+    "extent":"gr",
+    "brand":"",
+    "price":"",
+    "newPrice":"0.80",
+    "store":"cereales",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"zuck",
+      "color_back_top":"#71b620",
+      "color_back_bottom":"#0672d2",
+      "color_text":"#"
+    },
+    "description":"",
     "image":{
       "url_01":"",
       "url_02":"",

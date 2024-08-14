@@ -13,6 +13,13 @@
     "store":"huevos",
     "category":["breakfast"],
     "stock":true,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#436e6d",
+      "color_back_bottom":"#2f7b3c",
+      "color_text":"#fff"
+    },
+    "description":"",
     "image":{
       "url_01":"",
       "url_02":"",

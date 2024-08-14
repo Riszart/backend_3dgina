@@ -20,8 +20,9 @@
       "color_back_bottom":"#12ce7f",
       "color_text":"#fbfdfd"
     },
+    "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103001-casino_menta.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103001-casino_menta.webp",
       "url_02":"",
       "url_03":""
       }
@@ -47,8 +48,9 @@
       "color_back_bottom":"#98684f",
       "color_text":"#fbfdfd"
     },
+    "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103002-casino_chocolate.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103002-casino_chocolate.webp",
       "url_02":"",
       "url_03":""
       }
@@ -74,8 +76,9 @@
       "color_back_bottom":"#905c4e",
       "color_text":"#fbfdfd"
     },
+    "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103003-tentacion_chocolate.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103003-tentacion_chocolate.webp",
       "url_02":"",
       "url_03":""
       }
@@ -101,8 +104,9 @@
       "color_back_bottom":"#ef510a",
       "color_text":"#fbfdfd"
     },
+    "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103004-tentacion_naranja.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103004-tentacion_naranja.webp",
       "url_02":"",
       "url_03":""
       }
@@ -128,8 +132,9 @@
       "color_back_bottom":"#5d3a24",
       "color_text":"#fbfdfd"
     },
+    "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103005-glacitas-chocolate.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103005-glacitas-chocolate.webp",
       "url_02":"",
       "url_03":""
       }
@@ -155,8 +160,9 @@
       "color_back_bottom":"#0344ab",
       "color_text":"#fbfdfd"
     },
+    "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103006-soda_v.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103006-soda_v.webp",
       "url_02":"",
       "url_03":""
       }

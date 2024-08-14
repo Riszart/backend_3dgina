@@ -4,7 +4,7 @@
     "idStore":"14510",
     "id":"145-10-1001",
     "idProduct":"145101001",
-    "name":"kotex",
+    "name":"kotex - nocturna",
     "unit":"",
     "extent":"",
     "brand":"",
@@ -13,6 +13,40 @@
     "store":"toallas higienicas",
     "category":["health"],
     "stock":false,
+    "styleTag":{
+      "name":"nocturna",
+      "color_back_top":"#52306d",
+      "color_back_bottom":"#ec99bb",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14510",
+    "id":"145-10-1002",
+    "idProduct":"145101002",
+    "name":"kotex - normal",
+    "unit":"",
+    "extent":"",
+    "brand":"",
+    "price":"",
+    "newPrice":"",
+    "store":"toallas higienicas",
+    "category":["health"],
+    "stock":false,
+    "styleTag":{
+      "name":"normal",
+      "color_back_top":"#e3228e",
+      "color_back_bottom":"#78bc43",
+      "color_text":"#ffffff"
+    },
+    "description":"con alas - tela extra suave",
     "image":{
       "url_01":"",
       "url_02":"",

@@ -4,7 +4,7 @@
     "idStore":"15060",
     "id":"150-60-6001",
     "idProduct":"150606001",
-    "name":"margarina",
+    "name":"margarina - sello de oro",
     "unit":"",
     "extent":"",
     "brand":"sello de oro",
@@ -13,6 +13,13 @@
     "store":"untar",
     "category":["breakfast"],
     "stock":true,
+    "styleTag":{
+      "name":"margarina",
+      "color_back_top":"#feb800",
+      "color_back_bottom":"#ff8201",
+      "color_text":"#fff"
+    },
+    "description":"",
     "image":{
       "url_01":"",
       "url_02":"",

@@ -14,6 +14,13 @@
     "tags":[],
     "categories":["remove_stains"],
     "stock":true,
+    "styleTag":{
+      "name":"quita manchas",
+      "color_back_top":"#7e51a5",
+      "color_back_bottom":"#b187d0",
+      "color_text":"#ffffff"
+    },
+    "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/clorox/140303001-clorox_quita_manchas.png",
       "url_02":"",
@@ -35,6 +42,13 @@
     "tags":[],
     "categories":["remove_stains"],
     "stock":true,
+    "styleTag":{
+      "name":"quita manchas",
+      "color_back_top":"#7e51a5",
+      "color_back_bottom":"#b187d0",
+      "color_text":"#ffffff"
+    },
+    "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/clorox/140303002-clorox_quita_manchas.png",
       "url_02":"",

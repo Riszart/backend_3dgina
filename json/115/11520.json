@@ -20,8 +20,9 @@
       "color_back_bottom":"#014aaa",
       "color_text":"#fbfdfd"
     },
+    "description":"sublime clásico original de 28 gramos",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201001-sublime_clásico.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201001-sublime_clasico.webp",
       "url_02":"",
       "url_03":""
       }
@@ -47,8 +48,9 @@
       "color_back_bottom":"#014aaa",
       "color_text":"#fbfdfd"
     },
+    "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201002-sublime_extremo.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201002-sublime_extremo.webp",
       "url_02":"",
       "url_03":""
       }
@@ -74,6 +76,7 @@
       "color_back_bottom":"#d9271b",
       "color_text":"#fbfdfd"
     },
+    "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201003-triangulo_junior.png",
       "url_02":"",
@@ -97,12 +100,13 @@
     "stock":true,
     "styleTag":{
       "name":"triangulo clásico",
-      "color_back_bottom_top":"#d9271b",
-      "color_back_bottom_bottom":"#d9271b",
+      "color_back_top":"#d9271b",
+      "color_back_bottom":"#d9271b",
       "color_text":"#fbfdfd"
     },
+    "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201004-triangulo_clásico.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115201004-triangulo_clásico.webp",
       "url_02":"",
       "url_03":""
       }

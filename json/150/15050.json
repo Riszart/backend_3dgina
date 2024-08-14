@@ -4,7 +4,7 @@
     "idStore":"15050",
     "id":"150-50-5001",
     "idProduct":"150505001",
-    "name":"pan chavata",
+    "name":"pan ciabatta",
     "unit":"4",
     "extent":"und",
     "brand":"",
@@ -13,6 +13,13 @@
     "store":"panes",
     "category":["breakfast"],
     "stock":true,
+    "styleTag":{
+      "name":"ciabatta",
+      "color_back_top":"#bf6f0f",
+      "color_back_bottom":"#bf6f0f",
+      "color_text":"#fff"
+    },
+    "description":"",
     "image":{
       "url_01":"",
       "url_02":"",
