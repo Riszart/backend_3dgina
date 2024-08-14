@@ -1,0 +1,86 @@
+[
+  {
+    "idCategory":"110",
+    "idStore":"11020",
+    "id":"110-20-1001",
+    "idProduct":"110201001",
+    "name":"arina - sin preparar",
+    "unit":"180",
+    "extent":"gr",
+    "brand":"molitalia",
+    "price":"",
+    "newPrice":"1.30",
+    "store":"menestras",
+    "tags":["arina"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"sin preparar",
+      "color_back_top":"#13452b",
+      "color_back_bottom":"#82705f",
+      "color_text":"#fbfdfd"
+    },
+    "description":"arina de trigo sin preparar de 180 gramos - molitalia",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/menestras/110201001_arina-sin-preparar.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11020",
+    "id":"110-20-1002",
+    "idProduct":"110201002",
+    "name":"arina - sin preparar",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"molitalia",
+    "price":"",
+    "newPrice":"6.50",
+    "store":"menestras",
+    "tags":["arina"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"sin preparar",
+      "color_back_top":"#13452b",
+      "color_back_bottom":"#82705f",
+      "color_text":"#fbfdfd"
+    },
+    "description":"arina de trigo sin preparar de 1 kilogramo - molitalia",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/menestras/110201002_arina-sin-preparar.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11020",
+    "id":"110-20-1002",
+    "idProduct":"110201002",
+    "name":"arina - preparada",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"molitalia",
+    "price":"",
+    "newPrice":"6.50",
+    "store":"menestras",
+    "tags":["arina"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"preparada",
+      "color_back_top":"#13452b",
+      "color_back_bottom":"#82705f",
+      "color_text":"#fbfdfd"
+    },
+    "description":"arina de trigo preparada de 1 kilogramo - molitalia",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/menestras/110201002_arina-sin-preparar.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]
