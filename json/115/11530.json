@@ -3,7 +3,7 @@
     "idCategory":"115",
     "idStore":"11530",
     "id":"115-30-3001",
-    "idProduct":"115103001",
+    "idProduct":"115303001",
     "name":"casino - menta",
     "unit":"43",
     "extent":"gr",
@@ -22,7 +22,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103001-casino_menta.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115303001-casino_menta.webp",
       "url_02":"",
       "url_03":""
       }
@@ -31,7 +31,7 @@
     "idCategory":"115",
     "idStore":"11530",
     "id":"115-30-3002",
-    "idProduct":"115103002",
+    "idProduct":"115303002",
     "name":"casino - chocolate",
     "unit":"43",
     "extent":"gr",
@@ -50,7 +50,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103002-casino_chocolate.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115303002-casino_chocolate.webp",
       "url_02":"",
       "url_03":""
       }
@@ -59,7 +59,7 @@
     "idCategory":"115",
     "idStore":"11530",
     "id":"115-30-3003",
-    "idProduct":"115103003",
+    "idProduct":"115303003",
     "name":"tentación - chocolate",
     "unit":"43",
     "extent":"gr",
@@ -78,7 +78,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103003-tentacion_chocolate.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115303003-tentacion_chocolate.webp",
       "url_02":"",
       "url_03":""
       }
@@ -87,7 +87,7 @@
     "idCategory":"115",
     "idStore":"11530",
     "id":"115-30-3004",
-    "idProduct":"115103004",
+    "idProduct":"115303004",
     "name":"tentación - naranja",
     "unit":"43",
     "extent":"gr",
@@ -106,7 +106,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103004-tentacion_naranja.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115303004-tentacion_naranja.webp",
       "url_02":"",
       "url_03":""
       }
@@ -115,7 +115,7 @@
     "idCategory":"115",
     "idStore":"11530",
     "id":"115-30-3005",
-    "idProduct":"115103005",
+    "idProduct":"115303005",
     "name":"glacitas - chocolate",
     "unit":"32",
     "extent":"gr",
@@ -134,7 +134,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103005-glacitas-chocolate.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115303005-glacitas-chocolate.webp",
       "url_02":"",
       "url_03":""
       }
@@ -143,7 +143,7 @@
     "idCategory":"115",
     "idStore":"11530",
     "id":"115-30-3006",
-    "idProduct":"115103006",
+    "idProduct":"115303006",
     "name":"soda v",
     "unit":"35",
     "extent":"gr",
@@ -162,7 +162,231 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115103006-soda_v.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115303006-soda_v.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-3007",
+    "idProduct":"115303007",
+    "name":"wenazas",
+    "unit":"",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"wenazas",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115303007-wenazas.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-3008",
+    "idProduct":"115303008",
+    "name":"chocman galleta",
+    "unit":"40",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"chocman galleta",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"nuevo costa chocman galleta",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115303008-chocman.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-3009",
+    "idProduct":"115303009",
+    "name":"agua line - taco",
+    "unit":"200",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"3.50",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"agua line",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115303009-agua_line.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-3010",
+    "idProduct":"115303010",
+    "name":"soda line - taco",
+    "unit":"160",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"3.50",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"soda line",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115303010-soda_line.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-3011",
+    "idProduct":"115303011",
+    "name":"integrales",
+    "unit":"37",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"integrales",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"galletas integrales con salvado de trigo",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115303011-integrales.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-3012",
+    "idProduct":"115303012",
+    "name":"fiesta chips",
+    "unit":"34",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"fiesta chips",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"fiesta chips",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115303012-fiesta_chips.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-3013",
+    "idProduct":"115303013",
+    "name":"wafer sabor chocolate",
+    "unit":"105",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"chocolate",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"wafer sabor a chocolate",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115303013-wafer_chocolate.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-3014",
+    "idProduct":"115303014",
+    "name":"nik sabor chocolate",
+    "unit":"72",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.50",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"chocolate",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"wafer sabor a chocolate",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115303014-nik.webp",
       "url_02":"",
       "url_03":""
       }

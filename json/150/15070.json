@@ -1,0 +1,137 @@
+[
+  {
+    "idCategory":"150",
+    "idStore":"15070",
+    "id":"150-70-7001",
+    "idProduct":"150707001",
+    "name":"avena clásica - 3 ositos",
+    "unit":"100",
+    "extent":"gr",
+    "brand":"3 ositos",
+    "price":"",
+    "newPrice":"1.5",
+    "store":"avena",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"clásica",
+      "color_back_top":"#15442b",
+      "color_back_bottom":"#84735f",
+      "color_text":"#fff"
+    },
+    "description":"avena precocida clásica 3 ositos (+7 nutrientes)",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150707001-avena_3_ositos.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15070",
+    "id":"150-70-7002",
+    "idProduct":"150707002",
+    "name":"avena cereales andinos - 3 ositos",
+    "unit":"270",
+    "extent":"gr",
+    "brand":"3 ositos",
+    "price":"",
+    "newPrice":"",
+    "store":"avena",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"cereales andinos",
+      "color_back_top":"#15442b",
+      "color_back_bottom":"#84735f",
+      "color_text":"#fff"
+    },
+    "description":"avena precocida con cereales andinos 3 ositos (+7 nutrientes)",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150707002-avena_cereales_andinos.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15070",
+    "id":"150-70-7003",
+    "idProduct":"150707003",
+    "name":"avena chocolate - 3 ositos",
+    "unit":"180",
+    "extent":"gr",
+    "brand":"3 ositos",
+    "price":"",
+    "newPrice":"",
+    "store":"avena",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"chocolate",
+      "color_back_top":"#15442b",
+      "color_back_bottom":"#84735f",
+      "color_text":"#fff"
+    },
+    "description":"avena precocida con chocolate 3 ositos (+7 nutrientes)",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150707003-avena_chocolate.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15070",
+    "id":"150-70-7004",
+    "idProduct":"150707004",
+    "name":"avena quinua - 3 ositos",
+    "unit":"150",
+    "extent":"gr",
+    "brand":"3 ositos",
+    "price":"",
+    "newPrice":"",
+    "store":"avena",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"quinua",
+      "color_back_top":"#15442b",
+      "color_back_bottom":"#84735f",
+      "color_text":"#fff"
+    },
+    "description":"avena precocida con quinua 3 ositos (+7 nutrientes)",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150707004-avena_quinua.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15070",
+    "id":"150-70-7005",
+    "idProduct":"150707005",
+    "name":"avena maca - 3 ositos",
+    "unit":"150",
+    "extent":"gr",
+    "brand":"3 ositos",
+    "price":"",
+    "newPrice":"",
+    "store":"avena",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"maca",
+      "color_back_top":"#15442b",
+      "color_back_bottom":"#84735f",
+      "color_text":"#fff"
+    },
+    "description":"avena precocida con maca 3 ositos (+7 nutrientes)",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150707005-avena_maca.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

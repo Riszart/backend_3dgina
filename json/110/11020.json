@@ -22,7 +22,7 @@
     },
     "description":"arina de trigo sin preparar de 180 gramos - molitalia",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/menestras/110201001_arina-sin-preparar.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/pulses/110201001_arina-sin-preparar.webp",
       "url_02":"",
       "url_03":""
       }
@@ -50,7 +50,7 @@
     },
     "description":"arina de trigo sin preparar de 1 kilogramo - molitalia",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/menestras/110201002_arina-sin-preparar.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/pulses/110201002_arina-sin-preparar.webp",
       "url_02":"",
       "url_03":""
       }
@@ -58,8 +58,8 @@
   {
     "idCategory":"110",
     "idStore":"11020",
-    "id":"110-20-1002",
-    "idProduct":"110201002",
+    "id":"110-20-1003",
+    "idProduct":"110201003",
     "name":"arina - preparada",
     "unit":"1",
     "extent":"kg",
@@ -78,7 +78,7 @@
     },
     "description":"arina de trigo preparada de 1 kilogramo - molitalia",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/menestras/110201002_arina-sin-preparar.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/pulses/110201003_arina-sin-preparar.webp",
       "url_02":"",
       "url_03":""
       }
