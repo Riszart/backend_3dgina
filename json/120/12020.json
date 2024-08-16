@@ -2,8 +2,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2001",
-    "idProduct":"120202001",
+    "id":"120-20-1001",
+    "idProduct":"120201001",
     "name":"guarana",
     "unit":"1000",
     "extent":"ml",
@@ -21,7 +21,7 @@
       "color_text":"#fafcfc"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202001-guarana.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120201001-guarana.webp",
       "url_02":"",
       "url_03":""
       }
@@ -29,8 +29,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2002",
-    "idProduct":"120202002",
+    "id":"120-20-1002",
+    "idProduct":"120201002",
     "name":"guarana",
     "unit":"3010",
     "extent":"ml",
@@ -48,7 +48,7 @@
       "color_text":"#fafcfc"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120202002-guarana.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/gaseosas/120201002-guarana.webp",
       "url_02":"",
       "url_03":""
       }
@@ -56,8 +56,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2003",
-    "idProduct":"120202003",
+    "id":"120-20-1003",
+    "idProduct":"120201003",
     "name":"coca cola",
     "unit":"600",
     "extent":"ml",
@@ -83,8 +83,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2004",
-    "idProduct":"120202004",
+    "id":"120-20-1004",
+    "idProduct":"120201004",
     "name":"coca cola - retornable",
     "unit":"ml",
     "extent":"l000",
@@ -110,8 +110,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2005",
-    "idProduct":"120202005",
+    "id":"120-20-1005",
+    "idProduct":"120201005",
     "name":"coca cola - retornable",
     "unit":"1500",
     "extent":"ml",
@@ -137,8 +137,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2006",
-    "idProduct":"120202006",
+    "id":"120-20-1006",
+    "idProduct":"120201006",
     "name":"coca cola - retornable",
     "unit":"2500",
     "extent":"ml",
@@ -164,8 +164,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2007",
-    "idProduct":"120202007",
+    "id":"120-20-1007",
+    "idProduct":"120201007",
     "name":"coca cola",
     "unit":"3000",
     "extent":"ml",
@@ -183,7 +183,7 @@
       "color_text":"#fafcfc"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202007-coca_cola.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120201007-coca_cola.webp",
       "url_02":"",
       "url_03":""
       }
@@ -191,8 +191,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2008",
-    "idProduct":"120202008",
+    "id":"120-20-1008",
+    "idProduct":"120201008",
     "name":"inca kola",
     "unit":"600",
     "extent":"ml",
@@ -218,8 +218,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2009",
-    "idProduct":"120202009",
+    "id":"120-20-1009",
+    "idProduct":"120201009",
     "name":"inca kola - retornable",
     "unit":"650",
     "extent":"ml",
@@ -245,8 +245,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2010",
-    "idProduct":"120202010",
+    "id":"120-20-1010",
+    "idProduct":"120201010",
     "name":"inca kola - retornable",
     "unit":"1000",
     "extent":"ml",
@@ -272,8 +272,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2011",
-    "idProduct":"120202011",
+    "id":"120-20-1011",
+    "idProduct":"120201011",
     "name":"inca kola - retornable",
     "unit":"1500",
     "extent":"ml",
@@ -299,8 +299,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2012",
-    "idProduct":"120202012",
+    "id":"120-20-1012",
+    "idProduct":"120201012",
     "name":"inca kola - retornable",
     "unit":"2500",
     "extent":"ml",
@@ -326,8 +326,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2013",
-    "idProduct":"120202013",
+    "id":"120-20-1013",
+    "idProduct":"120201013",
     "name":"inca kola - retornable",
     "unit":"3000",
     "extent":"ml",
@@ -345,7 +345,7 @@
     },
     "stock":true,
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202013-inka_kola.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120201013-inka_kola.webp",
       "url_02":"",
       "url_03":""
       }
@@ -353,8 +353,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2014",
-    "idProduct":"120202014",
+    "id":"120-20-1014",
+    "idProduct":"120201014",
     "name":"fanta - kola inglesa",
     "unit":"500",
     "extent":"ml",
@@ -372,7 +372,7 @@
       "color_text":"#fafcfc"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202014-fanta_cola_inglesa.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120201014-fanta_cola_inglesa.webp",
       "url_02":"",
       "url_03":""
       }
@@ -380,8 +380,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2015",
-    "idProduct":"120202015",
+    "id":"120-20-1015",
+    "idProduct":"120201015",
     "name":"fanta - naranja",
     "unit":"3000",
     "extent":"ml",
@@ -399,7 +399,7 @@
       "color_text":"#fafcfc"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202015-fanta_naranja.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120201015-fanta_naranja.webp",
       "url_02":"",
       "url_03":""
       }
@@ -407,8 +407,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2016",
-    "idProduct":"120202016",
+    "id":"120-20-1016",
+    "idProduct":"120201016",
     "name":"sprite",
     "unit":"3000",
     "extent":"ml",
@@ -426,7 +426,7 @@
       "color_text":"#fafcfc"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120202016-sprite.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120201016-sprite.webp",
       "url_02":"",
       "url_03":""
       }
@@ -434,8 +434,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2017",
-    "idProduct":"120202017",
+    "id":"120-20-1017",
+    "idProduct":"120201017",
     "name":"cool - cola",
     "unit":"350",
     "extent":"ml",
@@ -461,8 +461,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2018",
-    "idProduct":"120202018",
+    "id":"120-20-1018",
+    "idProduct":"120201018",
     "name":"cool - fresh piña",
     "unit":"350",
     "extent":"ml",
@@ -488,8 +488,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2019",
-    "idProduct":"120202019",
+    "id":"120-20-1019",
+    "idProduct":"120201019",
     "name":"cool - amarilla",
     "unit":"350",
     "extent":"ml",
@@ -515,8 +515,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2020",
-    "idProduct":"120202020",
+    "id":"120-20-1020",
+    "idProduct":"120201020",
     "name":"kr - negra",
     "unit":"350",
     "extent":"ml",
@@ -542,8 +542,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2021",
-    "idProduct":"120202021",
+    "id":"120-20-1021",
+    "idProduct":"120201021",
     "name":"kr - roja",
     "unit":"350",
     "extent":"ml",
@@ -569,8 +569,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2022",
-    "idProduct":"120202022",
+    "id":"120-20-1022",
+    "idProduct":"120201022",
     "name":"kr - naranja",
     "unit":"350",
     "extent":"ml",
@@ -596,8 +596,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2023",
-    "idProduct":"120202023",
+    "id":"120-20-1023",
+    "idProduct":"120201023",
     "name":"kr - limon",
     "unit":"350",
     "extent":"ml",
@@ -623,8 +623,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2024",
-    "idProduct":"120202024",
+    "id":"120-20-1024",
+    "idProduct":"120201024",
     "name":"kr - negra",
     "unit":"3000",
     "extent":"ml",
@@ -642,7 +642,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202024-kr_negra.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120201024-kr_negra.png",
       "url_02":"",
       "url_03":""
       }
@@ -650,8 +650,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2025",
-    "idProduct":"120202025",
+    "id":"120-20-1025",
+    "idProduct":"120201025",
     "name":"big cola",
     "unit":"350",
     "extent":"ml",
@@ -677,8 +677,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2026",
-    "idProduct":"120202026",
+    "id":"120-20-1026",
+    "idProduct":"120201026",
     "name":"big cola",
     "unit":"1700",
     "extent":"ml",
@@ -696,7 +696,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202026-big_cola.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120201026-big_cola.png",
       "url_02":"",
       "url_03":""
       }
@@ -704,8 +704,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2027",
-    "idProduct":"120202027",
+    "id":"120-20-1027",
+    "idProduct":"120201027",
     "name":"big cola",
     "unit":"3000",
     "extent":"ml",
@@ -723,7 +723,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202027-big_cola.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120201027-big_cola.png",
       "url_02":"",
       "url_03":""
       }
@@ -731,8 +731,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2028",
-    "idProduct":"120202028",
+    "id":"120-20-1028",
+    "idProduct":"120201028",
     "name":"oro",
     "unit":"350",
     "extent":"ml",
@@ -758,8 +758,8 @@
   {
     "idCategory":"120",
     "idStore":"12020",
-    "id":"120-20-2029",
-    "idProduct":"120202029",
+    "id":"120-20-1029",
+    "idProduct":"120201029",
     "name":"oro",
     "unit":"1700",
     "extent":"ml",
@@ -777,7 +777,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120202028-oro.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120201028-oro.png",
       "url_02":"",
       "url_03":""
       }

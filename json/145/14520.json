@@ -2,8 +2,8 @@
   {
     "idCategory":"145",
     "idStore":"14520",
-    "id":"145-20-2001",
-    "idProduct":"145202001",
+    "id":"145-20-1001",
+    "idProduct":"145201001",
     "name":"paracas morado x2",
     "unit":"",
     "extent":"metros",
@@ -21,7 +21,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/paracas/145202001-paracas_morado.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/paracas/145201001-paracas_morado.png",
       "url_02":"",
       "url_03":""
       }
@@ -29,8 +29,8 @@
   {
     "idCategory":"145",
     "idStore":"14520",
-    "id":"145-20-2002",
-    "idProduct":"145202002",
+    "id":"145-20-1002",
+    "idProduct":"145201002",
     "name":"paracas premium",
     "unit":"40",
     "extent":"metros",
@@ -48,7 +48,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/paracas/145202002-paracas_premium.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/paracas/145201002-paracas_premium.webp",
       "url_02":"",
       "url_03":""
       }

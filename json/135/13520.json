@@ -2,8 +2,8 @@
   {
     "idCategory":"135",
     "idStore":"13520",
-    "id":"135-20-2001",
-    "idProduct":"135202001",
+    "id":"135-20-1001",
+    "idProduct":"135201001",
     "name":"intipalka - quebranta",
     "unit":"750",
     "extent":"ml",
@@ -20,7 +20,7 @@
       "color_text":"#f7fff9"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135202001-intipalka_quebranta.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135201001-intipalka_quebranta.webp",
       "url_02":"",
       "url_03":""
       }
@@ -28,8 +28,8 @@
   {
     "idCategory":"135",
     "idStore":"13520",
-    "id":"135-20-2002",
-    "idProduct":"135202002",
+    "id":"135-20-1002",
+    "idProduct":"135201002",
     "name":"la caravedo - acholado",
     "unit":"750",
     "extent":"ml",
@@ -46,7 +46,7 @@
       "color_text":"#f7fff9"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135202002-la_caravedo_acholado.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135201002-la_caravedo_acholado.webp",
       "url_02":"",
       "url_03":""
       }
@@ -54,8 +54,8 @@
   {
     "idCategory":"135",
     "idStore":"13520",
-    "id":"135-20-2003",
-    "idProduct":"135202003",
+    "id":"135-20-1003",
+    "idProduct":"135201003",
     "name":"la caravedo - quebranta",
     "unit":"750",
     "extent":"ml",
@@ -71,8 +71,9 @@
       "color_back_bottom":"#6e0005",
       "color_text":"#f7fff9"
     },
+    "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135202003-la_caravedo_quebranta.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135201003-la_caravedo_quebranta.webp",
       "url_02":"",
       "url_03":""
       }

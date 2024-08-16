@@ -2,8 +2,8 @@
   {
     "idCategory":"150",
     "idStore":"15070",
-    "id":"150-70-7001",
-    "idProduct":"150707001",
+    "id":"150-70-1001",
+    "idProduct":"150701001",
     "name":"avena clásica - 3 ositos",
     "unit":"100",
     "extent":"gr",
@@ -21,7 +21,7 @@
     },
     "description":"avena precocida clásica 3 ositos (+7 nutrientes)",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150707001-avena_3_ositos.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150701001-avena_3_ositos.webp",
       "url_02":"",
       "url_03":""
       }
@@ -29,8 +29,8 @@
   {
     "idCategory":"150",
     "idStore":"15070",
-    "id":"150-70-7002",
-    "idProduct":"150707002",
+    "id":"150-70-1002",
+    "idProduct":"150701002",
     "name":"avena cereales andinos - 3 ositos",
     "unit":"270",
     "extent":"gr",
@@ -48,7 +48,7 @@
     },
     "description":"avena precocida con cereales andinos 3 ositos (+7 nutrientes)",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150707002-avena_cereales_andinos.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150701002-avena_cereales_andinos.webp",
       "url_02":"",
       "url_03":""
       }
@@ -56,8 +56,8 @@
   {
     "idCategory":"150",
     "idStore":"15070",
-    "id":"150-70-7003",
-    "idProduct":"150707003",
+    "id":"150-70-1003",
+    "idProduct":"150701003",
     "name":"avena chocolate - 3 ositos",
     "unit":"180",
     "extent":"gr",
@@ -75,7 +75,7 @@
     },
     "description":"avena precocida con chocolate 3 ositos (+7 nutrientes)",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150707003-avena_chocolate.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150701003-avena_chocolate.webp",
       "url_02":"",
       "url_03":""
       }
@@ -83,8 +83,8 @@
   {
     "idCategory":"150",
     "idStore":"15070",
-    "id":"150-70-7004",
-    "idProduct":"150707004",
+    "id":"150-70-1004",
+    "idProduct":"150701004",
     "name":"avena quinua - 3 ositos",
     "unit":"150",
     "extent":"gr",
@@ -102,7 +102,7 @@
     },
     "description":"avena precocida con quinua 3 ositos (+7 nutrientes)",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150707004-avena_quinua.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150701004-avena_quinua.webp",
       "url_02":"",
       "url_03":""
       }
@@ -110,8 +110,8 @@
   {
     "idCategory":"150",
     "idStore":"15070",
-    "id":"150-70-7005",
-    "idProduct":"150707005",
+    "id":"150-70-1005",
+    "idProduct":"150701005",
     "name":"avena maca - 3 ositos",
     "unit":"150",
     "extent":"gr",
@@ -129,7 +129,7 @@
     },
     "description":"avena precocida con maca 3 ositos (+7 nutrientes)",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150707005-avena_maca.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ositos/150701005-avena_maca.webp",
       "url_02":"",
       "url_03":""
       }

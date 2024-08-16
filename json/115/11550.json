@@ -2,8 +2,8 @@
   {
     "idCategory":"115",
     "idStore":"11550",
-    "id":"115-50-5001",
-    "idProduct":"115505001",
+    "id":"115-50-1001",
+    "idProduct":"115501001",
     "name":"los cuates - picantes",
     "unit":"45",
     "extent":"gr",
@@ -21,7 +21,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115505001-los_cuates_picantes.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115501001-los_cuates_picantes.png",
       "url_02":"",
       "url_03":""
       }
@@ -29,8 +29,8 @@
   {
     "idCategory":"115",
     "idStore":"11550",
-    "id":"115-50-5002",
-    "idProduct":"115505002",
+    "id":"115-50-1002",
+    "idProduct":"115501002",
     "name":"piqueo snax",
     "unit":"50gr",
     "extent":"",
@@ -48,7 +48,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115505002-piqueo_snax.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115501002-piqueo_snax.png",
       "url_02":"",
       "url_03":""
       }
@@ -56,8 +56,8 @@
   {
     "idCategory":"115",
     "idStore":"11550",
-    "id":"115-50-5003",
-    "idProduct":"115505003",
+    "id":"115-50-1003",
+    "idProduct":"115501003",
     "name":"chizitos",
     "unit":"18gr",
     "extent":"",
@@ -75,7 +75,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115505003-chizitos.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115501003-chizitos.png",
       "url_02":"",
       "url_03":""
       }

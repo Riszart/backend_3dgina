@@ -2,8 +2,8 @@
   {
     "idCategory":"115",
     "idStore":"11540",
-    "id":"115-40-4001",
-    "idProduct":"115404001",
+    "id":"115-40-1001",
+    "idProduct":"115401001",
     "name":"ambrosito",
     "unit":"90",
     "extent":"gr",
@@ -21,7 +21,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115404001-ambrosito.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115401001-ambrosito.png",
       "url_02":"",
       "url_03":""
       }
@@ -29,8 +29,8 @@
   {
     "idCategory":"115",
     "idStore":"11540",
-    "id":"115-40-4002",
-    "idProduct":"115404002",
+    "id":"115-40-1002",
+    "idProduct":"115401002",
     "name":"ambrosito",
     "unit":"25",
     "extent":"gr",
@@ -48,7 +48,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115404002-ambrosito.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115401002-ambrosito.png",
       "url_02":"",
       "url_03":""
       }
@@ -56,8 +56,8 @@
   {
     "idCategory":"115",
     "idStore":"11540",
-    "id":"115-40-4003",
-    "idProduct":"115404003",
+    "id":"115-40-1003",
+    "idProduct":"115401003",
     "name":"flipy",
     "unit":"25",
     "extent":"gr",
@@ -75,7 +75,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115404003-flipy.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115401003-flipy.png",
       "url_02":"",
       "url_03":""
       }
@@ -83,8 +83,8 @@
   {
     "idCategory":"115",
     "idStore":"11540",
-    "id":"115-40-4004",
-    "idProduct":"115404004",
+    "id":"115-40-1004",
+    "idProduct":"115401004",
     "name":"flipy",
     "unit":"90",
     "extent":"gr",
@@ -102,7 +102,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115404004-flipy.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115401004-flipy.png",
       "url_02":"",
       "url_03":""
       }
@@ -110,8 +110,8 @@
   {
     "idCategory":"115",
     "idStore":"11540",
-    "id":"115-40-4005",
-    "idProduct":"115404005",
+    "id":"115-40-1005",
+    "idProduct":"115401005",
     "name":"gusanos - acidos",
     "unit":"90",
     "extent":"gr",
@@ -129,7 +129,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115404005-gusanos_acidos.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115401005-gusanos_acidos.png",
       "url_02":"",
       "url_03":""
       }
@@ -137,8 +137,8 @@
   {
     "idCategory":"115",
     "idStore":"11540",
-    "id":"115-40-4006",
-    "idProduct":"115404006",
+    "id":"115-40-1006",
+    "idProduct":"115401006",
     "name":"gusanos",
     "unit":"90",
     "extent":"gr",
@@ -156,7 +156,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115404006-gusanos.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115401006-gusanos.png",
       "url_02":"",
       "url_03":""
       }
@@ -164,8 +164,8 @@
   {
     "idCategory":"115",
     "idStore":"11540",
-    "id":"115-40-4007",
-    "idProduct":"115404007",
+    "id":"115-40-1007",
+    "idProduct":"115401007",
     "name":"cerditos! play",
     "unit":"70",
     "extent":"gr",
@@ -183,7 +183,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115404007-cerditos_play.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115401007-cerditos_play.png",
       "url_02":"",
       "url_03":""
       }
@@ -191,8 +191,8 @@
   {
     "idCategory":"115",
     "idStore":"11540",
-    "id":"115-40-4008",
-    "idProduct":"115404008",
+    "id":"115-40-1008",
+    "idProduct":"115401008",
     "name":"donas play",
     "unit":"70",
     "extent":"gr",
@@ -210,7 +210,7 @@
       "color_text":"#fbfdfd"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115404008-donas_play.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/gummies/115401008-donas_play.png",
       "url_02":"",
       "url_03":""
       }
