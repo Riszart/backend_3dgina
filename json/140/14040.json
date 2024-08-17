@@ -5,11 +5,11 @@
     "id":"140-40-1001",
     "idProduct":"140401001",
     "name":"clorox - quita manchas",
-    "unit":"",
-    "extent":"",
+    "unit":"580",
+    "extent":"ml",
     "brand":"clorox",
     "price":"",
-    "newPrice":"",
+    "newPrice":"4.10",
     "store":"quita manchas",
     "tags":[],
     "categories":["remove_stains"],
@@ -22,7 +22,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/clorox/140303001-clorox_quita_manchas.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/clorox/",
       "url_02":"",
       "url_03":""
       }
@@ -33,11 +33,11 @@
     "id":"140-40-1002",
     "idProduct":"140401002",
     "name":"clorox - quita manchas",
-    "unit":"",
-    "extent":"",
+    "unit":"292",
+    "extent":"ml",
     "brand":"clorox",
     "price":"",
-    "newPrice":"",
+    "newPrice":"2.70",
     "store":"quita manchas",
     "tags":[],
     "categories":["remove_stains"],
@@ -50,7 +50,91 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/clorox/140303002-clorox_quita_manchas.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/clorox/",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14040",
+    "id":"140-40-1003",
+    "idProduct":"140401003",
+    "name":"clorox - quita manchas",
+    "unit":"",
+    "extent":"ml",
+    "brand":"clorox",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"quita manchas",
+    "tags":[],
+    "categories":["remove_stains"],
+    "stock":true,
+    "styleTag":{
+      "name":"quita manchas",
+      "color_back_top":"#7e51a5",
+      "color_back_bottom":"#b187d0",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/clorox/",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14040",
+    "id":"140-40-1004",
+    "idProduct":"140401004",
+    "name":"sapolio ropa color",
+    "unit":"550",
+    "extent":"ml",
+    "brand":"sapolio",
+    "price":"",
+    "newPrice":"3.00",
+    "store":"quita manchas",
+    "tags":[],
+    "categories":["remove_stains"],
+    "stock":true,
+    "styleTag":{
+      "name":"ropa color",
+      "color_back_top":"#7e51a5",
+      "color_back_bottom":"#b187d0",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/lejia/140401004-quita_manchas.png",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14040",
+    "id":"140-40-1005",
+    "idProduct":"140401005",
+    "name":"sapolio ropa color",
+    "unit":"265",
+    "extent":"ml",
+    "brand":"sapolio",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"quita manchas",
+    "tags":[],
+    "categories":["remove_stains"],
+    "stock":true,
+    "styleTag":{
+      "name":"ropa color",
+      "color_back_top":"#7e51a5",
+      "color_back_bottom":"#b187d0",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/lejia/140401005-quita_manchas.jpg",
       "url_02":"",
       "url_03":""
       }

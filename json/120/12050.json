@@ -1,0 +1,114 @@
+[
+  {
+    "idCategory":"120",
+    "idStore":"12050",
+    "id":"120-50-1001",
+    "idProduct":"120501001",
+    "name":"kris citrus punch",
+    "unit":"400",
+    "extent":"ml",
+    "brand":"ism",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "tags":["citrus","no retornable"],
+    "categories":["soda"],
+    "stock":false,
+    "styleTag":{
+      "name":"citrus",
+      "color_back_top":"#fe6716",
+      "color_back_bottom":"#f78c0c",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/ism/120501001-kris.png",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12050",
+    "id":"120-50-1002",
+    "idProduct":"120501002",
+    "name":"kris durazno punch",
+    "unit":"400",
+    "extent":"ml",
+    "brand":"ism",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "tags":["citrus","no retornable"],
+    "categories":["soda"],
+    "stock":false,
+    "styleTag":{
+      "name":"durazno",
+      "color_back_top":"#fe6716",
+      "color_back_bottom":"#f78c0c",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/ism/120501002-kris.png",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12050",
+    "id":"120-50-1003",
+    "idProduct":"120501003",
+    "name":"kris red punch",
+    "unit":"400",
+    "extent":"ml",
+    "brand":"ism",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "tags":["citrus","no retornable"],
+    "categories":["soda"],
+    "stock":false,
+    "styleTag":{
+      "name":"red",
+      "color_back_top":"#fe6716",
+      "color_back_bottom":"#f78c0c",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/ism/120501003-kris.png",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12050",
+    "id":"120-50-1004",
+    "idProduct":"120501004",
+    "name":"kris green punch",
+    "unit":"400",
+    "extent":"ml",
+    "brand":"ism",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "tags":["citrus","no retornable"],
+    "categories":["soda"],
+    "stock":false,
+    "styleTag":{
+      "name":"green",
+      "color_back_top":"#fe6716",
+      "color_back_bottom":"#f78c0c",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/ism/120501004-kris.png",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

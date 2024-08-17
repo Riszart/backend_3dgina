@@ -5,11 +5,11 @@
     "id":"145-10-1001",
     "idProduct":"145101001",
     "name":"kotex - nocturna",
-    "unit":"",
-    "extent":"",
-    "brand":"",
+    "unit":"8",
+    "extent":"und",
+    "brand":"kotex",
     "price":"",
-    "newPrice":"",
+    "newPrice":"6.00",
     "store":"toallas higienicas",
     "category":["health"],
     "stock":false,
@@ -19,9 +19,9 @@
       "color_back_bottom":"#ec99bb",
       "color_text":"#ffffff"
     },
-    "description":"",
+    "description":"absorbe instantaneamente el flujo interno",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/kotes/145101001-kotex.webp",
       "url_02":"",
       "url_03":""
       }
@@ -32,11 +32,11 @@
     "id":"145-10-1002",
     "idProduct":"145101002",
     "name":"kotex - normal",
-    "unit":"",
-    "extent":"",
-    "brand":"",
+    "unit":"10",
+    "extent":"und",
+    "brand":"kotex",
     "price":"",
-    "newPrice":"",
+    "newPrice":"5.50",
     "store":"toallas higienicas",
     "category":["health"],
     "stock":false,
@@ -46,9 +46,144 @@
       "color_back_bottom":"#78bc43",
       "color_text":"#ffffff"
     },
-    "description":"con alas - tela extra suave",
+    "description":"absorbe 2 veces mas rapido",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/kotes/145101002-kotex.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14510",
+    "id":"145-10-1003",
+    "idProduct":"145101003",
+    "name":"ladysoft normal",
+    "unit":"10",
+    "extent":"und",
+    "brand":"ladysoft",
+    "price":"",
+    "newPrice":"",
+    "store":"toallas higienicas",
+    "category":["health"],
+    "stock":false,
+    "styleTag":{
+      "name":"normal",
+      "color_back_top":"#9aca3c",
+      "color_back_bottom":"#eb068c",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/ladysoft/145101003-ladysoft.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14510",
+    "id":"145-10-1004",
+    "idProduct":"145101004",
+    "name":"ladysoft nocturna normal",
+    "unit":"10",
+    "extent":"und",
+    "brand":"ladysoft",
+    "price":"",
+    "newPrice":"",
+    "store":"toallas higienicas",
+    "category":["health"],
+    "stock":false,
+    "styleTag":{
+      "name":"normal",
+      "color_back_top":"#82318c",
+      "color_back_bottom":"#1e1b1e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/ladysoft/145101004-ladysoft.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14510",
+    "id":"145-10-1005",
+    "idProduct":"145101005",
+    "name":"nosotras clasico",
+    "unit":"10",
+    "extent":"und",
+    "brand":"nosotras",
+    "price":"",
+    "newPrice":"",
+    "store":"toallas higienicas",
+    "category":["health"],
+    "stock":false,
+    "styleTag":{
+      "name":"clasico",
+      "color_back_top":"#96cb03",
+      "color_back_bottom":"#e21b92",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/nosotras/145101005-nosotras.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14510",
+    "id":"145-10-1006",
+    "idProduct":"145101006",
+    "name":"nosotras rapigel",
+    "unit":"10",
+    "extent":"und",
+    "brand":"nosotras",
+    "price":"",
+    "newPrice":"",
+    "store":"toallas higienicas",
+    "category":["health"],
+    "stock":false,
+    "styleTag":{
+      "name":"rapigel",
+      "color_back_top":"#3a5ca4",
+      "color_back_bottom":"#e21b92",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/nosotras/145101006-nosotras.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14510",
+    "id":"145-10-1007",
+    "idProduct":"145101007",
+    "name":"nosotras nocturna",
+    "unit":"10",
+    "extent":"und",
+    "brand":"nosotras",
+    "price":"",
+    "newPrice":"",
+    "store":"toallas higienicas",
+    "category":["health"],
+    "stock":false,
+    "styleTag":{
+      "name":"nocturna",
+      "color_back_top":"#591288",
+      "color_back_bottom":"#e21b92",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/nosotras/145101007-nosotras.webp",
       "url_02":"",
       "url_03":""
       }

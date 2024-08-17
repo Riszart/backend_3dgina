@@ -134,7 +134,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101005-bolibar_cuidado_total.webp",
       "url_02":"",
       "url_03":""
       }
@@ -162,7 +162,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101006-bolibar_cuidado_total.webp",
       "url_02":"",
       "url_03":""
       }
@@ -218,7 +218,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101008-marsella.webp",
       "url_02":"",
       "url_03":""
       }
@@ -246,7 +246,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101009-marsella.webp",
       "url_02":"",
       "url_03":""
       }
@@ -274,7 +274,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101010-marsella.webp",
       "url_02":"",
       "url_03":""
       }
@@ -358,7 +358,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101013-opal_ultra.webp",
       "url_02":"",
       "url_03":""
       }
@@ -386,7 +386,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101014-sapolio.jpg",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101014-sapolio.webp",
       "url_02":"",
       "url_03":""
       }
@@ -405,7 +405,7 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"aroma limón",
       "color_back_top":"#019fdf",
@@ -506,6 +506,34 @@
   {
     "idCategory":"140",
     "idStore":"14010",
+    "id":"140-10-1019",
+    "idProduct":"140101019",
+    "name":"sapolio",
+    "unit":"750",
+    "extent":"gr",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"7.50",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"detergente",
+      "color_back_top":"#f2dc34",
+      "color_back_bottom":"#d53d2e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101019-sapolio.jpg",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
     "id":"140-10-1020",
     "idProduct":"140101020",
     "name":"bolibar - cuidado y suavidad",
@@ -527,34 +555,6 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101020-bolibar_cuidado_suavidad.webp",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"140",
-    "idStore":"14010",
-    "id":"140-10-1014",
-    "idProduct":"140101014",
-    "name":"sapolio",
-    "unit":"750",
-    "extent":"gr",
-    "brand":"alicorp",
-    "price":"",
-    "newPrice":"7.50",
-    "store":"detergentes",
-    "tags":["detergente"],
-    "categories":["cleaning"],
-    "stock":true,
-    "styleTag":{
-      "name":"detergente",
-      "color_back_top":"#f2dc34",
-      "color_back_bottom":"#d53d2e",
-      "color_text":"#ffffff"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101014-sapolio.jpg",
       "url_02":"",
       "url_03":""
       }
