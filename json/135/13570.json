@@ -1,0 +1,244 @@
+[
+  {
+    "idCategory":"135",
+    "idStore":"13570",
+    "id":"135-70-1001",
+    "idProduct":"135701001",
+    "name":"mike's - fresa",
+    "unit":"355",
+    "extent":"ml",
+    "brand":"mike",
+    "price":"",
+    "newPrice":"6.50",
+    "store":"listos para tomar",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"fresa",
+      "color_back_top":"#3f6bae",
+      "color_back_bottom":"#3f6bae",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135701001-mike_fresa.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13570",
+    "id":"135-70-1002",
+    "idProduct":"135701002",
+    "name":"HIT",
+    "unit":"355",
+    "extent":"ml",
+    "brand":"hit",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"listos para tomar",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"mojito",
+      "color_back_top":"#3f6bae",
+      "color_back_bottom":"#3f6bae",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135701002-hit_mojito.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13570",
+    "id":"135-70-1003",
+    "idProduct":"135701003",
+    "name":"wild - apple",
+    "unit":"355",
+    "extent":"ml",
+    "brand":"wild",
+    "price":"",
+    "newPrice":"6.00",
+    "store":"listos para tomar",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"apple",
+      "color_back_top":"#3f6bae",
+      "color_back_bottom":"#3f6bae",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135701003-wild_apple.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13570",
+    "id":"135-70-1004",
+    "idProduct":"135701004",
+    "name":"mike's - maracuyá",
+    "unit":"355",
+    "extent":"ml",
+    "brand":"mike",
+    "price":"",
+    "newPrice":"6.50",
+    "store":"listos para tomar",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"maracuyá",
+      "color_back_top":"#3f6bae",
+      "color_back_bottom":"#3f6bae",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135701004-mike_maracuya.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },{
+    "idCategory":"135",
+    "idStore":"13570",
+    "id":"135-70-1005",
+    "idProduct":"135701005",
+    "name":"mike's - limon",
+    "unit":"355",
+    "extent":"ml",
+    "brand":"mike",
+    "price":"",
+    "newPrice":"6.50",
+    "store":"listos para tomar",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"limon",
+      "color_back_top":"#3f6bae",
+      "color_back_bottom":"#3f6bae",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135701005-mike_limon.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13570",
+    "id":"135-70-1006",
+    "idProduct":"135701006",
+    "name":"HIT - piña colada",
+    "unit":"355",
+    "extent":"ml",
+    "brand":"hit",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"listos para tomar",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"piña colada",
+      "color_back_top":"#3f6bae",
+      "color_back_bottom":"#3f6bae",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135701006-hit_pina.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13570",
+    "id":"135-70-1007",
+    "idProduct":"135701007",
+    "name":"wild - pasion fruit",
+    "unit":"355",
+    "extent":"ml",
+    "brand":"wild",
+    "price":"",
+    "newPrice":"6.00",
+    "store":"listos para tomar",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"pasion fruit",
+      "color_back_top":"#3f6bae",
+      "color_back_bottom":"#3f6bae",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135701007-wild_pasion_fruit.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13570",
+    "id":"135-70-1008",
+    "idProduct":"135701008",
+    "name":"wild - sex on beach",
+    "unit":"355",
+    "extent":"ml",
+    "brand":"wild",
+    "price":"",
+    "newPrice":"6.00",
+    "store":"listos para tomar",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"sex on beach",
+      "color_back_top":"#3f6bae",
+      "color_back_bottom":"#3f6bae",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135701008-wild_sex_on_beach.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13570",
+    "id":"135-70-1009",
+    "idProduct":"135701009",
+    "name":"wild - tropical orange",
+    "unit":"355",
+    "extent":"ml",
+    "brand":"wild",
+    "price":"",
+    "newPrice":"6.00",
+    "store":"listos para tomar",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"tropical orange",
+      "color_back_top":"#3f6bae",
+      "color_back_bottom":"#3f6bae",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135701009-wild_tropical_orange.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

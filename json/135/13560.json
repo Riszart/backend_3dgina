@@ -41,12 +41,12 @@
     "category":["liquor-store"],
     "stock":true,
     "styleTag":{
-      "name":"black label",
+      "name":"12 años",
       "color_back_top":"#000000",
       "color_back_bottom":"#000000",
       "color_text":"#f7fff9"
     },
-    "description":"",
+    "description":"black label de 12 años",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135601002-black_label.webp",
       "url_02":"",
