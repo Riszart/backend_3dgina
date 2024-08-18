@@ -15,8 +15,8 @@
     "stock":true,
     "styleTag":{
       "name":"fresa",
-      "color_back_top":"#3f6bae",
-      "color_back_bottom":"#3f6bae",
+      "color_back_top":"#ff0042",
+      "color_back_bottom":"#ff0042",
       "color_text":"#f7fff9"
     },
     "description":"",
@@ -42,8 +42,8 @@
     "stock":true,
     "styleTag":{
       "name":"mojito",
-      "color_back_top":"#3f6bae",
-      "color_back_bottom":"#3f6bae",
+      "color_back_top":"#00a796",
+      "color_back_bottom":"#00a796",
       "color_text":"#f7fff9"
     },
     "description":"",
@@ -69,8 +69,8 @@
     "stock":true,
     "styleTag":{
       "name":"apple",
-      "color_back_top":"#3f6bae",
-      "color_back_bottom":"#3f6bae",
+      "color_back_top":"#00780c",
+      "color_back_bottom":"#00780c",
       "color_text":"#f7fff9"
     },
     "description":"",
@@ -96,8 +96,8 @@
     "stock":true,
     "styleTag":{
       "name":"maracuyá",
-      "color_back_top":"#3f6bae",
-      "color_back_bottom":"#3f6bae",
+      "color_back_top":"#fbb835",
+      "color_back_bottom":"#fbb835",
       "color_text":"#f7fff9"
     },
     "description":"",
@@ -122,9 +122,9 @@
     "stock":true,
     "styleTag":{
       "name":"limon",
-      "color_back_top":"#3f6bae",
-      "color_back_bottom":"#3f6bae",
-      "color_text":"#f7fff9"
+      "color_back_top":"#fddc01",
+      "color_back_bottom":"#fddc01",
+      "color_text":"#000"
     },
     "description":"",
     "image":{
@@ -149,8 +149,8 @@
     "stock":true,
     "styleTag":{
       "name":"piña colada",
-      "color_back_top":"#3f6bae",
-      "color_back_bottom":"#3f6bae",
+      "color_back_top":"#7d2cca",
+      "color_back_bottom":"#7d2cca",
       "color_text":"#f7fff9"
     },
     "description":"",
@@ -165,7 +165,7 @@
     "idStore":"13570",
     "id":"135-70-1007",
     "idProduct":"135701007",
-    "name":"wild - pasion fruit",
+    "name":"wild - passion fruit",
     "unit":"355",
     "extent":"ml",
     "brand":"wild",
@@ -175,10 +175,10 @@
     "category":["liquor-store"],
     "stock":true,
     "styleTag":{
-      "name":"pasion fruit",
-      "color_back_top":"#3f6bae",
-      "color_back_bottom":"#3f6bae",
-      "color_text":"#f7fff9"
+      "name":"passion fruit",
+      "color_back_top":"#f1e112",
+      "color_back_bottom":"#f1e112",
+      "color_text":"#000"
     },
     "description":"",
     "image":{
@@ -203,8 +203,8 @@
     "stock":true,
     "styleTag":{
       "name":"sex on beach",
-      "color_back_top":"#3f6bae",
-      "color_back_bottom":"#3f6bae",
+      "color_back_top":"#ff041d",
+      "color_back_bottom":"#ff041d",
       "color_text":"#f7fff9"
     },
     "description":"",
@@ -230,8 +230,8 @@
     "stock":true,
     "styleTag":{
       "name":"tropical orange",
-      "color_back_top":"#3f6bae",
-      "color_back_bottom":"#3f6bae",
+      "color_back_top":"#fbb834",
+      "color_back_bottom":"#fbb834",
       "color_text":"#f7fff9"
     },
     "description":"",

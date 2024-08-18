@@ -7,7 +7,7 @@
     "name":"neko - extra proteccion",
     "unit":"125",
     "extent":"gr",
-    "brand":"johnson & johnson",
+    "brand":"neko",
     "price":"",
     "newPrice":"",
     "store":"jabones",
@@ -16,13 +16,13 @@
     "stock":true,
     "styleTag":{
       "name":"extra proteccion",
-      "color_back_top":"#0064a8",
-      "color_back_bottom":"#11b5ea",
+      "color_back_top":"#0265a8",
+      "color_back_bottom":"#14b5eb",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/neko/145301001-neko.webp",
       "url_02":"",
       "url_03":""
       }
@@ -35,7 +35,7 @@
     "name":"neko - extra suave",
     "unit":"125",
     "extent":"gr",
-    "brand":"johnson & johnson",
+    "brand":"neko",
     "price":"",
     "newPrice":"",
     "store":"jabones",
@@ -44,13 +44,13 @@
     "stock":true,
     "styleTag":{
       "name":"extra suave",
-      "color_back_top":"#0064a8",
-      "color_back_bottom":"#11b5ea",
+      "color_back_top":"#0265a8",
+      "color_back_bottom":"#14b5eb",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/neko/145301002-neko.webp",
       "url_02":"",
       "url_03":""
       }
@@ -60,8 +60,8 @@
     "idStore":"14530",
     "id":"145-30-1003",
     "idProduct":"145301003",
-    "name":"johnson",
-    "unit":"75",
+    "name":"johnson baby gliserinado",
+    "unit":"80",
     "extent":"gr",
     "brand":"johnson & johnson",
     "price":"",
@@ -71,14 +71,14 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"jabon",
+      "name":"gliserinado",
       "color_back_top":"#fb8361",
       "color_back_bottom":"#1d49ae",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/johnsons/145301003-johnson.webp",
       "url_02":"",
       "url_03":""
       }
@@ -88,10 +88,10 @@
     "idStore":"14530",
     "id":"145-30-1004",
     "idProduct":"145301004",
-    "name":"palmolive",
-    "unit":"75",
+    "name":"Palmolive® Naturals Intensa Renovación Granada",
+    "unit":"110",
     "extent":"gr",
-    "brand":"palmolive naturals",
+    "brand":"palmolive",
     "price":"",
     "newPrice":"",
     "store":"jabones",
@@ -99,14 +99,14 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"jabon",
-      "color_back_top":"#d6a74e",
-      "color_back_bottom":"#046549",
+      "name":"Granada",
+      "color_back_top":"#afc022",
+      "color_back_bottom":"#016145",
       "color_text":"#fff"
     },
-    "description":"",
+    "description":"Disfruta de su fragancia y fórmula con ingredientes 100% de origen natural y transfórmate con Palmolive® Naturals Intensa Renovación.",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/palmolive/145301004-palmolive.webp",
       "url_02":"",
       "url_03":""
       }
@@ -116,10 +116,10 @@
     "idStore":"14530",
     "id":"145-30-1005",
     "idProduct":"145301005",
-    "name":"palmolive",
+    "name":"Palmolive® Naturals Sensación Humectante Oliva y Aloe",
     "unit":"75",
     "extent":"gr",
-    "brand":"palmolive naturals",
+    "brand":"palmolive",
     "price":"",
     "newPrice":"",
     "store":"jabones",
@@ -127,14 +127,266 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"jabon",
-      "color_back_top":"#d6a74e",
-      "color_back_bottom":"#046549",
+      "name":"Oliva y Aloe",
+      "color_back_top":"#afc022",
+      "color_back_bottom":"#016145",
+      "color_text":"#fff"
+    },
+    "description":"Reconecta naturalmente con tus sentidos todos los días con el renovado Palmolive® Naturals Sensación Humectante Oliva y Aloe, que gracias a su fórmula con humectante natural y fabricada responsablemente*.",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/palmolive/145301005-palmolive.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-1006",
+    "idProduct":"145301006",
+    "name":"Jabón en Barra Limpieza Profunda Protex®",
+    "unit":"110",
+    "extent":"gr",
+    "brand":"protex",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"Protex® Limpieza Profunda",
+      "color_back_top":"#8c8b8e",
+      "color_back_bottom":"#023092",
+      "color_text":"#fff"
+    },
+    "description":"Protex® Limpieza profunda jabón antibacterial, remueve grasa e impureza en los poros para una piel saludable. Ofrece una protección antibacterial natural con óleo de linaza. Elimina el 99.9 % de las bacterias* naturalmente manteniéndote protegido por hasta 12h**.",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/protex/145301006-protex.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-1007",
+    "idProduct":"145301007",
+    "name":"Jabón en Barra Avena Protex®",
+    "unit":"110",
+    "extent":"gr",
+    "brand":"protex",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"Protex® Avena",
+      "color_back_top":"#dfa874",
+      "color_back_bottom":"#023092",
+      "color_text":"#fff"
+    },
+    "description":"Protex® Avena, jabón antibacterial, remueve impurezas suavemente para una piel saludable. Ofrece una protección antibacterial natural con óleo de linaza. Elimina el 99.9 % de las bacterias* naturalmente manteniéndote protegido por hasta12h**.",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/protex/145301007-protex.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-1008",
+    "idProduct":"145301008",
+    "name":"Protex® Men Sport",
+    "unit":"110",
+    "extent":"gr",
+    "brand":"protex",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"Men Sport",
+      "color_back_top":"#0e253b",
+      "color_back_bottom":"#0388d0",
+      "color_text":"#fff"
+    },
+    "description":"Protex® Men Sport. Especialmente diseñado para hombres, ofreciendo la máxima protección de Protex® y acción desodorante. Eimina el 99.9 % de las bacterias*** naturalmente.",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/protex/145301008-protex.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-1009",
+    "idProduct":"145301009",
+    "name":"Jabón en Barra Protex® Herbal",
+    "unit":"110",
+    "extent":"gr",
+    "brand":"protex",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"Protex® Herbal",
+      "color_back_top":"#4ca96e",
+      "color_back_bottom":"#0388d0",
+      "color_text":"#fff"
+    },
+    "description":"Protex® Herbal, jabón antibacterial, Ayuda a brindar el cuidado y protección que tu piel necesita. Eimina el 99.9 % de las bacterias* naturalmente manteniéndote protegido por hasta 12h**",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/protex/145301009-protex.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-1010",
+    "idProduct":"145301010",
+    "name":"Jabón en barra Protex® Carbón Detox",
+    "unit":"110",
+    "extent":"gr",
+    "brand":"protex",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"Protex® Carbón Detox",
+      "color_back_top":"#302f2f",
+      "color_back_bottom":"#023092",
+      "color_text":"#fff"
+    },
+    "description":"Jabón antibacterial Protex® Carbón Detox, con fórmula con carbón y óleo de linaza fortalece las defensas naturales de tu piel, ofreciendo limpieza y una protección superior con un efecto Natural de Detox para una piel saludable y naturalmente protegida.",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/protex/145301010-protex.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-1011",
+    "idProduct":"145301011",
+    "name":"Jabón en Barra Protex® Fresh",
+    "unit":"110",
+    "extent":"gr",
+    "brand":"protex",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"Protex® Fresh",
+      "color_back_top":"#0078b2",
+      "color_back_bottom":"#023092",
+      "color_text":"#fff"
+    },
+    "description":"Protex® Fresh, jabón antibacterial. Elimina el 99.9% de las bacterias de la piel* y ayuda a brindar una sensación de limpieza y frescura.",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/protex/145301011-protex.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-1012",
+    "idProduct":"145301012",
+    "name":"jabon Dove original ",
+    "unit":"90",
+    "extent":"gr",
+    "brand":"dove",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"dove original",
+      "color_back_top":"#183d70",
+      "color_back_bottom":"#162257",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/dove/145301012-dove.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-1013",
+    "idProduct":"145301013",
+    "name":"monclear antibacterial",
+    "unit":"145",
+    "extent":"gr",
+    "brand":"monclear",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"antibacterial",
+      "color_back_top":"#183d70",
+      "color_back_bottom":"#1a428a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/145301013-monclear.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-1014",
+    "idProduct":"145301014",
+    "name":"camay clasico",
+    "unit":"145",
+    "extent":"gr",
+    "brand":"camay",
+    "price":"",
+    "newPrice":"",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"clasico",
+      "color_back_top":"#ce3c2f",
+      "color_back_bottom":"#085ca7",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/camay/145301014-camay.webp",
       "url_02":"",
       "url_03":""
       }

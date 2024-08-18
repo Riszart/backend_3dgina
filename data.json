@@ -63,13 +63,13 @@
       "nameE":"category/liquor-store",
       "id":"135",
       "urls":{
+        "listo para tomar":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13570.json",
         "vinos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13540.json",
         "cervezas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13510.json",
         "piscos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13520.json",
         "ron":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13530.json",
         "whisky":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13560.json",
-        "vodka":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13550.json",
-        "listo-para-tomar":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13570.json"
+        "vodka":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/135/13550.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/liquor-store.jpg"
     },
