@@ -102,7 +102,7 @@
     },
     "category-breakfast":{
       "name":"desayuno", 
-      "nameE":"breakfast",
+      "nameE":"category/breakfast",
       "id":"150",
       "urls":{
         "embutidos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15030.json",
