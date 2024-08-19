@@ -155,7 +155,7 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"Protex® Limpieza Profunda",
+      "name":"Limpieza Profunda",
       "color_back_top":"#8c8b8e",
       "color_back_bottom":"#023092",
       "color_text":"#fff"
@@ -183,7 +183,7 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"Protex® Avena",
+      "name":"Avena",
       "color_back_top":"#dfa874",
       "color_back_bottom":"#023092",
       "color_text":"#fff"
@@ -239,7 +239,7 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"Protex® Herbal",
+      "name":"Herbal",
       "color_back_top":"#4ca96e",
       "color_back_bottom":"#0388d0",
       "color_text":"#fff"
@@ -267,7 +267,7 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"Protex® Carbón Detox",
+      "name":"Carbón Detox",
       "color_back_top":"#302f2f",
       "color_back_bottom":"#023092",
       "color_text":"#fff"
@@ -295,7 +295,7 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"Protex® Fresh",
+      "name":"Fresh",
       "color_back_top":"#0078b2",
       "color_back_bottom":"#023092",
       "color_text":"#fff"

@@ -5,9 +5,9 @@
     "id":"150-10-1001",
     "idProduct":"150101001",
     "name":"cereal - zuck",
-    "unit":"",
+    "unit":"20",
     "extent":"gr",
-    "brand":"",
+    "brand":"angel",
     "price":"",
     "newPrice":"0.80",
     "store":"cereales",
@@ -17,11 +17,11 @@
       "name":"zuck",
       "color_back_top":"#010c8e",
       "color_back_bottom":"#0672d2",
-      "color_text":"#"
+      "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -32,23 +32,23 @@
     "id":"150-10-1002",
     "idProduct":"150101002",
     "name":"cereal - fruit",
-    "unit":"",
+    "unit":"20",
     "extent":"gr",
-    "brand":"",
+    "brand":"angel",
     "price":"",
     "newPrice":"0.80",
     "store":"cereales",
     "category":["breakfast"],
     "stock":true,
     "styleTag":{
-      "name":"zuck",
+      "name":"fruit",
       "color_back_top":"#71b620",
       "color_back_bottom":"#0672d2",
       "color_text":"#"
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }

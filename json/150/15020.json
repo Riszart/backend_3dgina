@@ -14,14 +14,41 @@
     "category":["breakfast"],
     "stock":true,
     "styleTag":{
-      "name":"",
-      "color_back_top":"#436e6d",
+      "name":"corral",
+      "color_back_top":"#f26e0b",
       "color_back_bottom":"#2f7b3c",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pulses/egg/150201001-pastoreo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15020",
+    "id":"150-20-1002",
+    "idProduct":"150201002",
+    "name":"huevo de corral",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"9.50",
+    "store":"huevos",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"convencional",
+      "color_back_top":"#f19f0a",
+      "color_back_bottom":"#2f7b3c",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pulses/egg/150201002-convencional.jpg",
       "url_02":"",
       "url_03":""
       }

@@ -5,11 +5,11 @@
     "id":"150-60-1001",
     "idProduct":"150601001",
     "name":"margarina - sello de oro",
-    "unit":"",
-    "extent":"",
+    "unit":"45",
+    "extent":"gr",
     "brand":"sello de oro",
     "price":"",
-    "newPrice":"1.5",
+    "newPrice":"1.50",
     "store":"untar",
     "category":["breakfast"],
     "stock":true,
@@ -21,7 +21,88 @@
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/margarina/150601001-sello_de_oro.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15060",
+    "id":"150-60-1002",
+    "idProduct":"150601002",
+    "name":"margarina - sello de oro",
+    "unit":"90",
+    "extent":"gr",
+    "brand":"sello de oro",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"untar",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"margarina",
+      "color_back_top":"#feb800",
+      "color_back_bottom":"#ff8201",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/margarina/150601002-sello_de_oro.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15060",
+    "id":"150-60-1003",
+    "idProduct":"150601003",
+    "name":"margarina - manty",
+    "unit":"90",
+    "extent":"gr",
+    "brand":"manty",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"untar",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"margarina",
+      "color_back_top":"#feb800",
+      "color_back_bottom":"#ff8201",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/margarina/150601003-manty.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15060",
+    "id":"150-60-1004",
+    "idProduct":"150601004",
+    "name":"margarina - manty",
+    "unit":"45",
+    "extent":"gr",
+    "brand":"manty",
+    "price":"",
+    "newPrice":"1.50",
+    "store":"untar",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"margarina",
+      "color_back_top":"#feb800",
+      "color_back_bottom":"#ff8201",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/margarina/150601004-manty.webp",
       "url_02":"",
       "url_03":""
       }
