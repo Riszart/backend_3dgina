@@ -1,0 +1,30 @@
+[
+  {
+    "idCategory":"140",
+    "idStore":"14060",
+    "id":"140-60-1001",
+    "idProduct":"140601001",
+    "name":"ácido quitasarro",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"vclean",
+    "price":"",
+    "newPrice":"6.50",
+    "store":"acido",
+    "tags":["acido","piso"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"quitasarro",
+      "color_back_top":"#231f20",
+      "color_back_bottom":"#052770",
+      "color_text":"#ffffff"
+    },
+    "description":"ácido limpiador quitasarro",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/vega/vclean/140601001-quitasarro.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]
