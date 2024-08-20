@@ -241,5 +241,86 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-1009",
+    "idProduct":"115501009",
+    "name":"inka chip - bbq & cebolla",
+    "unit":"30",
+    "extent":"gr",
+    "brand":"inka chip ",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"snacks",
+    "tags":["papitas"],
+    "categories":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"bbq & cebolla",
+      "color_back_top":"#ff002b",
+      "color_back_bottom":"#ff002b",
+      "color_text":"#fbfdfd"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/115501009-inka_chip.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-1010",
+    "idProduct":"115501010",
+    "name":"inka chip - jalapeño",
+    "unit":"30",
+    "extent":"gr",
+    "brand":"inka chip ",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"snacks",
+    "tags":["papitas"],
+    "categories":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"jalapeño",
+      "color_back_top":"#00af1f",
+      "color_back_bottom":"#00af1f",
+      "color_text":"#fbfdfd"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/115501010-inka_chip.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-1011",
+    "idProduct":"115501011",
+    "name":"inka chip - sal de mar",
+    "unit":"33",
+    "extent":"gr",
+    "brand":"inka chip ",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"snacks",
+    "tags":["papitas"],
+    "categories":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"sal de mar",
+      "color_back_top":"#fccf0e",
+      "color_back_bottom":"#fccf0e",
+      "color_text":"#000"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/115501011-inka_chip.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]
