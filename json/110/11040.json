@@ -9,13 +9,13 @@
     "extent":"gr",
     "brand":"fanny",
     "price":"",
-    "newPrice":"6.00",
-    "store":"menestras",
+    "newPrice":"6.50",
+    "store":"conserva",
     "tags":["conserva"],
     "category":["market"],
     "stock":true,
     "styleTag":{
-      "name":"filete de atún",
+      "name":"filete atún",
       "color_back_top":"#4b9fc0",
       "color_back_bottom":"#836f5d",
       "color_text":"#fbfdfd"
@@ -38,12 +38,12 @@
     "brand":"fanny",
     "price":"",
     "newPrice":"6.00",
-    "store":"menestras",
+    "store":"conserva",
     "tags":["conserva"],
     "category":["market"],
     "stock":true,
     "styleTag":{
-      "name":"trozoz de atún",
+      "name":"trozoz atún",
       "color_back_top":"#4b9fc0",
       "color_back_bottom":"#836f5d",
       "color_text":"#fbfdfd"
@@ -65,13 +65,13 @@
     "extent":"gr",
     "brand":"fanny",
     "price":"",
-    "newPrice":"6.00",
-    "store":"menestras",
+    "newPrice":"4.50",
+    "store":"conserva",
     "tags":["conserva"],
     "category":["market"],
     "stock":true,
     "styleTag":{
-      "name":"grated de atún",
+      "name":"grated atún",
       "color_back_top":"#4b9fc0",
       "color_back_bottom":"#836f5d",
       "color_text":"#fbfdfd"
@@ -79,6 +79,90 @@
     "description":"grated de atún en aceite de vegetal",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/fanny/110401003-grated_de_atun.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11040",
+    "id":"110-40-1004",
+    "idProduct":"110401004",
+    "name":"filete de caballa - vega",
+    "unit":"170",
+    "extent":"gr",
+    "brand":"vega",
+    "price":"",
+    "newPrice":"4.50",
+    "store":"conserva",
+    "tags":["conserva"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"filete caballa",
+      "color_back_top":"#ff8f1b",
+      "color_back_bottom":"#f11713",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/vega/conservas/110401004-filete_caballa.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11040",
+    "id":"110-40-1005",
+    "idProduct":"110401005",
+    "name":"filete de bonito - vega",
+    "unit":"170",
+    "extent":"gr",
+    "brand":"vega",
+    "price":"",
+    "newPrice":"4.50",
+    "store":"conserva",
+    "tags":["conserva"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"filete bonito",
+      "color_back_top":"#dd196b",
+      "color_back_bottom":"#f11713",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/vega/conservas/110401005-filete_bonito.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11040",
+    "id":"110-40-1006",
+    "idProduct":"110401006",
+    "name":"grated de atún - vega",
+    "unit":"170",
+    "extent":"gr",
+    "brand":"vega",
+    "price":"",
+    "newPrice":"3.80",
+    "store":"conserva",
+    "tags":["conserva"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"grated atún",
+      "color_back_top":"#e10c17",
+      "color_back_bottom":"#f11713",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/vega/conservas/110401006-grated.webp",
       "url_02":"",
       "url_03":""
       }

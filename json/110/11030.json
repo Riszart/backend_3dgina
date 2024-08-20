@@ -11,7 +11,7 @@
     "price":"",
     "newPrice":"2.50",
     "store":"pasta",
-    "tags":["arina"],
+    "tags":["pasta"],
     "category":["market"],
     "stock":true,
     "styleTag":{
@@ -36,10 +36,10 @@
     "unit":"235",
     "extent":"gr",
     "brand":"marco polo",
-    "price":"",
+    "price":"1.40",
     "newPrice":"1.20",
     "store":"pasta",
-    "tags":["arina"],
+    "tags":["pasta"],
     "category":["market"],
     "stock":true,
     "styleTag":{
@@ -51,6 +51,90 @@
     "description":"fideos marco polo en forma de coditos.",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/marcopolo/110301002-codito.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11030",
+    "id":"110-30-1003",
+    "idProduct":"110301003",
+    "name":"lavaggi spaghetti",
+    "unit":"450",
+    "extent":"gr",
+    "brand":"lavaggi",
+    "price":"",
+    "newPrice":"3.00",
+    "store":"pasta",
+    "tags":["pasta"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"spaghetti",
+      "color_back_top":"#f21718",
+      "color_back_bottom":"#008841",
+      "color_text":"#fbfdfd"
+    },
+    "description":"fideos marco polo en forma de coditos.",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/pastas/110301003-lavaggi.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11030",
+    "id":"110-30-1004",
+    "idProduct":"110301004",
+    "name":"nicolini cabello de angel",
+    "unit":"250",
+    "extent":"gr",
+    "brand":"nicolini",
+    "price":"1.50",
+    "newPrice":"1.30",
+    "store":"pasta",
+    "tags":["pasta"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"cabello de angel",
+      "color_back_top":"#143a91",
+      "color_back_bottom":"#dfb44c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"fideos marco polo en forma de coditos.",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/pastas/110301004-nicolini.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11030",
+    "id":"110-30-1005",
+    "idProduct":"110301005",
+    "name":"nicolini grueso",
+    "unit":"450",
+    "extent":"gr",
+    "brand":"nicolini",
+    "price":"3.00",
+    "newPrice":"2.80",
+    "store":"pasta",
+    "tags":["pasta"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"grueso",
+      "color_back_top":"#143a91",
+      "color_back_bottom":"#dfb44c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"fideos marco polo en forma de coditos.",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/pastas/110301005-nicolini.webp",
       "url_02":"",
       "url_03":""
       }

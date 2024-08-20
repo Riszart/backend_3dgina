@@ -4,7 +4,7 @@
     "idStore":"15010",
     "id":"150-10-1001",
     "idProduct":"150101001",
-    "name":"cereal - zuck",
+    "name":"zuck - cereal angel",
     "unit":"20",
     "extent":"gr",
     "brand":"angel",
@@ -16,12 +16,12 @@
     "styleTag":{
       "name":"zuck",
       "color_back_top":"#010c8e",
-      "color_back_bottom":"#0672d2",
+      "color_back_bottom":"#0071ce",
       "color_text":"#fff"
     },
-    "description":"",
+    "description":"hojuelas de maíz azucaradas",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/cereales/150101001-zuck.webp",
       "url_02":"",
       "url_03":""
       }
@@ -31,24 +31,213 @@
     "idStore":"15010",
     "id":"150-10-1002",
     "idProduct":"150101002",
-    "name":"cereal - fruit",
-    "unit":"20",
+    "name":"zuck - cereal angel",
+    "unit":"130",
     "extent":"gr",
     "brand":"angel",
-    "price":"",
-    "newPrice":"0.80",
+    "price":"3.50",
+    "newPrice":"3.20",
     "store":"cereales",
     "category":["breakfast"],
     "stock":true,
     "styleTag":{
-      "name":"fruit",
-      "color_back_top":"#71b620",
-      "color_back_bottom":"#0672d2",
-      "color_text":"#"
+      "name":"zuck",
+      "color_back_top":"#010c8e",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
     },
-    "description":"",
+    "description":"hojuelas de maíz azucaradas",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/cereales/150101002-zuck.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15010",
+    "id":"150-10-1003",
+    "idProduct":"150101003",
+    "name":"frutt - cereal angel",
+    "unit":"130",
+    "extent":"gr",
+    "brand":"angel",
+    "price":"3.50",
+    "newPrice":"3.20",
+    "store":"cereales",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"frutt",
+      "color_back_top":"#72b623",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"cereal extruido de maíz y trigo, con sabor a frutas",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/cereales/150101003-frutt.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15010",
+    "id":"150-10-1004",
+    "idProduct":"150101004",
+    "name":"flakes - cereal angel",
+    "unit":"130",
+    "extent":"gr",
+    "brand":"angel",
+    "price":"3.50",
+    "newPrice":"3.20",
+    "store":"cereales",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"flakes",
+      "color_back_top":"#db0b12",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"hojuelas de maíz",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/cereales/150101004-flakes.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15010",
+    "id":"150-10-1005",
+    "idProduct":"150101005",
+    "name":"fresia almohada - cereal angel",
+    "unit":"110",
+    "extent":"gr",
+    "brand":"angel",
+    "price":"3.50",
+    "newPrice":"3.20",
+    "store":"cereales",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"fresia",
+      "color_back_top":"#f94f92",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"cereales de trigo, avena y maíz, en forma de almohadas rellenos con crema sabor a fresa",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/cereales/150101005-fresia.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15010",
+    "id":"150-10-1006",
+    "idProduct":"150101006",
+    "name":"meli - cereal angel",
+    "unit":"130",
+    "extent":"gr",
+    "brand":"angel",
+    "price":"3.50",
+    "newPrice":"3.20",
+    "store":"cereales",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"meli",
+      "color_back_top":"#e2810f",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"cereales extruido de maíz y trigo, con sabor a miel",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/cereales/150101006-meli.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15010",
+    "id":"150-10-1007",
+    "idProduct":"150101007",
+    "name":"copix - cereal angel",
+    "unit":"120",
+    "extent":"gr",
+    "brand":"angel",
+    "price":"3.50",
+    "newPrice":"3.20",
+    "store":"cereales",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"copix",
+      "color_back_top":"#029bde",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"cereal a base de trigo con sabor  a chocolate y marshmallows",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/cereales/150101007-copix.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15010",
+    "id":"150-10-1008",
+    "idProduct":"150101008",
+    "name":"chock - cereal angel",
+    "unit":"130",
+    "extent":"gr",
+    "brand":"angel",
+    "price":"3.50",
+    "newPrice":"3.20",
+    "store":"cereales",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"chock",
+      "color_back_top":"#5c300a",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"cereales extruido de maíz y trigo, con sabor a chocolate",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/cereales/150101008-chock.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15010",
+    "id":"150-10-1009",
+    "idProduct":"150101009",
+    "name":"tito almohada - cereal angel",
+    "unit":"110",
+    "extent":"gr",
+    "brand":"angel",
+    "price":"3.50",
+    "newPrice":"3.20",
+    "store":"cereales",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"tito",
+      "color_back_top":"#743d20",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"cereales de trigo avena y maíz, en formas de almohadas, rellenos con crema sabor a chocolate",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/cereales/150101009-tito.webp",
       "url_02":"",
       "url_03":""
       }

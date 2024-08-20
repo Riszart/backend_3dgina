@@ -9,7 +9,7 @@
     "extent":"L",
     "brand":"backus",
     "price":"",
-    "newPrice":"3.5",
+    "newPrice":"3.50",
     "store":"bebidas",
     "tags":["gaseosas"],
     "categories":["soda"],
@@ -37,7 +37,7 @@
     "extent":"L",
     "brand":"backus",
     "price":"",
-    "newPrice":"8.5",
+    "newPrice":"8.50",
     "store":"bebidas",
     "tags":["gaseosas"],
     "categories":["soda"],
@@ -340,7 +340,7 @@
     "idStore":"12020",
     "id":"120-20-1013",
     "idProduct":"120201013",
-    "name":"inca kola - retornable",
+    "name":"inca kola",
     "unit":"3",
     "extent":"L",
     "brand":"linley",
@@ -554,7 +554,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201020-kr.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201020-kr.webp",
       "url_02":"",
       "url_03":""
       }
@@ -582,7 +582,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201021-kr.webp",
       "url_02":"",
       "url_03":""
       }
@@ -610,7 +610,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201022-kr.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201022-kr.webp",
       "url_02":"",
       "url_03":""
       }
@@ -638,7 +638,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201023-kr.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201023-kr.webp",
       "url_02":"",
       "url_03":""
       }
@@ -666,7 +666,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201024-kr.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201024-kr.webp",
       "url_02":"",
       "url_03":""
       }
@@ -722,7 +722,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120201026-big_cola.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120201026-big_cola.webp",
       "url_02":"",
       "url_03":""
       }
@@ -750,7 +750,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120201027-big_cola.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120201027-big_cola.webp",
       "url_02":"",
       "url_03":""
       }

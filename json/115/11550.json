@@ -32,8 +32,8 @@
     "id":"115-50-1002",
     "idProduct":"115501002",
     "name":"piqueo snax",
-    "unit":"50gr",
-    "extent":"",
+    "unit":"50",
+    "extent":"gr",
     "brand":"frito lay",
     "price":"",
     "newPrice":"2.00",
@@ -59,8 +59,8 @@
     "id":"115-50-1003",
     "idProduct":"115501003",
     "name":"chizitos",
-    "unit":"18gr",
-    "extent":"",
+    "unit":"18",
+    "extent":"gr",
     "brand":"frito lay",
     "price":"",
     "newPrice":"0.50",
@@ -76,6 +76,168 @@
     },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115501003-chizitos.png",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-1004",
+    "idProduct":"115501004",
+    "name":"papi ricas - picantes",
+    "unit":"70",
+    "extent":"gr",
+    "brand":"aje",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"snacks",
+    "tags":["aje"],
+    "categories":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"papi ricas",
+      "color_back_top":"#fd9900",
+      "color_back_bottom":"#ff2926",
+      "color_text":"#fbfdfd"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115501004-papi_ricas.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-1005",
+    "idProduct":"115501005",
+    "name":"papi ricas - picantes",
+    "unit":"28",
+    "extent":"gr",
+    "brand":"aje",
+    "price":"",
+    "newPrice":"1.20",
+    "store":"snacks",
+    "tags":["aje"],
+    "categories":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"papi ricas",
+      "color_back_top":"#fd9900",
+      "color_back_bottom":"#ff2926",
+      "color_text":"#fbfdfd"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115501005-papi_ricas.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-1006",
+    "idProduct":"115501006",
+    "name":"takis fuego",
+    "unit":"56",
+    "extent":"gr",
+    "brand":"aje",
+    "price":"4.00",
+    "newPrice":"3.50",
+    "store":"snacks",
+    "tags":["takis"],
+    "categories":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"fuego",
+      "color_back_top":"#843594",
+      "color_back_bottom":"#603288",
+      "color_text":"#fbfdfd"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/snack/115501006-takis.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-1006",
+    "idProduct":"115501006",
+    "name":"takis fuego",
+    "unit":"56",
+    "extent":"gr",
+    "brand":"takis",
+    "price":"4.00",
+    "newPrice":"3.50",
+    "store":"snacks",
+    "tags":["takis"],
+    "categories":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"fuego",
+      "color_back_top":"#843594",
+      "color_back_bottom":"#603288",
+      "color_text":"#fbfdfd"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/barcel/115501006-takis.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-1007",
+    "idProduct":"115501007",
+    "name":"takis xplosion",
+    "unit":"56",
+    "extent":"gr",
+    "brand":"takis",
+    "price":"4.00",
+    "newPrice":"3.50",
+    "store":"snacks",
+    "tags":["takis"],
+    "categories":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"xplosion",
+      "color_back_top":"#f05628",
+      "color_back_bottom":"#603288",
+      "color_text":"#fbfdfd"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/barcel/115501007-takis.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-1008",
+    "idProduct":"115501008",
+    "name":"takis clasico",
+    "unit":"56",
+    "extent":"gr",
+    "brand":"takis",
+    "price":"4.00",
+    "newPrice":"3.50",
+    "store":"snacks",
+    "tags":["takis"],
+    "categories":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"clasico",
+      "color_back_top":"#01934d",
+      "color_back_bottom":"#603288",
+      "color_text":"#fbfdfd"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/barcel/115501008-takis.webp",
       "url_02":"",
       "url_03":""
       }

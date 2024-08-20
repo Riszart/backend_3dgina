@@ -37,7 +37,7 @@
     "extent":"kg",
     "brand":"molitalia",
     "price":"",
-    "newPrice":"6.50",
+    "newPrice":"6.00",
     "store":"menestras",
     "tags":["arina"],
     "category":["market"],
@@ -69,7 +69,7 @@
     "store":"menestras",
     "tags":["arina"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"preparada",
       "color_back_top":"#13452b",
