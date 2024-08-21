@@ -82,8 +82,7 @@
       "url_02":"",
       "url_03":""
       }
-  }
-  ,
+  },
   {
     "idCategory":"120",
     "idStore":"12040",
@@ -108,6 +107,34 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120401004-sporade.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12040",
+    "id":"120-40-1003",
+    "idProduct":"120401003",
+    "name":"sporade tropical",
+    "unit":"473",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"8.00",
+    "store":"energizante",
+    "tags":["energizante","no retornable"],
+    "categories":["soda"],
+    "stock":true,
+    "styleTag":{
+      "name":"green",
+      "color_back_top":"#2c9942",
+      "color_back_bottom":"#2c9942",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120401005-moster.webp",
       "url_02":"",
       "url_03":""
       }
