@@ -390,5 +390,89 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1015",
+    "idProduct":"115301015",
+    "name":"cracknel original",
+    "unit":"140",
+    "extent":"gr",
+    "brand":"san jorge",
+    "price":"",
+    "newPrice":"2.80",
+    "store":"galletas",
+    "tags":["san jorge"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"original",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/sanjorge/115301015-sanjorge.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1016",
+    "idProduct":"115301016",
+    "name":"cracknel integrale",
+    "unit":"175",
+    "extent":"gr",
+    "brand":"san jorge",
+    "price":"",
+    "newPrice":"2.80",
+    "store":"galletas",
+    "tags":["san jorge"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"integrale",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/sanjorge/115301016-sanjorge.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1017",
+    "idProduct":"115301017",
+    "name":"Galleta Soda Gourmet",
+    "unit":"250",
+    "extent":"gr",
+    "brand":"san jorge",
+    "price":"",
+    "newPrice":"4.00",
+    "store":"galletas",
+    "tags":["san jorge"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"Gourmet",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/sanjorge/115301017-sanjorge.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

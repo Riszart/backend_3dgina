@@ -41,7 +41,7 @@
     "store":"menestras",
     "tags":["lentejas"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"lentejas",
       "color_back_top":"#fe7814",

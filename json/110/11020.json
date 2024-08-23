@@ -10,7 +10,7 @@
     "brand":"molitalia",
     "price":"",
     "newPrice":"1.30",
-    "store":"menestras",
+    "store":"apanar",
     "tags":["arina"],
     "category":["market"],
     "stock":true,
@@ -25,7 +25,7 @@
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/pulses/110201001_arina-sin-preparar.webp",
       "url_02":"",
       "url_03":""
-      }
+    }
   },
   {
     "idCategory":"110",
@@ -38,7 +38,7 @@
     "brand":"molitalia",
     "price":"",
     "newPrice":"6.00",
-    "store":"menestras",
+    "store":"apanar",
     "tags":["arina"],
     "category":["market"],
     "stock":true,
@@ -53,7 +53,7 @@
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/pulses/110201002_arina-sin-preparar.webp",
       "url_02":"",
       "url_03":""
-      }
+    }
   },
   {
     "idCategory":"110",
@@ -66,7 +66,7 @@
     "brand":"molitalia",
     "price":"",
     "newPrice":"6.50",
-    "store":"menestras",
+    "store":"apanar",
     "tags":["arina"],
     "category":["market"],
     "stock":false,
@@ -81,6 +81,34 @@
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/molitalia/pulses/110201003_arina-sin-preparar.webp",
       "url_02":"",
       "url_03":""
-      }
+    }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11020",
+    "id":"110-20-1004",
+    "idProduct":"110201004",
+    "name":"pan rallado",
+    "unit":"100",
+    "extent":"gr",
+    "brand":"",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"apanar",
+    "tags":["arina"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"pan rallado",
+      "color_back_top":"#13452b",
+      "color_back_bottom":"#82705f",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pulses/110201004-pan.webp",
+      "url_02":"",
+      "url_03":""
+    }
   }
 ]
