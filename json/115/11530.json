@@ -2,6 +2,90 @@
   {
     "idCategory":"115",
     "idStore":"11530",
+    "id":"115-30-1022",
+    "idProduct":"115301022",
+    "name":"ritz taco original",
+    "unit":"52,5",
+    "extent":"gr",
+    "brand":"mondelez",
+    "price":"",
+    "newPrice":"1.50",
+    "store":"galletas",
+    "tags":["mondelez"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"original",
+      "color_back_top":"#f11",
+      "color_back_bottom":"#f11",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/mondelez/115301022-ritz.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1026",
+    "idProduct":"115301026",
+    "name":"morochas taco",
+    "unit":"75",
+    "extent":"gr",
+    "brand":"nestle",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"galletas",
+    "tags":["mondelez"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"morocha",
+      "color_back_top":"#ffde49",
+      "color_back_bottom":"#ffde49",
+      "color_text":"#000"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115301026-morochas.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1023",
+    "idProduct":"115301023",
+    "name":"oreo taco original",
+    "unit":"108",
+    "extent":"gr",
+    "brand":"mondelez",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"galletas",
+    "tags":["mondelez"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"original",
+      "color_back_top":"#084399",
+      "color_back_bottom":"#2ac3f2",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/modelez/115301023-oreo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
     "id":"115-30-1001",
     "idProduct":"115301001",
     "name":"casino - menta",
@@ -30,6 +114,34 @@
   {
     "idCategory":"115",
     "idStore":"11530",
+    "id":"115-30-1020",
+    "idProduct":"115301020",
+    "name":"picaras original",
+    "unit":"40",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"original",
+      "color_back_top":"#f11",
+      "color_back_bottom":"#f11",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/companiaChocolate/115301020-picaras.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
     "id":"115-30-1002",
     "idProduct":"115301002",
     "name":"casino - chocolate",
@@ -51,6 +163,34 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301002-casino_chocolate.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1024",
+    "idProduct":"115301024",
+    "name":"club social original",
+    "unit":"24",
+    "extent":"gr",
+    "brand":"mondelez",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["mondelez"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"original",
+      "color_back_top":"#2ac3f2",
+      "color_back_bottom":"#084399",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/modelez/115301024-clupsocial.webp",
       "url_02":"",
       "url_03":""
       }
@@ -408,8 +548,8 @@
     "stock":true,
     "styleTag":{
       "name":"original",
-      "color_back_top":"#c82c93",
-      "color_back_bottom":"#79695c",
+      "color_back_top":"#e91d1c",
+      "color_back_bottom":"#e91d1c",
       "color_text":"#fbfdfd"
     },
     "description":"",
@@ -436,8 +576,8 @@
     "stock":true,
     "styleTag":{
       "name":"integrale",
-      "color_back_top":"#c82c93",
-      "color_back_bottom":"#79695c",
+      "color_back_top":"#e91d1c",
+      "color_back_bottom":"#e91d1c",
       "color_text":"#fbfdfd"
     },
     "description":"",
@@ -464,13 +604,154 @@
     "stock":true,
     "styleTag":{
       "name":"Gourmet",
+      "color_back_top":"#e91d1c",
+      "color_back_bottom":"#e91d1c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/sanjorge/115301017-sanjorge.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1018",
+    "idProduct":"115301018",
+    "name":"frac sabor chocolate",
+    "unit":"45,5",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"chocolate",
       "color_back_top":"#c82c93",
       "color_back_bottom":"#79695c",
       "color_text":"#fbfdfd"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/sanjorge/115301017-sanjorge.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115301018-frac.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1019",
+    "idProduct":"115301019",
+    "name":"gretel sabor chocolate",
+    "unit":"34",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"chocolate",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115301019-gretel.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1021",
+    "idProduct":"115301021",
+    "name":"picaras extrema",
+    "unit":"40",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"extrema",
+      "color_back_top":"#f11",
+      "color_back_bottom":"#f11",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/companiaChocolate/115301021-picaras.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1025",
+    "idProduct":"115301025",
+    "name":"club social integral",
+    "unit":"24",
+    "extent":"gr",
+    "brand":"mondelez",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["mondelez"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"integral",
+      "color_back_top":"#d96300",
+      "color_back_bottom":"#084399",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/modelez/115301025-clupsocial.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1027",
+    "idProduct":"115301027",
+    "name":"morochas",
+    "unit":"30",
+    "extent":"gr",
+    "brand":"nestle",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["mondelez"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"morocha",
+      "color_back_top":"#ffde49",
+      "color_back_bottom":"#ffde49",
+      "color_text":"#000"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115301027-morochas.webp",
       "url_02":"",
       "url_03":""
       }
