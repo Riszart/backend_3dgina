@@ -160,5 +160,32 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12010",
+    "id":"120-10-1007",
+    "idProduct":"120101007",
+    "name":"loa - sin gas",
+    "unit":"625",
+    "extent":"ml",
+    "brand":"ism",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "tags":["agua","no retornable","sin gas"],
+    "categories":["soda"],
+    "stock":true,
+    "styleTag":{
+      "name":"loa sin gas",
+      "color_back_top":"#03b442",
+      "color_back_bottom":"#454545",
+      "color_text":"#fafcfc"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120101007-loa.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

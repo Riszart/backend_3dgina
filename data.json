@@ -33,7 +33,8 @@
         "gaseosas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12020.json",
         "aguas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12010.json",
         "frugos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12030.json",
-        "energizante":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12040.json"
+        "energizante":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12040.json",
+        "citrus":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/120/12050.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/drink.jpg"
     },

@@ -58,6 +58,34 @@
   {
     "idCategory":"120",
     "idStore":"12020",
+    "id":"120-20-1030",
+    "idProduct":"120201030",
+    "name":"pepsi",
+    "unit":"3",
+    "extent":"L",
+    "brand":"pepsico",
+    "price":"",
+    "newPrice":"8.50",
+    "store":"bebidas",
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
+    "stock":true,
+    "styleTag":{
+      "name":"pepsi",
+      "color_back_top":"#0252a4",
+      "color_back_bottom":"#0252a4",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/120201030-pepsi.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12020",
     "id":"120-20-1003",
     "idProduct":"120201003",
     "name":"coca cola",
@@ -69,7 +97,7 @@
     "store":"bebidas",
     "tags":["gaseosas"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"coca cola original",
       "color_back_top":"#fe0a1a",
@@ -97,7 +125,7 @@
     "store":"bebidas",
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"coca cola original",
       "color_back_top":"#fe0a1a",
@@ -125,7 +153,7 @@
     "store":"bebidas",
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"coca cola original",
       "color_back_top":"#fe0a1a",
@@ -153,7 +181,7 @@
     "store":"bebidas",
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"coca cola original",
       "color_back_top":"#fe0a1a",
@@ -209,7 +237,7 @@
     "store":"bebidas",
     "tags":["gaseosas", "no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"inca kola original",
       "color_back_top":"#ffdf1d",
@@ -237,7 +265,7 @@
     "store":"bebidas",
     "tags":["gaseosas", "retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"inca kola original",
       "color_back_top":"#ffdf1d",
@@ -265,7 +293,7 @@
     "store":"bebidas",
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"inca kola original",
       "color_back_top":"#ffdf1d",
@@ -293,7 +321,7 @@
     "store":"bebidas",
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"inca kola original",
       "color_back_top":"#ffdf1d",
@@ -321,7 +349,7 @@
     "store":"bebidas",
     "tags":["gaseosas","retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"inca kola original",
       "color_back_top":"#ffdf1d",
@@ -461,7 +489,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"cool negra",
       "color_back_top":"#fe6716",
@@ -489,7 +517,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"cool piña",
       "color_back_top":"#fe6716",
@@ -517,7 +545,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"cool amarilla",
       "color_back_top":"#fe6716",
@@ -545,7 +573,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"kr negra",
       "color_back_top":"#fe6716",
@@ -573,7 +601,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"kr roja",
       "color_back_top":"#fe6716",
@@ -601,7 +629,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"kr naranja",
       "color_back_top":"#fe6716",
@@ -629,7 +657,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"kr limon",
       "color_back_top":"#fe6716",
@@ -685,7 +713,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"big cola",
       "color_back_top":"#df0a1e",
@@ -769,7 +797,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"sabor de oro",
       "color_back_top":"#faea00",
@@ -807,6 +835,34 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/120201029-oro.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12020",
+    "id":"120-20-1030",
+    "idProduct":"120201030",
+    "name":"pepsi",
+    "unit":"1,5",
+    "extent":"L",
+    "brand":"pepsico",
+    "price":"",
+    "newPrice":"4.50",
+    "store":"bebidas",
+    "tags":["gaseosas","no retornable"],
+    "categories":["soda"],
+    "stock":true,
+    "styleTag":{
+      "name":"pepsi",
+      "color_back_top":"#0252a4",
+      "color_back_bottom":"#0252a4",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pepsico/120201031-pepsi.webp",
       "url_02":"",
       "url_03":""
       }

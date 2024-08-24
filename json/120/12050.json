@@ -13,7 +13,7 @@
     "store":"bebidas",
     "tags":["citrus","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"citrus",
       "color_back_top":"#fe6716",
@@ -22,7 +22,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/ism/120501001-kris.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120501001-kris.png",
       "url_02":"",
       "url_03":""
       }
@@ -41,7 +41,7 @@
     "store":"bebidas",
     "tags":["citrus","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"durazno",
       "color_back_top":"#fe6716",
@@ -50,7 +50,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/ism/120501002-kris.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120501002-kris.png",
       "url_02":"",
       "url_03":""
       }
@@ -69,7 +69,7 @@
     "store":"bebidas",
     "tags":["citrus","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"red",
       "color_back_top":"#fe6716",
@@ -78,7 +78,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/ism/120501003-kris.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120501003-kris.png",
       "url_02":"",
       "url_03":""
       }
@@ -97,7 +97,7 @@
     "store":"bebidas",
     "tags":["citrus","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"green",
       "color_back_top":"#fe6716",
@@ -106,7 +106,119 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/ism/120501004-kris.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120501004-kris.png",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12050",
+    "id":"120-50-1005",
+    "idProduct":"120501005",
+    "name":"kris Citrus Punch",
+    "unit":"3",
+    "extent":"L",
+    "brand":"ism",
+    "price":"",
+    "newPrice":"6.50",
+    "store":"bebidas",
+    "tags":["frugos","no retornable"],
+    "categories":["soda"],
+    "stock":true,
+    "styleTag":{
+      "name":"Citrus Punch",
+      "color_back_top":"#fe6716",
+      "color_back_bottom":"#f78c0c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"Citrus Punch: naranja, mandarina y limón.",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120501005-kris.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12050",
+    "id":"120-50-1006",
+    "idProduct":"120501006",
+    "name":"kris Durazno Punch",
+    "unit":"3",
+    "extent":"L",
+    "brand":"ism",
+    "price":"",
+    "newPrice":"6.50",
+    "store":"bebidas",
+    "tags":["frugos","no retornable"],
+    "categories":["soda"],
+    "stock":true,
+    "styleTag":{
+      "name":"Durazno Punch",
+      "color_back_top":"#fe6716",
+      "color_back_bottom":"#f78c0c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"Durazno Punch: manzana, mango, durazno",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120501006-kris.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12050",
+    "id":"120-50-1007",
+    "idProduct":"120501007",
+    "name":"kris Citrus Punch",
+    "unit":"1,5",
+    "extent":"L",
+    "brand":"ism",
+    "price":"",
+    "newPrice":"3.50",
+    "store":"bebidas",
+    "tags":["frugos","no retornable"],
+    "categories":["soda"],
+    "stock":true,
+    "styleTag":{
+      "name":"Citrus Punch",
+      "color_back_top":"#fe6716",
+      "color_back_bottom":"#f78c0c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"Citrus Punch: naranja, mandarina y limón.",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120501007-kris.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12050",
+    "id":"120-50-1007",
+    "idProduct":"120501007",
+    "name":"kris Green Punch",
+    "unit":"1,5",
+    "extent":"L",
+    "brand":"ism",
+    "price":"",
+    "newPrice":"3.50",
+    "store":"bebidas",
+    "tags":["frugos","no retornable"],
+    "categories":["soda"],
+    "stock":true,
+    "styleTag":{
+      "name":"Green Punch",
+      "color_back_top":"#fe6716",
+      "color_back_bottom":"#f78c0c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"Green Punch: pera, kiwi, manzana",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120501008-kris.webp",
       "url_02":"",
       "url_03":""
       }

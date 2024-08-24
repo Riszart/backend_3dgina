@@ -86,8 +86,8 @@
   {
     "idCategory":"120",
     "idStore":"12040",
-    "id":"120-40-1003",
-    "idProduct":"120401003",
+    "id":"120-40-1004",
+    "idProduct":"120401004",
     "name":"sporade tropical",
     "unit":"1.5",
     "extent":"L",
@@ -114,8 +114,8 @@
   {
     "idCategory":"120",
     "idStore":"12040",
-    "id":"120-40-1003",
-    "idProduct":"120401003",
+    "id":"120-40-1005",
+    "idProduct":"120401005",
     "name":"sporade tropical",
     "unit":"473",
     "extent":"ml",
@@ -135,6 +135,34 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/gaseosas/120401005-moster.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12040",
+    "id":"120-40-1006",
+    "idProduct":"120401006",
+    "name":"generade uva verde",
+    "unit":"500",
+    "extent":"ml",
+    "brand":"ism",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"energizante",
+    "tags":["energizante","no retornable"],
+    "categories":["soda"],
+    "stock":true,
+    "styleTag":{
+      "name":"uva verde",
+      "color_back_top":"#2c9942",
+      "color_back_bottom":"#2c9942",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120401006-generade.webp",
       "url_02":"",
       "url_03":""
       }
