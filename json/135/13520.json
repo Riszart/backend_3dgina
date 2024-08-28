@@ -20,7 +20,7 @@
       "color_text":"#f7fff9"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135201001-intipalka_quebranta.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/pisco/135201001-intipalka_quebranta.webp",
       "url_02":"",
       "url_03":""
       }
@@ -46,7 +46,7 @@
       "color_text":"#f7fff9"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135201002-la_caravedo_acholado.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/pisco/135201002-la_caravedo_acholado.webp",
       "url_02":"",
       "url_03":""
       }
@@ -73,7 +73,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/135201003-la_caravedo_quebranta.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/pisco/135201003-la_caravedo_quebranta.webp",
       "url_02":"",
       "url_03":""
       }
