@@ -77,5 +77,113 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13520",
+    "id":"135-20-1004",
+    "idProduct":"135201004",
+    "name":"santiago queirolo - acholado",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"santiago queirolo",
+    "price":"",
+    "newPrice":"36.00",
+    "store":"piscos",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"acholado",
+      "color_back_top":"#6e0005",
+      "color_back_bottom":"#6e0005",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/pisco/135201004-queirolo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13520",
+    "id":"135-20-1005",
+    "idProduct":"135201005",
+    "name":"santiago queirolo - quebranta",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"santiago queirolo",
+    "price":"",
+    "newPrice":"36.00",
+    "store":"piscos",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"quebranta",
+      "color_back_top":"#6e0005",
+      "color_back_bottom":"#6e0005",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/pisco/135201005-queirolo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13520",
+    "id":"135-20-1006",
+    "idProduct":"135201006",
+    "name":"santiago queirolo - quebranta",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"santiago queirolo",
+    "price":"",
+    "newPrice":"36.00",
+    "store":"piscos",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"quebranta",
+      "color_back_top":"#6e0005",
+      "color_back_bottom":"#6e0005",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/pisco/135201006-queirolo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13520",
+    "id":"135-20-1007",
+    "idProduct":"135201007",
+    "name":"santiago queirolo - italia",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"santiago queirolo",
+    "price":"",
+    "newPrice":"36.00",
+    "store":"piscos",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"italia",
+      "color_back_top":"#6e0005",
+      "color_back_bottom":"#6e0005",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/pisco/135201007-queirolo.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

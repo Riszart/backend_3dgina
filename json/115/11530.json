@@ -211,7 +211,7 @@
     "category":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"tentación chocolate",
+      "name":"chocolate",
       "color_back_top":"#905c4e",
       "color_back_bottom":"#905c4e",
       "color_text":"#fbfdfd"
@@ -239,7 +239,7 @@
     "category":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"tentación naranja",
+      "name":"naranja",
       "color_back_top":"#ef510a",
       "color_back_bottom":"#ef510a",
       "color_text":"#fbfdfd"
@@ -752,6 +752,146 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115301027-morochas.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1028",
+    "idProduct":"115301028",
+    "name":"margarita",
+    "unit":"43",
+    "extent":"gr",
+    "brand":"sayon",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["sayon"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"margarita",
+      "color_back_top":"#1f743a",
+      "color_back_bottom":"#e59e3e",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301028-margarita.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1029",
+    "idProduct":"115301029",
+    "name":"margarita taco",
+    "unit":"151",
+    "extent":"gr",
+    "brand":"sayon",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"galletas",
+    "tags":["sayon"],
+    "category":["candy"],
+    "stock":false,
+    "styleTag":{
+      "name":"margarita",
+      "color_back_top":"#1f743a",
+      "color_back_bottom":"#e59e3e",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301029-margarita.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1030",
+    "idProduct":"115301030",
+    "name":"chomp chocolate",
+    "unit":"38",
+    "extent":"gr",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["victoria"],
+    "category":["candy"],
+    "stock":false,
+    "styleTag":{
+      "name":"chomp",
+      "color_back_top":"#87461e",
+      "color_back_bottom":"#cc800b",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301030-chomp.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1031",
+    "idProduct":"115301031",
+    "name":"tentación - coco",
+    "unit":"43",
+    "extent":"gr",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["victoria"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"coco",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301031-tentacion.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1032",
+    "idProduct":"115301032",
+    "name":"tentación - vainilla",
+    "unit":"43",
+    "extent":"gr",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["victoria"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"vainilla",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301032-tentacion.webp",
       "url_02":"",
       "url_03":""
       }
