@@ -3,25 +3,31 @@
     "idBrand":"",
     "nameBrand":"alacena",
     "categoriryBrand":"cremas",
-    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/alacena.jpg"
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/alacena.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"3ositos",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/3ositos.png"
   },
   {
     "idBrand":"",
     "nameBrand":"angel",
     "categoriryBrand":"cereal",
-    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/angel.jpg"
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/angel.webp"
   },
   {
     "idBrand":"",
     "nameBrand":"bolibar",
     "categoriryBrand":"detergente",
-    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/bolibar.jpg"
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/bolibar.png"
   },
   {
     "idBrand":"",
     "nameBrand":"casino",
     "categoriryBrand":"galletas",
-    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/casino.jpg"
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/casino.png"
   },{
     "idBrand":"",
     "nameBrand":"cil",
@@ -32,18 +38,204 @@
     "idBrand":"",
     "nameBrand":"cocinero",
     "categoriryBrand":"aceite",
-    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/cocinero.jpg"
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/cocinero.png"
   },
   {
     "idBrand":"",
     "nameBrand":"glacitas",
     "categoriryBrand":"galletas",
-    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/glacitas.jpg"
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/glacitas.png"
   },
   {
     "idBrand":"",
     "nameBrand":"manty",
     "categoriryBrand":"margarina",
     "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/manty.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"altomayo",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/altomayo.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"ariel",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/ariel.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"big cola",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/bigcola.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"bolivar",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/bolivar.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"cielo",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/cielo.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"coca cola",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/cocacola.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"fanny",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/fanny.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"inca kola",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/incakola.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"johnnie walker",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/johnniewalker.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"kirma",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/kirma.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"kr",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/kr.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"kris",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/kris.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"johnnie walker",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/johnniewalker.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"liguria",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/liguria.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"marsella",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/marsella.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"mike's",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/mike's.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"milo",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/milo.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"nicolini",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/nicolini.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"nosotras",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/nosotras.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"opal",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/opal.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"oreo",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/oreo.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"paracas",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/paracas.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"pilsen",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/pilsen.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"ricocan",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/ricocan.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"ricocat",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/ricocat.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"ritz",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/ritz.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"sapolio",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/sapolio.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"sayon",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/sayon.png"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"sublime",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/sublime.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"takis",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/takis.webp"
+  },
+  {
+    "idBrand":"",
+    "nameBrand":"tentacion",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/tentacion.png"
   }
 ]
