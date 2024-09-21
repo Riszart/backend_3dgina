@@ -13,7 +13,7 @@
     "store":"bebidas",
     "tags":["agua","no retornable","sin gas"],
     "categories":["soda"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"cielo sin gas",
       "color_back_top":"#2c9942",

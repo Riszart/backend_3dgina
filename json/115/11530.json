@@ -41,7 +41,7 @@
     "store":"galletas",
     "tags":["mondelez"],
     "category":["candy"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"morocha",
       "color_back_top":"#ffde49",

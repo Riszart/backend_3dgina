@@ -67,7 +67,7 @@
     "store":"aves",
     "tags":[""],
     "category":["pets"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"entero",
       "color_back_top":"#00a550",
@@ -275,6 +275,33 @@
     "id":"130-10-1010",
     "idProduct":"130101010",
     "name":"vita-ovo adulto",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"nutritec",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"aves",
+    "tags":[""],
+    "category":["pets"],
+    "stock":true,
+    "styleTag":{
+      "name":"vita-ovo",
+      "color_back_top":"#00a550",
+      "color_back_bottom":"#feef0b",
+      "color_text":"#000"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nutritec/",
+      "url_02":"",
+      "url_03":""
+    }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13010",
+    "id":"130-10-1011",
+    "idProduct":"130101011",
+    "name":"vita-ovo bb",
     "unit":"1",
     "extent":"kg",
     "brand":"nutritec",

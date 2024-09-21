@@ -1,4 +1,10 @@
-[
+[  
+  {
+    "idBrand":"",
+    "nameBrand":"takis",
+    "categoriryBrand":"",
+    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/takis.webp"
+  },
   {
     "idBrand":"",
     "nameBrand":"alacena",
@@ -16,12 +22,6 @@
     "nameBrand":"angel",
     "categoriryBrand":"cereal",
     "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/angel.webp"
-  },
-  {
-    "idBrand":"",
-    "nameBrand":"bolivar",
-    "categoriryBrand":"detergente",
-    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/bolivar.png"
   },
   {
     "idBrand":"",
@@ -126,12 +126,6 @@
   },
   {
     "idBrand":"",
-    "nameBrand":"johnnie walker",
-    "categoriryBrand":"",
-    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/johnniewalker.png"
-  },
-  {
-    "idBrand":"",
     "nameBrand":"liguria",
     "categoriryBrand":"",
     "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/liguria.png"
@@ -226,12 +220,7 @@
     "categoriryBrand":"",
     "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/sublime.webp"
   },
-  {
-    "idBrand":"",
-    "nameBrand":"takis",
-    "categoriryBrand":"",
-    "imgBrand":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/takis.webp"
-  },
+
   {
     "idBrand":"",
     "nameBrand":"tentacion",

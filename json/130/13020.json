@@ -13,7 +13,7 @@
     "store":"gatos",
     "tags":[""],
     "category":["pets"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"adulto",
       "color_back_top":"#de7031",
@@ -41,7 +41,7 @@
     "store":"gatos",
     "tags":[""],
     "category":["pets"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"adultos",
       "color_back_top":"#de7031",
@@ -181,7 +181,7 @@
     "store":"gatos",
     "tags":[""],
     "category":["pets"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"paté - adultos",
       "color_back_top":"#e16f29",
@@ -205,7 +205,7 @@
     "extent":"gr",
     "brand":"ricocat",
     "price":"",
-    "newPrice":"5.50",
+    "newPrice":"3.50",
     "store":"gatos",
     "tags":[""],
     "category":["pets"],
@@ -237,7 +237,7 @@
     "store":"gatos",
     "tags":[""],
     "category":["pets"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"paté - gatitos",
       "color_back_top":"#f7b9ba",

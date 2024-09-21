@@ -117,11 +117,11 @@
     "id":"135-10-1005",
     "idProduct":"135101005",
     "name":"pilsen - lata",
-    "unit":"269",
+    "unit":"355",
     "extent":"ml",
     "brand":"pilsen",
     "price":"",
-    "newPrice":"4.70",
+    "newPrice":"4.50",
     "store":"cervezas",
     "tags":[""],
     "category":["liquor-store"],
@@ -135,6 +135,174 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/cervezas/135101005-plisen.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13510",
+    "id":"135-10-1006",
+    "idProduct":"135101006",
+    "name":"pilsen - lata",
+    "unit":"473",
+    "extent":"ml",
+    "brand":"pilsen",
+    "price":"",
+    "newPrice":"5.00",
+    "store":"cervezas",
+    "tags":[""],
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"pilsen - lata",
+      "color_back_top":"#008b2a",
+      "color_back_bottom":"#008b2a",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/cervezas/135101006-plisen.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13510",
+    "id":"135-10-1007",
+    "idProduct":"135101007",
+    "name":"cusqueña trigo- lata",
+    "unit":"473",
+    "extent":"ml",
+    "brand":"cusqueña",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"cervezas",
+    "tags":[""],
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"cusqueña trigo",
+      "color_back_top":"#008b2a",
+      "color_back_bottom":"#008b2a",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/cervezas/135101007-cusquena.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13510",
+    "id":"135-10-1008",
+    "idProduct":"135101008",
+    "name":"cusqueña trigo - lata",
+    "unit":"355",
+    "extent":"ml",
+    "brand":"cusqueña",
+    "price":"",
+    "newPrice":"4.80",
+    "store":"cervezas",
+    "tags":[""],
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"cusqueña trigo",
+      "color_back_top":"#008b2a",
+      "color_back_bottom":"#008b2a",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/cervezas/135101008-cusquena.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13510",
+    "id":"135-10-1009",
+    "idProduct":"135101009",
+    "name":"coronita - botella",
+    "unit":"210",
+    "extent":"ml",
+    "brand":"corona",
+    "price":"",
+    "newPrice":"3.50",
+    "store":"cervezas",
+    "tags":[""],
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"coronita",
+      "color_back_top":"#008b2a",
+      "color_back_bottom":"#008b2a",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/cervezas/135101009-corona.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13510",
+    "id":"135-10-1010",
+    "idProduct":"135101010",
+    "name":"corona extra - botella",
+    "unit":"330",
+    "extent":"ml",
+    "brand":"corona",
+    "price":"",
+    "newPrice":"5.00",
+    "store":"cervezas",
+    "tags":[""],
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"corona extra",
+      "color_back_top":"#008b2a",
+      "color_back_bottom":"#008b2a",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/cervezas/135101010-corona.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13510",
+    "id":"135-10-1011",
+    "idProduct":"135101011",
+    "name":"tres cruces lager- lata",
+    "unit":"473",
+    "extent":"ml",
+    "brand":"tres cruces",
+    "price":"",
+    "newPrice":"4.00",
+    "store":"cervezas",
+    "tags":[""],
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"tres cruces",
+      "color_back_top":"#151812",
+      "color_back_bottom":"#151812",
+      "color_text":"#000"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/bebidas/135101011-trescruces.webp",
       "url_02":"",
       "url_03":""
       }

@@ -39,7 +39,7 @@
     "newPrice":"26.00",
     "store":"rons",
     "category":["liquor-store"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"cartavio blanco",
       "color_back_top":"#3b3c48",
@@ -66,7 +66,7 @@
     "newPrice":"30.00",
     "store":"rons",
     "category":["liquor-store"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"cartavio black",
       "color_back_top":"#787978",
@@ -130,6 +130,168 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/ron/135301005-ron_cartabio_black_barrel.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13530",
+    "id":"135-30-1006",
+    "idProduct":"135301006",
+    "name":"ron cartavio - superior",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"cartavio",
+    "price":"",
+    "newPrice":"32.00",
+    "store":"rons",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"cartavio superior",
+      "color_back_top":"#1a1712",
+      "color_back_bottom":"#181918",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/ron/135301006-ron_cartabio.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13530",
+    "id":"135-30-1007",
+    "idProduct":"135301007",
+    "name":"Barceló Añejo",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"Barceló",
+    "price":"",
+    "newPrice":"43.00",
+    "store":"rons",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"Barceló Añejo",
+      "color_back_top":"#1a1712",
+      "color_back_bottom":"#181918",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/ron/135301007-barcelo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13530",
+    "id":"135-30-1008",
+    "idProduct":"135301008",
+    "name":"Barceló Añejo",
+    "unit":"1000",
+    "extent":"L",
+    "brand":"Barceló",
+    "price":"",
+    "newPrice":"50.00",
+    "store":"rons",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"Barceló Añejo",
+      "color_back_top":"#1a1712",
+      "color_back_bottom":"#181918",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/ron/135301008-barcelo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13530",
+    "id":"135-30-1009",
+    "idProduct":"135301009",
+    "name":"ron cartavio - black",
+    "unit":"250",
+    "extent":"ml",
+    "brand":"cartavio",
+    "price":"",
+    "newPrice":"10.00",
+    "store":"rons",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"cartavio black",
+      "color_back_top":"#787978",
+      "color_back_bottom":"#181918",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/ron/135301009-ron_cartabio.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13530",
+    "id":"135-30-1010",
+    "idProduct":"135301010",
+    "name":"ron cartavio - black",
+    "unit":"125",
+    "extent":"ml",
+    "brand":"cartavio",
+    "price":"",
+    "newPrice":"7.00",
+    "store":"rons",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"cartavio black",
+      "color_back_top":"#787978",
+      "color_back_bottom":"#181918",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/ron/135301010-ron_cartabio.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13530",
+    "id":"135-30-1011",
+    "idProduct":"135301011",
+    "name":"ron cartavio - superior",
+    "unit":"275",
+    "extent":"ml",
+    "brand":"cartavio",
+    "price":"",
+    "newPrice":"11.00",
+    "store":"rons",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"cartavio superior",
+      "color_back_top":"#1a1712",
+      "color_back_bottom":"#181918",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/ron/135301011-ron_cartabio.webp",
       "url_02":"",
       "url_03":""
       }

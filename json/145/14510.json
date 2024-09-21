@@ -12,7 +12,7 @@
     "newPrice":"5.50",
     "store":"toallas higienicas",
     "category":["health"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"nocturna",
       "color_back_top":"#52306d",
@@ -39,7 +39,7 @@
     "newPrice":"4.00",
     "store":"toallas higienicas",
     "category":["health"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"normal",
       "color_back_top":"#e3228e",
@@ -66,7 +66,7 @@
     "newPrice":"4.50",
     "store":"toallas higienicas",
     "category":["health"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"normal",
       "color_back_top":"#9aca3c",
@@ -93,7 +93,7 @@
     "newPrice":"6.50",
     "store":"toallas higienicas",
     "category":["health"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"normal",
       "color_back_top":"#82318c",
@@ -120,7 +120,7 @@
     "newPrice":"5.00",
     "store":"toallas higienicas",
     "category":["health"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"clasico",
       "color_back_top":"#96cb03",

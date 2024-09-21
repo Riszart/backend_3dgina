@@ -13,7 +13,7 @@
     "store":"perro",
     "tags":[""],
     "category":["pets"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"multisabores adultos",
       "color_back_top":"#5d267b",
@@ -69,7 +69,7 @@
     "store":"perro",
     "tags":[""],
     "category":["pets"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"adultos pequeños",
       "color_back_top":"#006bb1",
@@ -181,7 +181,7 @@
     "store":"perro",
     "tags":[""],
     "category":["pets"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"paté - adultos",
       "color_back_top":"#9d5e2b",
@@ -293,7 +293,7 @@
     "store":"perro",
     "tags":[""],
     "category":["pets"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"4 en 1",
       "color_back_top":"#5a2c82",
@@ -321,7 +321,7 @@
     "store":"perro",
     "tags":["shampoo"],
     "category":["pets"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"antipulgas",
       "color_back_top":"#233266",
