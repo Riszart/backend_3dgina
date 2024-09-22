@@ -12,7 +12,7 @@
     "newPrice":"58.00",
     "store":"whisky",
     "category":["liquor-store"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"red label",
       "color_back_top":"#ab110e",
@@ -75,7 +75,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/whisky/135601003-gold_label.jpeg",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/whisky/135601003-gold_label.webp",
       "url_02":"",
       "url_03":""
       }
@@ -88,9 +88,9 @@
     "name":"Old Times Red",
     "unit":"750",
     "extent":"ml",
-    "brand":"jonny wolker",
+    "brand":"Old Times",
     "price":"",
-    "newPrice":"30.00",
+    "newPrice":"25.00",
     "store":"whisky",
     "category":["liquor-store"],
     "stock":true,
@@ -102,7 +102,34 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/whisky/135601004-old_time.jpeg",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/whisky/135601004-old_time.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13560",
+    "id":"135-60-1005",
+    "idProduct":"135601005",
+    "name":"Old Times Red",
+    "unit":"1",
+    "extent":"L",
+    "brand":"Old Times",
+    "price":"28.00",
+    "newPrice":"27.00",
+    "store":"whisky",
+    "category":["liquor-store"],
+    "stock":false,
+    "styleTag":{
+      "name":"Old Times Red",
+      "color_back_top":"#e0b96b",
+      "color_back_bottom":"#e0b96b",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/whisky/135601005-old_time.webp",
       "url_02":"",
       "url_03":""
       }

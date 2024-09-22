@@ -220,10 +220,10 @@
     "idStore":"13540",
     "id":"135-40-1009",
     "idProduct":"135401009",
-    "name":"Viña Vieja - Borgoña",
+    "name":"Los Reyes Borgoña Semi Seco",
     "unit":"750",
     "extent":"ml",
-    "brand":"Viña Vieja",
+    "brand":"Los Reyes",
     "price":"",
     "newPrice":"16.00",
     "store":"vinos",
@@ -237,7 +237,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/vino/135401009-vina_vieja.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/vino/135401009-los_reyes.webp",
       "url_02":"",
       "url_03":""
       }

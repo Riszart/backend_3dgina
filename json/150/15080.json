@@ -15,13 +15,13 @@
     "stock":true,
     "styleTag":{
       "name":"nescafe",
-      "color_back_top":"#15442b",
-      "color_back_bottom":"#84735f",
+      "color_back_top":"#000",
+      "color_back_bottom":"#e1251c",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/instantaneo/150801001-nescafe.webp",
       "url_02":"",
       "url_03":""
       }
@@ -42,13 +42,13 @@
     "stock":true,
     "styleTag":{
       "name":"kirma",
-      "color_back_top":"#15442b",
-      "color_back_bottom":"#84735f",
+      "color_back_top":"#fcd306",
+      "color_back_bottom":"#e2241b",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/instantaneo/150801002-kirma.webp",
       "url_02":"",
       "url_03":""
       }
@@ -59,7 +59,7 @@
     "id":"150-80-1003",
     "idProduct":"150801003",
     "name":"cafetal",
-    "unit":"8",
+    "unit":"7",
     "extent":"gr",
     "brand":"alicorp",
     "price":"",
@@ -69,13 +69,13 @@
     "stock":true,
     "styleTag":{
       "name":"cafetal",
-      "color_back_top":"#15442b",
-      "color_back_bottom":"#84735f",
+      "color_back_top":"#4a750b",
+      "color_back_bottom":"#e42618",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/150801003-cafetal.webp",
       "url_02":"",
       "url_03":""
       }
@@ -93,7 +93,7 @@
     "newPrice":"1.50",
     "store":"preparado",
     "category":["breakfast"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"altomayo",
       "color_back_top":"#15442b",
@@ -129,7 +129,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/150801005-winter.webp",
       "url_02":"",
       "url_03":""
     }
@@ -150,13 +150,13 @@
     "stock":true,
     "styleTag":{
       "name":"",
-      "color_back_top":"#15442b",
-      "color_back_bottom":"#84735f",
-      "color_text":"#fff"
+      "color_back_top":"#025eba",
+      "color_back_bottom":"#fedb02",
+      "color_text":"#000"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/instantaneo/150801006-nesquik.webp",
       "url_02":"",
       "url_03":""
     }
@@ -177,13 +177,13 @@
     "stock":true,
     "styleTag":{
       "name":"milo",
-      "color_back_top":"#15442b",
-      "color_back_bottom":"#84735f",
+      "color_back_top":"#0eb04c",
+      "color_back_bottom":"#f2ea1e",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/instantaneo/150801007-milo.webp",
       "url_02":"",
       "url_03":""
     }
@@ -193,7 +193,7 @@
     "idStore":"15080",
     "id":"150-80-1008",
     "idProduct":"150801008",
-    "name":"ecco cebada instantanea",
+    "name":"ecco bebida instantanea",
     "unit":"12",
     "extent":"gr",
     "brand":"nestle",
@@ -204,13 +204,13 @@
     "stock":true,
     "styleTag":{
       "name":"ecco",
-      "color_back_top":"#15442b",
-      "color_back_bottom":"#84735f",
+      "color_back_top":"#01b4e9",
+      "color_back_bottom":"#7c3a29",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/instantaneo/150801008-ecco.webp",
       "url_02":"",
       "url_03":""
     }
@@ -220,24 +220,24 @@
     "idStore":"15080",
     "id":"150-80-1009",
     "idProduct":"150801009",
-    "name":"cafe filtrante",
-    "unit":"",
+    "name":"cocoa - donofrio",
+    "unit":"10",
     "extent":"gr",
-    "brand":"",
+    "brand":"donofrio",
     "price":"",
-    "newPrice":"0.30",
+    "newPrice":"0.80",
     "store":"preparado",
     "category":["breakfast"],
     "stock":true,
     "styleTag":{
-      "name":"cafe filtrante",
-      "color_back_top":"#15442b",
-      "color_back_bottom":"#84735f",
+      "name":"cocoa",
+      "color_back_top":"#001a59",
+      "color_back_bottom":"#00a8b5",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/instantaneo/150801009-cocoa.webp",
       "url_02":"",
       "url_03":""
     }
@@ -255,7 +255,7 @@
     "newPrice":"0.10",
     "store":"preparado",
     "category":["breakfast"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"filtrante",
       "color_back_top":"#15442b",

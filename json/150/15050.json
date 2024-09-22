@@ -25,5 +25,32 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15050",
+    "id":"150-50-1002",
+    "idProduct":"150501002",
+    "name":"paneton donofrio - bolsa",
+    "unit":"880",
+    "extent":"gr",
+    "brand":"donofrio",
+    "price":"29.00",
+    "newPrice":"25.00",
+    "store":"panetones",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"donofrio",
+      "color_back_top":"#001a59",
+      "color_back_bottom":"#00a8b5",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/150501002-paneton.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]
