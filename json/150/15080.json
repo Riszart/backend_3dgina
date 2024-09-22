@@ -123,8 +123,8 @@
     "stock":true,
     "styleTag":{
       "name":"cocoa",
-      "color_back_top":"#15442b",
-      "color_back_bottom":"#84735f",
+      "color_back_top":"#ff0225",
+      "color_back_bottom":"#010f8d",
       "color_text":"#fff"
     },
     "description":"",
@@ -149,14 +149,14 @@
     "category":["breakfast"],
     "stock":true,
     "styleTag":{
-      "name":"",
+      "name":"nesquik",
       "color_back_top":"#025eba",
       "color_back_bottom":"#fedb02",
       "color_text":"#000"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/instantaneo/150801006-nesquik.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/instantaneo/150801006-nesquik.webp",
       "url_02":"",
       "url_03":""
     }

@@ -125,7 +125,7 @@
     "store":"limpiatodo",
     "tags":["limpiatodo","piso"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"primavera",
       "color_back_top":"#cb007b",
@@ -153,7 +153,7 @@
     "store":"limpiatodo",
     "tags":["limpiatodo","piso"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"alegra tu dia",
       "color_back_top":"#00adba",

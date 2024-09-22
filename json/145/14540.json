@@ -1,27 +1,81 @@
 [
   {
     "idCategory":"145",
-    "idStore":"14520",
-    "id":"145-20-1001",
-    "idProduct":"145201001",
-    "name":"",
-    "unit":"",
-    "extent":"",
-    "brand":"",
+    "idStore":"14540",
+    "id":"145-40-1001",
+    "idProduct":"145401001",
+    "name":"colgate tripe accíon",
+    "unit":"75",
+    "extent":"ml",
+    "brand":"colgate",
     "price":"",
-    "newPrice":"",
-    "store":"",
+    "newPrice":"7.00",
+    "store":"pasta dental",
     "category":["health"],
     "stock":true,
     "styleTag":{
-      "name":"",
-      "color_back_top":"##8e2d8e",
-      "color_back_bottom":"#9a6a22",
+      "name":"tripe accíon",
+      "color_back_top":"#ef0002",
+      "color_back_bottom":"#008bcb",
       "color_text":"#ffffff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/paracas/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/colgate/145401001-colgate.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14540",
+    "id":"145-40-1002",
+    "idProduct":"145401002",
+    "name":"colgate tripe accíon familiar",
+    "unit":"150",
+    "extent":"ml",
+    "brand":"colgate",
+    "price":"",
+    "newPrice":"11.50",
+    "store":"pasta dental",
+    "category":["health"],
+    "stock":true,
+    "styleTag":{
+      "name":"familiar",
+      "color_back_top":"#ef0002",
+      "color_back_bottom":"#008bcb",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/colgate/145401002-colgate.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14540",
+    "id":"145-40-1003",
+    "idProduct":"145401003",
+    "name":"colgate tripe accíon xtra blancura",
+    "unit":"45",
+    "extent":"ml",
+    "brand":"colgate",
+    "price":"",
+    "newPrice":"4.30",
+    "store":"pasta dental",
+    "category":["health"],
+    "stock":true,
+    "styleTag":{
+      "name":"xtra blancura",
+      "color_back_top":"#ef0002",
+      "color_back_bottom":"#008bcb",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/colgate/145401003-colgate.webp",
       "url_02":"",
       "url_03":""
       }

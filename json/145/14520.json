@@ -160,5 +160,32 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14520",
+    "id":"145-20-1007",
+    "idProduct":"145201007",
+    "name":"toallitas umedas pequeñin",
+    "unit":"1",
+    "extent":"und",
+    "brand":"pequeñin",
+    "price":"",
+    "newPrice":"4.00",
+    "store":"toallitas umedas",
+    "category":["health"],
+    "stock":true,
+    "styleTag":{
+      "name":"pequeñin",
+      "color_back_top":"#19aa48",
+      "color_back_bottom":"#7b1e7e",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoFamilia/145201007-pequenin.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]
