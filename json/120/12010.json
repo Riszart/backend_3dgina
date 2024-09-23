@@ -15,7 +15,7 @@
     "categories":["soda"],
     "stock":false,
     "styleTag":{
-      "name":"cielo sin gas",
+      "name":"sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
       "color_text":"#fbfdfd"
@@ -42,7 +42,7 @@
     "categories":["soda"],
     "stock":true,
     "styleTag":{
-      "name":"cielo sin gas",
+      "name":"sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
       "color_text":"#fbfdfd"
@@ -69,7 +69,7 @@
     "categories":["soda"],
     "stock":true,
     "styleTag":{
-      "name":"cielo sin gas",
+      "name":"sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
       "color_text":"#fbfdfd"
@@ -96,7 +96,7 @@
     "categories":["soda"],
     "stock":true,
     "styleTag":{
-      "name":"cielo sin gas",
+      "name":"sin gas",
       "color_back_top":"#2c9942",
       "color_back_bottom":"#2c9942",
       "color_text":"#fbfdfd"
@@ -123,13 +123,13 @@
     "categories":["soda"],
     "stock":true,
     "styleTag":{
-      "name":"benedictino sin gas",
+      "name":"sin gas",
       "color_back_top":"#006a62",
       "color_back_bottom":"#006a62",
       "color_text":"#fffdfe"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/water/120101005-benedictino.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/water/120101005-benedictino.webp",
       "url_02":"",
       "url_03":""
       }
@@ -150,13 +150,13 @@
     "categories":["soda"],
     "stock":true,
     "styleTag":{
-      "name":"san luis sin gas",
+      "name":"sin gas",
       "color_back_top":"#009dc5",
       "color_back_bottom":"#009dc5",
       "color_text":"#fafcfc"
     },
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/water/120101006-san_luis_sin_gas.png",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/water/120101006-san_luis_sin_gas.webp",
       "url_02":"",
       "url_03":""
       }
@@ -177,13 +177,40 @@
     "categories":["soda"],
     "stock":true,
     "styleTag":{
-      "name":"loa sin gas",
+      "name":"sin gas",
       "color_back_top":"#03b442",
       "color_back_bottom":"#454545",
       "color_text":"#fafcfc"
     },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120101007-loa.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"120",
+    "idStore":"12010",
+    "id":"120-10-1008",
+    "idProduct":"120101008",
+    "name":"benedictino",
+    "unit":"600",
+    "extent":"ml",
+    "brand":"linley",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"bebidas",
+    "tags":["agua","no retornable"],
+    "categories":["soda"],
+    "stock":true,
+    "styleTag":{
+      "name":"sin gas",
+      "color_back_top":"#006a62",
+      "color_back_bottom":"#006a62",
+      "color_text":"#fffdfe"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/lindley/water/120101008-benedictino.webp",
       "url_02":"",
       "url_03":""
       }

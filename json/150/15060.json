@@ -106,5 +106,86 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15060",
+    "id":"150-60-1005",
+    "idProduct":"150601005",
+    "name":"mermelada - sachet",
+    "unit":"90",
+    "extent":"gr",
+    "brand":"fanny",
+    "price":"",
+    "newPrice":"1.80",
+    "store":"untar",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"fresa",
+      "color_back_top":"#c7af80",
+      "color_back_bottom":"#fc0010",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/fanny/150601005-mermelada.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15060",
+    "id":"150-60-1004",
+    "idProduct":"150601004",
+    "name":"mermelada - pote",
+    "unit":"320",
+    "extent":"gr",
+    "brand":"fanny",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"untar",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"fresa",
+      "color_back_top":"#c7af80",
+      "color_back_bottom":"#fc0010",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/fanny/150601006-mermelada.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15060",
+    "id":"150-60-1004",
+    "idProduct":"150601004",
+    "name":"mermelada - vidrio",
+    "unit":"950",
+    "extent":"gr",
+    "brand":"fanny",
+    "price":"",
+    "newPrice":"11.50",
+    "store":"untar",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"fresa",
+      "color_back_top":"#c7af80",
+      "color_back_bottom":"#fc0010",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/fanny/150601007-mermelada.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

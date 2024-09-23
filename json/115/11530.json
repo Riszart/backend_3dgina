@@ -41,7 +41,7 @@
     "store":"galletas",
     "tags":["mondelez"],
     "category":["candy"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"morocha",
       "color_back_top":"#ffde49",
@@ -50,7 +50,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115301026-morochas.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/candy/115301026-morochas.webp",
       "url_02":"",
       "url_03":""
       }
@@ -671,7 +671,6 @@
       "url_03":""
       }
   },
-
   {
     "idCategory":"115",
     "idStore":"11530",
@@ -751,7 +750,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/115301027-morochas.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nestle/candy/115301027-morochas.webp",
       "url_02":"",
       "url_03":""
       }
@@ -892,6 +891,174 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301032-tentacion.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1033",
+    "idProduct":"115301033",
+    "name":"field - vainilla",
+    "unit":"148",
+    "extent":"gr",
+    "brand":"field",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"galletas",
+    "tags":["mondelez"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"vainilla",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/mondelez/115301033-vainilla.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1034",
+    "idProduct":"115301034",
+    "name":"field - vainilla",
+    "unit":"37",
+    "extent":"gr",
+    "brand":"field",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["mondelez"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"vainilla",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/mondelez/115301034-vainilla.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1035",
+    "idProduct":"115301035",
+    "name":"chokosoda field",
+    "unit":"36",
+    "extent":"gr",
+    "brand":"field",
+    "price":"",
+    "newPrice":"1.20",
+    "store":"galletas",
+    "tags":["mondelez"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"chokosoda",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/mondelez/115301035-chokosoda.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1036",
+    "idProduct":"115301036",
+    "name":"soda field",
+    "unit":"32",
+    "extent":"gr",
+    "brand":"field",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":["mondelez"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"soda",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/mondelez/115301036-soda.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1037",
+    "idProduct":"115301037",
+    "name":"chocman",
+    "unit":"33.5",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":[""],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"chocman",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115301037-chocman.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1038",
+    "idProduct":"115301038",
+    "name":"nik - vainilla",
+    "unit":"29",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"0.50",
+    "store":"galletas",
+    "tags":[""],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"vainilla",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115301038-nik.webp",
       "url_02":"",
       "url_03":""
       }

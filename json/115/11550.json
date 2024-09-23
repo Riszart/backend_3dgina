@@ -295,5 +295,59 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-1012",
+    "idProduct":"115501012",
+    "name":"Papas Pringles Original",
+    "unit":"104",
+    "extent":"gr",
+    "brand":"Pringles",
+    "price":"",
+    "newPrice":"9.00",
+    "store":"snacks",
+    "tags":["papitas"],
+    "categories":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"original",
+      "color_back_top":"#f41f27",
+      "color_back_bottom":"#f41f27",
+      "color_text":"#fff"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/115501012-pringles.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11550",
+    "id":"115-50-1013",
+    "idProduct":"115501013",
+    "name":"Papas Pringles Original",
+    "unit":"37",
+    "extent":"gr",
+    "brand":"Pringles",
+    "price":"",
+    "newPrice":"5.00",
+    "store":"snacks",
+    "tags":["papitas"],
+    "categories":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"original",
+      "color_back_top":"#f41f27",
+      "color_back_bottom":"#f41f27",
+      "color_text":"#fff"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/115501013-pringles.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]
