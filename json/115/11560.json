@@ -1,0 +1,30 @@
+[
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1019",
+    "idProduct":"115301019",
+    "name":" ",
+    "unit":" ",
+    "extent":" ",
+    "brand":" ",
+    "price":"",
+    "newPrice":" ",
+    "store":" ",
+    "tags":[" "],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":" ",
+      "color_back_top":"#c82c93",
+      "color_back_bottom":"#79695c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]

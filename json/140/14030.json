@@ -9,7 +9,7 @@
     "extent":"kg",
     "brand":"sapolio",
     "price":"",
-    "newPrice":"",
+    "newPrice":"8.00",
     "store":"lejias",
     "tags":[],
     "categories":["cleaning"],
@@ -37,7 +37,7 @@
     "extent":"kg",
     "brand":"sapolio",
     "price":"",
-    "newPrice":"",
+    "newPrice":"3.80",
     "store":"lejias",
     "tags":["lejias"],
     "categories":["cleaning"],
@@ -134,7 +134,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/clorox/140301004-clorox.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/clorox/140301004-clorox.webp",
       "url_02":"",
       "url_03":""
       }
@@ -162,7 +162,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/clorox/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/clorox/",
       "url_02":"",
       "url_03":""
       }
@@ -190,7 +190,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/clorox/140301007-clorox.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/clorox/140301007-clorox.webp",
       "url_02":"",
       "url_03":""
       }

@@ -166,5 +166,33 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11040",
+    "id":"110-40-1007",
+    "idProduct":"110401007",
+    "name":"filete de atún - agua y sal",
+    "unit":"140",
+    "extent":"gr",
+    "brand":"fanny",
+    "price":"",
+    "newPrice":"6.00",
+    "store":"conserva",
+    "tags":["conserva"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"filete atún",
+      "color_back_top":"#4a9dbf",
+      "color_back_bottom":"#836f5f",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/fanny/110401007-filete.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

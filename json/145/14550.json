@@ -25,5 +25,140 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14550",
+    "id":"145-50-1002",
+    "idProduct":"145501002",
+    "name":"cepillo dental limpialenguas - suave ",
+    "unit":"1",
+    "extent":"und",
+    "brand":"dento",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"cepillo de diente",
+    "category":["health"],
+    "stock":true,
+    "styleTag":{
+      "name":"suave",
+      "color_back_top":"#0098e3",
+      "color_back_bottom":"#0098e3",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/dento/145501002-dento.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14550",
+    "id":"145-50-1003",
+    "idProduct":"145501003",
+    "name":"cepillo dental premiun grab - medio ",
+    "unit":"1",
+    "extent":"und",
+    "brand":"dento",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"cepillo de diente",
+    "category":["health"],
+    "stock":true,
+    "styleTag":{
+      "name":"medio",
+      "color_back_top":"#0098e3",
+      "color_back_bottom":"#06b31e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/dento/145501003-dento.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14550",
+    "id":"145-50-1004",
+    "idProduct":"145501004",
+    "name":"cepillo dental premiun grab - duro ",
+    "unit":"1",
+    "extent":"und",
+    "brand":"dento",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"cepillo de diente",
+    "category":["health"],
+    "stock":true,
+    "styleTag":{
+      "name":"duro",
+      "color_back_top":"#0098e3",
+      "color_back_bottom":"#e30613",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/dento/145501004-dento.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14550",
+    "id":"145-50-1005",
+    "idProduct":"145501005",
+    "name":"cepillo dental galaxy niños ",
+    "unit":"1",
+    "extent":"und",
+    "brand":"dento",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"cepillo de diente",
+    "category":["health"],
+    "stock":true,
+    "styleTag":{
+      "name":"niños",
+      "color_back_top":"##a43a79",
+      "color_back_bottom":"#e30613",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/dento/145501005-dento.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14550",
+    "id":"145-50-1006",
+    "idProduct":"145501006",
+    "name":"cepillo dental premiun grab - suave ",
+    "unit":"1",
+    "extent":"und",
+    "brand":"dento",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"cepillo de diente",
+    "category":["health"],
+    "stock":true,
+    "styleTag":{
+      "name":"suave",
+      "color_back_top":"#0098e3",
+      "color_back_bottom":"#0098e3",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/dento/145501006-dento.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

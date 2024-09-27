@@ -112,7 +112,7 @@
     "idStore":"13540",
     "id":"135-40-1005",
     "idProduct":"135401005",
-    "name":"tabernero - borgoña",
+    "name":"tabernero borgoña - semi seco",
     "unit":"750",
     "extent":"ml",
     "brand":"tabernero",
@@ -238,6 +238,60 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/vino/135401009-los_reyes.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13540",
+    "id":"135-40-1010",
+    "idProduct":"135401010",
+    "name":"Los Reyes Rose Semi Seco",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"Los Reyes",
+    "price":"",
+    "newPrice":"16.00",
+    "store":"vinos",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"rose",
+      "color_back_top":"#642435",
+      "color_back_bottom":"#642435",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/vino/135401010-los_reyes.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"135",
+    "idStore":"13540",
+    "id":"135-40-1011",
+    "idProduct":"135401011",
+    "name":"Viña Vieja - Borgoña",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"Viña Vieja",
+    "price":"",
+    "newPrice":"16.00",
+    "store":"vinos",
+    "category":["liquor-store"],
+    "stock":true,
+    "styleTag":{
+      "name":"Borgoña",
+      "color_back_top":"#642435",
+      "color_back_bottom":"#642435",
+      "color_text":"#f7fff9"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/backus/licores/vino/135401011-vina_vieja.webp",
       "url_02":"",
       "url_03":""
       }
