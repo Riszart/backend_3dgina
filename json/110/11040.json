@@ -194,5 +194,61 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11040",
+    "id":"110-40-1008",
+    "idProduct":"110401008",
+    "name":"filete de atún - D'GUSSTO",
+    "unit":"170",
+    "extent":"gr",
+    "brand":"D'GUSSTO",
+    "price":"",
+    "newPrice":"6.00",
+    "store":"conserva",
+    "tags":["conserva"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"filete atún",
+      "color_back_top":"#4a9dbf",
+      "color_back_bottom":"#836f5f",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11040",
+    "id":"110-40-1009",
+    "idProduct":"110401009",
+    "name":"trozos de atún - D'GUSSTO",
+    "unit":"170",
+    "extent":"gr",
+    "brand":"D'GUSSTO",
+    "price":"",
+    "newPrice":"5.50",
+    "store":"conserva",
+    "tags":["conserva"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"trozos atún",
+      "color_back_top":"#4a9dbf",
+      "color_back_bottom":"#836f5f",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

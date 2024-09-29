@@ -8,7 +8,13 @@
         "memestras":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11010.json",
         "apanar":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11020.json",
         "pastas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11030.json",
-        "conserva":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11040.json"
+        "conserva":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11040.json",
+        "salsas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11050.json",
+        "aceites":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11060.json",
+        "condimentos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11070.json",
+        "intantanea":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11080.json"
+
+
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/market.jpg"
     },
@@ -43,7 +49,9 @@
       "nameE":"category/bookshop",
       "id":"125",
       "urls":{
-        "escolar":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/125/12510.json"
+        "utiles":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/125/12510.json",
+        "papeleria":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/125/12520.json",
+        "cintas y pegamentos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/125/12530.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/bookshop.jpg"
     },
@@ -84,7 +92,9 @@
         "lejias":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14030.json",
         "lejia color":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14040.json",
         "enjuages":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14050.json",
-        "limpiadores":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14060.json"
+        "limpiadores":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14060.json",
+        "lavavajilla":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14070.json",
+        "acsesorios":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14080.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/clean-product.jpg"
     },
@@ -96,8 +106,10 @@
         "papel-higienico":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14520.json",
         "jabon":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14530.json",
         "toallas-higienicas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14510.json",
-        "pasta-dental":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14540.json",
-        "cepillo-dental":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14550.json"
+        "dental":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14540.json",
+        "estetica":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14550.json",
+        "farmacia":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14560.json",
+        "shampoo":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14570.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/personal-hygiene.jpg"
     },
@@ -115,6 +127,25 @@
         "instantanea":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15080.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/breakfast.jpg"
+    },
+    "category-bazar":{
+      "name":"bazar", 
+      "nameE":"category/bazar",
+      "id":"160",
+      "urls":{
+        "bolsas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/160/16010.json",
+        "plasticos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/160/16020.json"
+      },
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/bazar.jpg"
+    },
+    "category-ferreteria":{
+      "name":"ferretería", 
+      "nameE":"category/ferreteria",
+      "id":"170",
+      "urls":{
+        "iluminacion":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/170/17010.json"
+      },
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/bazar.jpg"
     }
   },
   {
@@ -165,56 +196,6 @@
       "id":"207",
       "":"",
       "img":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/Brand/manty.png"
-    }
-  },
-  {
-    "company-ritinza":{
-      "name":"ritinza",
-      "id":"10",
-      "":"",
-      "img":""
-    },
-    "company-backus":{
-      "name":"backus",
-      "id":"20",
-      "":"",
-      "img":""
-    },
-    "company-age":{
-      "name":"age",
-      "id":"30",
-      "":"",
-      "img":""
-    },
-    "company-msi":{
-      "name":"msi",
-      "id":"40",
-      "":"",
-      "img":""
-    },
-    "company-molitalia":{
-      "name":"molitalia",
-      "id":"50",
-      "":"",
-      "img":""
-    },
-    "company-lynley":{
-      "name":"lynley",
-      "id":"60",
-      "":"",
-      "img":""
-    },
-    "company-vega":{
-      "name":"vega",
-      "id":"70",
-      "":"",
-      "img":""
-    },
-    "company-nutritec":{
-      "name":"nutritec",
-      "id":"80",
-      "":"",
-      "img":""
     }
   }
 ]

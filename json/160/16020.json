@@ -1,0 +1,56 @@
+[
+  {
+    "idCategory":"160",
+    "idStore":"16020",
+    "id":"160-20-1001",
+    "idProduct":"160201001",
+    "name":"basos trasparente",
+    "unit":"50",
+    "extent":"und",
+    "brand":"",
+    "price":"",
+    "newPrice":"1.50",
+    "store":"platicos",
+    "category":["bazar"],
+    "stock":true,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#010c8e",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"160",
+    "idStore":"16020",
+    "id":"160-20-1002",
+    "idProduct":"160201002",
+    "name":"sorbete de colores",
+    "unit":"50",
+    "extent":"und",
+    "brand":"",
+    "price":"",
+    "newPrice":"1.50",
+    "store":"platicos",
+    "category":["bazar"],
+    "stock":true,
+    "styleTag":{
+      "name":"sorbete",
+      "color_back_top":"#010c8e",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]
