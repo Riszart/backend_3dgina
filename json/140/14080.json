@@ -4,25 +4,25 @@
     "idStore":"14080",
     "id":"140-80-1001",
     "idProduct":"140801001",
-    "name":"guantes",
-    "unit":"",
-    "extent":"",
-    "brand":"",
+    "name":"guantes de colores",
+    "unit":"1",
+    "extent":"par",
+    "brand":"generico",
     "price":"",
-    "newPrice":"",
+    "newPrice":"5.00",
     "store":"acsesorios",
-    "tags":["acido","piso"],
+    "tags":[""],
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"",
+      "name":"colores",
       "color_back_top":"#231f20",
       "color_back_bottom":"#052770",
       "color_text":"#ffffff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/vega/vclean/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/guantes/140801001-guantes.webp",
       "url_02":"",
       "url_03":""
       }

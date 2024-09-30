@@ -212,13 +212,13 @@
     "stock":true,
     "styleTag":{
       "name":"filete atún",
-      "color_back_top":"#4a9dbf",
-      "color_back_bottom":"#836f5f",
+      "color_back_top":"#157530",
+      "color_back_bottom":"#157530",
       "color_text":"#fbfdfd"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/110401008-dgussto.webp",
       "url_02":"",
       "url_03":""
       }
@@ -240,13 +240,13 @@
     "stock":true,
     "styleTag":{
       "name":"trozos atún",
-      "color_back_top":"#4a9dbf",
-      "color_back_bottom":"#836f5f",
+      "color_back_top":"#ff6e00",
+      "color_back_bottom":"#ff6e00",
       "color_text":"#fbfdfd"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/110401009-dgussto.webp",
       "url_02":"",
       "url_03":""
       }

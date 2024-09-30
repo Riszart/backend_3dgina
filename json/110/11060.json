@@ -138,5 +138,33 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11060",
+    "id":"110-60-1006",
+    "idProduct":"110601006",
+    "name":"aceite de girasol - d´gussto",
+    "unit":"900",
+    "extent":"ml",
+    "brand":"aje",
+    "price":"",
+    "newPrice":"8.50",
+    "store":"aceites",
+    "tags":["aceites"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"d´gussto",
+      "color_back_top":"#feb201",
+      "color_back_bottom":"#feb201",
+      "color_text":"#000"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/110601006-dgussto.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]
