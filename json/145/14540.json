@@ -112,7 +112,7 @@
     "idStore":"14540",
     "id":"145-40-1005",
     "idProduct":"145401005",
-    "name":"cepillo dental limpialenguas - suave ",
+    "name":"cepillo dental limpialenguas - suave",
     "unit":"1",
     "extent":"und",
     "brand":"dento",
@@ -150,8 +150,8 @@
     "stock":true,
     "styleTag":{
       "name":"medio",
-      "color_back_top":"#0098e3",
-      "color_back_bottom":"#06b31e",
+      "color_back_top":"#06b31e",
+      "color_back_bottom":"#0098e3",
       "color_text":"#ffffff"
     },
     "description":"",
@@ -166,7 +166,7 @@
     "idStore":"14540",
     "id":"145-40-1007",
     "idProduct":"145401007",
-    "name":"cepillo dental premiun grab - duro ",
+    "name":"cepillo dental premiun grab - duro",
     "unit":"1",
     "extent":"und",
     "brand":"dento",
@@ -177,8 +177,8 @@
     "stock":true,
     "styleTag":{
       "name":"duro",
-      "color_back_top":"#0098e3",
-      "color_back_bottom":"#e30613",
+      "color_back_top":"#e30613",
+      "color_back_bottom":"#0098e3",
       "color_text":"#ffffff"
     },
     "description":"",
@@ -204,8 +204,8 @@
     "stock":true,
     "styleTag":{
       "name":"niños",
-      "color_back_top":"##a43a79",
-      "color_back_bottom":"#e30613",
+      "color_back_top":"##e30613",
+      "color_back_bottom":"#a43a79",
       "color_text":"#ffffff"
     },
     "description":"",
@@ -220,7 +220,7 @@
     "idStore":"14540",
     "id":"145-40-1009",
     "idProduct":"145401009",
-    "name":"cepillo dental premiun grab - suave ",
+    "name":"cepillo dental premiun grab - suave",
     "unit":"1",
     "extent":"und",
     "brand":"dento",
@@ -264,7 +264,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/145401010-oralb.webp",
       "url_02":"",
       "url_03":""
       }

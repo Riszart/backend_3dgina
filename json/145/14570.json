@@ -21,7 +21,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG",
       "url_02":"",
       "url_03":""
       }
@@ -48,7 +48,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG",
       "url_02":"",
       "url_03":""
       }
@@ -75,7 +75,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG",
       "url_02":"",
       "url_03":""
       }
@@ -85,35 +85,8 @@
     "idStore":"14570",
     "id":"145-70-1004",
     "idProduct":"145701004",
-    "name":"sedal",
-    "unit":"",
-    "extent":"ml",
-    "brand":"unilever",
-    "price":"",
-    "newPrice":"1.30",
-    "store":"shampoo",
-    "category":["health"],
-    "stock":true,
-    "styleTag":{
-      "name":"rosado",
-      "color_back_top":"#31a734",
-      "color_back_bottom":"#18622e",
-      "color_text":"#ffffff"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"145",
-    "idStore":"14570",
-    "id":"145-70-1005",
-    "idProduct":"145701005",
-    "name":"sedal",
-    "unit":"",
+    "name":"sedal zero caspa 2en1",
+    "unit":"40",
     "extent":"ml",
     "brand":"unilever",
     "price":"",
@@ -123,13 +96,40 @@
     "stock":true,
     "styleTag":{
       "name":"azul",
-      "color_back_top":"#31a734",
-      "color_back_bottom":"#18622e",
+      "color_back_top":"#d93d8e",
+      "color_back_bottom":"#001f60",
       "color_text":"#ffffff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/unilever/145701004-sedal.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14570",
+    "id":"145-70-1005",
+    "idProduct":"145701005",
+    "name":"sedal ceramidas shampoo",
+    "unit":"40",
+    "extent":"ml",
+    "brand":"unilever",
+    "price":"",
+    "newPrice":"1.30",
+    "store":"shampoo",
+    "category":["health"],
+    "stock":true,
+    "styleTag":{
+      "name":"rosado",
+      "color_back_top":"#d93d8e",
+      "color_back_bottom":"#001f60",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/unilever/145701005-sedal.webp",
       "url_02":"",
       "url_03":""
       }
@@ -139,8 +139,8 @@
     "idStore":"14570",
     "id":"145-70-1006",
     "idProduct":"145701006",
-    "name":"sedal",
-    "unit":"",
+    "name":"sedal duo",
+    "unit":"40",
     "extent":"ml",
     "brand":"unilever",
     "price":"",
@@ -150,13 +150,13 @@
     "stock":true,
     "styleTag":{
       "name":"blanco",
-      "color_back_top":"#31a734",
-      "color_back_bottom":"#18622e",
+      "color_back_top":"#d93d8e",
+      "color_back_bottom":"#001f60",
       "color_text":"#ffffff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/unilever/145701006-sedal.webp",
       "url_02":"",
       "url_03":""
       }

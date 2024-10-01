@@ -295,14 +295,14 @@
     "category":["pets"],
     "stock":true,
     "styleTag":{
-      "name":"arena",
-      "color_back_top":"#f27876",
-      "color_back_bottom":"#2ba7c1",
+      "name":"catsur",
+      "color_back_top":"#ac5442",
+      "color_back_bottom":"#f23501",
       "color_text":"#f7fff9"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130201011-catsur.webp",
       "url_02":"",
       "url_03":""
       }
@@ -323,14 +323,14 @@
     "category":["pets"],
     "stock":true,
     "styleTag":{
-      "name":"arena",
-      "color_back_top":"#f27876",
-      "color_back_bottom":"#2ba7c1",
+      "name":"catsur",
+      "color_back_top":"#010101",
+      "color_back_bottom":"#f23501",
       "color_text":"#f7fff9"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130201012-catsur.webp",
       "url_02":"",
       "url_03":""
       }
@@ -352,13 +352,13 @@
     "stock":true,
     "styleTag":{
       "name":"suertudo",
-      "color_back_top":"#f27876",
-      "color_back_bottom":"#2ba7c1",
+      "color_back_top":"#f2c20c",
+      "color_back_bottom":"#65087c",
       "color_text":"#f7fff9"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/cats/130201013-suertudo.webp",
       "url_02":"",
       "url_03":""
       }

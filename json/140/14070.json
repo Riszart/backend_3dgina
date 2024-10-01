@@ -16,8 +16,8 @@
     "stock":true,
     "styleTag":{
       "name":"limon",
-      "color_back_top":"#231f20",
-      "color_back_bottom":"#052770",
+      "color_back_top":"#00833f",
+      "color_back_bottom":"#ffd808",
       "color_text":"#ffffff"
     },
     "description":"",
@@ -44,8 +44,8 @@
     "stock":true,
     "styleTag":{
       "name":"limon",
-      "color_back_top":"#231f20",
-      "color_back_bottom":"#052770",
+      "color_back_top":"#00833f",
+      "color_back_bottom":"#ffd808",
       "color_text":"#ffffff"
     },
     "description":"",
@@ -72,8 +72,8 @@
     "stock":true,
     "styleTag":{
       "name":"limon",
-      "color_back_top":"#231f20",
-      "color_back_bottom":"#052770",
+      "color_back_top":"#439c6f",
+      "color_back_bottom":"#0c1d89",
       "color_text":"#ffffff"
     },
     "description":"",
@@ -100,8 +100,8 @@
     "stock":true,
     "styleTag":{
       "name":"limon",
-      "color_back_top":"#231f20",
-      "color_back_bottom":"#052770",
+      "color_back_top":"#ffbd59",
+      "color_back_bottom":"#32633c",
       "color_text":"#ffffff"
     },
     "description":"",
@@ -128,8 +128,8 @@
     "stock":true,
     "styleTag":{
       "name":"limon",
-      "color_back_top":"#231f20",
-      "color_back_bottom":"#052770",
+      "color_back_top":"#ffbd59",
+      "color_back_bottom":"#32633c",
       "color_text":"#ffffff"
     },
     "description":"",

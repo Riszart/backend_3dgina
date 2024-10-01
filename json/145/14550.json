@@ -14,14 +14,14 @@
     "category":["health"],
     "stock":true,
     "styleTag":{
-      "name":"master plus",
+      "name":"gillette",
       "color_back_top":"#31a734",
       "color_back_bottom":"#18622e",
       "color_text":"#ffffff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/kolynos/145501001-kolynos.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/145501001-gillette.webp",
       "url_02":"",
       "url_03":""
       }
@@ -41,14 +41,14 @@
     "category":["health"],
     "stock":true,
     "styleTag":{
-      "name":"master plus",
+      "name":"peine",
       "color_back_top":"#31a734",
       "color_back_bottom":"#18622e",
       "color_text":"#ffffff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/145501002-peine.webp",
       "url_02":"",
       "url_03":""
       }
@@ -68,7 +68,7 @@
     "category":["health"],
     "stock":true,
     "styleTag":{
-      "name":"master plus",
+      "name":"patrullero",
       "color_back_top":"#31a734",
       "color_back_bottom":"#18622e",
       "color_text":"#ffffff"

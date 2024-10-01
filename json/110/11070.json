@@ -5,7 +5,7 @@
     "id":"110-70-1001",
     "idProduct":"110701001",
     "name":"maggi - gallina",
-    "unit":"",
+    "unit":"18.8",
     "extent":"gr",
     "brand":"molitalia",
     "price":"",
@@ -33,7 +33,7 @@
     "id":"110-70-1002",
     "idProduct":"110701002",
     "name":"doña gusta - caldo de gallina",
-    "unit":"",
+    "unit":"7",
     "extent":"gr",
     "brand":"ajinomoto",
     "price":"",
@@ -73,7 +73,7 @@
     "styleTag":{
       "name":"naranja",
       "color_back_top":"#ebd834",
-      "color_back_bottom":"#fea404",
+      "color_back_bottom":"#ed1b24",
       "color_text":"#fbfdfd"
     },
     "description":"",
@@ -101,7 +101,7 @@
     "styleTag":{
       "name":"rojo",
       "color_back_top":"#ebd834",
-      "color_back_bottom":"#fea404",
+      "color_back_bottom":"#ed1b24",
       "color_text":"#fbfdfd"
     },
     "description":"",
@@ -129,7 +129,7 @@
     "styleTag":{
       "name":"rojo",
       "color_back_top":"#ebd834",
-      "color_back_bottom":"#fea404",
+      "color_back_bottom":"#ed1b24",
       "color_text":"#fbfdfd"
     },
     "description":"",
@@ -156,8 +156,8 @@
     "stock":true,
     "styleTag":{
       "name":"oregano",
-      "color_back_top":"#ebd834",
-      "color_back_bottom":"#fea404",
+      "color_back_top":"#e8312d",
+      "color_back_bottom":"#026d32",
       "color_text":"#fbfdfd"
     },
     "description":"",
@@ -184,8 +184,8 @@
     "stock":true,
     "styleTag":{
       "name":"lopeza",
-      "color_back_top":"#ebd834",
-      "color_back_bottom":"#fea404",
+      "color_back_top":"#e8312d",
+      "color_back_bottom":"#026d32",
       "color_text":"#fbfdfd"
     },
     "description":"",
@@ -212,8 +212,8 @@
     "stock":true,
     "styleTag":{
       "name":"tuco",
-      "color_back_top":"#ebd834",
-      "color_back_bottom":"#fea404",
+      "color_back_top":"#e8312d",
+      "color_back_bottom":"#026d32",
       "color_text":"#fbfdfd"
     },
     "description":"",
