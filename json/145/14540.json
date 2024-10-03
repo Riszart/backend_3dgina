@@ -204,7 +204,7 @@
     "stock":true,
     "styleTag":{
       "name":"niños",
-      "color_back_top":"##e30613",
+      "color_back_top":"#e30613",
       "color_back_bottom":"#a43a79",
       "color_text":"#ffffff"
     },
