@@ -143,7 +143,8 @@
       "nameE":"category/ferreteria",
       "id":"170",
       "urls":{
-        "iluminacion":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/170/17010.json"
+        "iluminacion":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/170/17010.json",
+        "ferreteria":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/170/17020.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/bazar.jpg"
     }
