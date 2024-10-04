@@ -26,5 +26,89 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14080",
+    "id":"140-80-1002",
+    "idProduct":"140801002",
+    "name":"escobilla de plastico",
+    "unit":"1",
+    "extent":"und",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"acsesorios",
+    "tags":[""],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"colores",
+      "color_back_top":"#231f20",
+      "color_back_bottom":"#052770",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/guantes/140801002-escobilla.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14080",
+    "id":"140-80-1003",
+    "idProduct":"140801003",
+    "name":"gancho de plastico",
+    "unit":"10",
+    "extent":"und",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"acsesorios",
+    "tags":[""],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"colores",
+      "color_back_top":"#231f20",
+      "color_back_bottom":"#052770",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/generico/140801003-ganchos.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14080",
+    "id":"140-80-1004",
+    "idProduct":"140801004",
+    "name":"guantes de goma",
+    "unit":"1",
+    "extent":"par",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"8.00",
+    "store":"acsesorios",
+    "tags":[""],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"colores",
+      "color_back_top":"#231f20",
+      "color_back_bottom":"#052770",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/guantes/140801004-guantes.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]
