@@ -166,5 +166,117 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14060",
+    "id":"140-60-1007",
+    "idProduct":"140601007",
+    "name":"cera en pasta",
+    "unit":"300",
+    "extent":"ml",
+    "brand":"sapolio",
+    "price":"",
+    "newPrice":"4.50",
+    "store":"limpiatodo",
+    "tags":["limpiatodo","piso"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"cera de piso",
+      "color_back_top":"#020202",
+      "color_back_bottom":"#eb161e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/pisos/140601007-cera.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14060",
+    "id":"140-60-1008",
+    "idProduct":"140601008",
+    "name":"cera en pasta",
+    "unit":"300",
+    "extent":"ml",
+    "brand":"sapolio",
+    "price":"",
+    "newPrice":"4.50",
+    "store":"limpiatodo",
+    "tags":["limpiatodo","piso"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"cera de piso",
+      "color_back_top":"#020202",
+      "color_back_bottom":"#eb161e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/pisos/140601008-cera.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14060",
+    "id":"140-60-1009",
+    "idProduct":"140601009",
+    "name":"cera en pasta",
+    "unit":"300",
+    "extent":"ml",
+    "brand":"sapolio",
+    "price":"",
+    "newPrice":"4.50",
+    "store":"limpiatodo",
+    "tags":["limpiatodo","piso"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"cera de piso",
+      "color_back_top":"#020202",
+      "color_back_bottom":"#eb161e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/pisos/140601009-cera.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14060",
+    "id":"140-60-1010",
+    "idProduct":"140601010",
+    "name":"cera en pasta",
+    "unit":"300",
+    "extent":"ml",
+    "brand":"sapolio",
+    "price":"",
+    "newPrice":"4.50",
+    "store":"limpiatodo",
+    "tags":["limpiatodo","piso"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"cera de piso",
+      "color_back_top":"#01a2e9",
+      "color_back_bottom":"#eb161e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/pisos/140601010-cera.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

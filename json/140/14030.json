@@ -145,7 +145,7 @@
     "id":"140-30-1006",
     "idProduct":"140301006",
     "name":"clorox",
-    "unit":"860",
+    "unit":"891",
     "extent":"gr",
     "brand":"clorox",
     "price":"",
@@ -162,7 +162,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/clorox/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/clorox/140301006-clorox.webp",
       "url_02":"",
       "url_03":""
       }
@@ -218,7 +218,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/clorox/140301008-clorox.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/clorox/140301008-clorox.webp",
       "url_02":"",
       "url_03":""
       }
@@ -247,6 +247,34 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/vega/vclean/140301009-vclean.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14030",
+    "id":"140-30-1009",
+    "idProduct":"140301009",
+    "name":"lejia liguria tradicional",
+    "unit":"4",
+    "extent":"kg",
+    "brand":"liguria",
+    "price":"",
+    "newPrice":"11.00",
+    "store":"lejias",
+    "tags":["lejias"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"liguria",
+      "color_back_top":"#0077c5",
+      "color_back_bottom":"#0a1c61",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/140301010-liguria.webp",
       "url_02":"",
       "url_03":""
       }

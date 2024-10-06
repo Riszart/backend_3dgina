@@ -15,14 +15,14 @@
     "categories":["bookshop"],
     "stock":true,
     "styleTag":{
-      "name":"papel",
+      "name":"colores",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125201001-hojas.webp",
       "url_02":"",
       "url_03":""
       }
@@ -50,7 +50,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125201002-bonb.webp",
       "url_02":"",
       "url_03":""
       }
@@ -63,9 +63,9 @@
     "name":"sobre manila",
     "unit":"1",
     "extent":"und",
-    "brand":"",
+    "brand":"generico",
     "price":"",
-    "newPrice":"0.50",
+    "newPrice":"1.00",
     "store":"papeleria",
     "tags":[""],
     "categories":["bookshop"],
@@ -78,7 +78,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125201003-manilla.webp",
       "url_02":"",
       "url_03":""
       }
@@ -91,7 +91,7 @@
     "name":"folder manila",
     "unit":"1",
     "extent":"und",
-    "brand":"",
+    "brand":"generico",
     "price":"",
     "newPrice":"1.00",
     "store":"papeleria",
@@ -106,7 +106,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125201004-manilla.webp",
       "url_02":"",
       "url_03":""
       }
@@ -119,7 +119,7 @@
     "name":"cartulina",
     "unit":"1",
     "extent":"und",
-    "brand":"",
+    "brand":"generico",
     "price":"",
     "newPrice":"1.00",
     "store":"papeleria",
@@ -127,14 +127,14 @@
     "categories":["bookshop"],
     "stock":true,
     "styleTag":{
-      "name":"folder",
+      "name":"colores",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125201005-cartulina.webp",
       "url_02":"",
       "url_03":""
       }
@@ -147,22 +147,22 @@
     "name":"papel de regalo",
     "unit":"1",
     "extent":"und",
-    "brand":"",
+    "brand":"generico",
     "price":"",
-    "newPrice":"1.00",
+    "newPrice":"0.50",
     "store":"papeleria",
     "tags":[""],
     "categories":["bookshop"],
     "stock":true,
     "styleTag":{
-      "name":"folder",
+      "name":"papel",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125201006-regalo.webp",
       "url_02":"",
       "url_03":""
       }
@@ -175,7 +175,7 @@
     "name":"papel crepe",
     "unit":"1",
     "extent":"und",
-    "brand":"",
+    "brand":"generico",
     "price":"",
     "newPrice":"1.00",
     "store":"papeleria",
@@ -183,14 +183,14 @@
     "categories":["bookshop"],
     "stock":true,
     "styleTag":{
-      "name":"folder",
+      "name":"crepe",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125201007-crepe.webp",
       "url_02":"",
       "url_03":""
       }
@@ -198,27 +198,83 @@
   {
     "idCategory":"125",
     "idStore":"12520",
-    "id":"125-20-1007",
-    "idProduct":"125201007",
-    "name":"papel crepe",
+    "id":"125-20-1008",
+    "idProduct":"125201008",
+    "name":"papelografo rallado",
     "unit":"1",
     "extent":"und",
-    "brand":"",
+    "brand":"generico",
     "price":"",
-    "newPrice":"1.00",
+    "newPrice":"0.50",
     "store":"papeleria",
     "tags":[""],
     "categories":["bookshop"],
     "stock":true,
     "styleTag":{
-      "name":"folder",
+      "name":"rallado",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125201008-papelografo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12520",
+    "id":"125-20-1009",
+    "idProduct":"125201009",
+    "name":"papelografo cuadriculado",
+    "unit":"1",
+    "extent":"und",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"0.50",
+    "store":"papeleria",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"cuadriculado",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125201009-papelografo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12520",
+    "id":"125-20-1010",
+    "idProduct":"125201010",
+    "name":"papelografo blanco",
+    "unit":"1",
+    "extent":"und",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"0.50",
+    "store":"papeleria",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"blanco",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125201010-papelografo.webp",
       "url_02":"",
       "url_03":""
       }
