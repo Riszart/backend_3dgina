@@ -202,7 +202,7 @@
     "store":"snacks",
     "tags":["takis"],
     "categories":["candy"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"clasico",
       "color_back_top":"#01934d",

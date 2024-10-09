@@ -7,21 +7,21 @@
     "name":"basos trasparente",
     "unit":"50",
     "extent":"und",
-    "brand":"",
+    "brand":"plastimiq",
     "price":"",
     "newPrice":"1.50",
     "store":"platicos",
     "category":["bazar"],
     "stock":true,
     "styleTag":{
-      "name":"",
+      "name":"50oz",
       "color_back_top":"#010c8e",
       "color_back_bottom":"#0071ce",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/bazar/160201001-vasos.webp",
       "url_02":"",
       "url_03":""
       }
