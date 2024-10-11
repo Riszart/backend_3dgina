@@ -142,8 +142,8 @@
   {
     "idCategory":"115",
     "idStore":"11520",
-    "id":"115-20-1005",
-    "idProduct":"115201005",
+    "id":"115-20-1006",
+    "idProduct":"115201006",
     "name":"vizzio - caja",
     "unit":"69",
     "extent":"gr",
@@ -163,6 +163,34 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/115201006-vizzio.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11520",
+    "id":"115-20-1007",
+    "idProduct":"115201007",
+    "name":"obseción",
+    "unit":"21",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"chocolates",
+    "tags":["chocolate","costa"],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"obseción",
+      "color_back_top":"#ea3098",
+      "color_back_bottom":"#9d715c",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/115201007-obsecion.webp",
       "url_02":"",
       "url_03":""
       }

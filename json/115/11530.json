@@ -988,7 +988,7 @@
     "extent":"gr",
     "brand":"field",
     "price":"",
-    "newPrice":"1.00",
+    "newPrice":"0.80",
     "store":"galletas",
     "tags":["mondelez"],
     "category":["candy"],
@@ -1058,6 +1058,146 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115301038-nik.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1039",
+    "idProduct":"115301039",
+    "name":"wenazas taco",
+    "unit":"50.4",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"1.50",
+    "store":"galletas",
+    "tags":[""],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"taco",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115301039-wenazas.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1040",
+    "idProduct":"115301040",
+    "name":"soda san jorge",
+    "unit":"40",
+    "extent":"gr",
+    "brand":"san jorge",
+    "price":"",
+    "newPrice":"0.80",
+    "store":"galletas",
+    "tags":[""],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"soda",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/sanJorge/115301040-san_jorge.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1041",
+    "idProduct":"115301041",
+    "name":"tuyo",
+    "unit":"22",
+    "extent":"gr",
+    "brand":"costa",
+    "price":"",
+    "newPrice":"0.70",
+    "store":"galletas",
+    "tags":[""],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"tuyo",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115301041-tuyo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1042",
+    "idProduct":"115301042",
+    "name":"ritz",
+    "unit":"22.4",
+    "extent":"gr",
+    "brand":"mondelez",
+    "price":"",
+    "newPrice":"0.80",
+    "store":"galletas",
+    "tags":[""],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"ritz",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/modelez/115301042-ritz.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"115",
+    "idStore":"11530",
+    "id":"115-30-1043",
+    "idProduct":"115301043",
+    "name":"oreo",
+    "unit":"36",
+    "extent":"gr",
+    "brand":"mondelez",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"galletas",
+    "tags":[""],
+    "category":["candy"],
+    "stock":true,
+    "styleTag":{
+      "name":"oreo",
+      "color_back_top":"#905c4e",
+      "color_back_bottom":"#905c4e",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/modelez/115301043-oreo.webp",
       "url_02":"",
       "url_03":""
       }

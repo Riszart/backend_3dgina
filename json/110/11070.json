@@ -250,5 +250,89 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11070",
+    "id":"110-70-1010",
+    "idProduct":"110701010",
+    "name":"doña gusta - caldo sabor a carne",
+    "unit":"7",
+    "extent":"gr",
+    "brand":"ajinomoto",
+    "price":"",
+    "newPrice":"0.40",
+    "store":"condimentos",
+    "tags":["condimentos"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"carne",
+      "color_back_top":"#ebd834",
+      "color_back_bottom":"#fea404",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ajinomoto/110701010-donajusta.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11070",
+    "id":"110-70-1011",
+    "idProduct":"110701011",
+    "name":"doña gusta - caldo sabor a pescado",
+    "unit":"7",
+    "extent":"gr",
+    "brand":"ajinomoto",
+    "price":"",
+    "newPrice":"0.40",
+    "store":"condimentos",
+    "tags":["condimentos"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"pescado",
+      "color_back_top":"#ebd834",
+      "color_back_bottom":"#fea404",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ajinomoto/110701011-donajusta.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11070",
+    "id":"110-70-1012",
+    "idProduct":"110701012",
+    "name":"doña gusta - caldo sabor a tocino",
+    "unit":"7",
+    "extent":"gr",
+    "brand":"ajinomoto",
+    "price":"",
+    "newPrice":"0.40",
+    "store":"condimentos",
+    "tags":["condimentos"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"tocino",
+      "color_back_top":"#ebd834",
+      "color_back_bottom":"#fea404",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ajinomoto/110701012-donajusta.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]
