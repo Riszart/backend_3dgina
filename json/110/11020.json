@@ -116,7 +116,7 @@
     "idStore":"11020",
     "id":"110-20-1005",
     "idProduct":"110201005",
-    "name":"arina a granel",
+    "name":"harina a granel",
     "unit":"1",
     "extent":"kg",
     "brand":"generico",
@@ -127,7 +127,7 @@
     "category":["market"],
     "stock":true,
     "styleTag":{
-      "name":"arina",
+      "name":"harina",
       "color_back_top":"#13452b",
       "color_back_bottom":"#82705f",
       "color_text":"#fbfdfd"

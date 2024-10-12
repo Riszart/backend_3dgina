@@ -430,5 +430,32 @@
       "url_02":"",
       "url_03":""
     }
+  },
+  {
+    "idCategory":"130",
+    "idStore":"13010",
+    "id":"130-10-1017",
+    "idProduct":"130101017",
+    "name":"afrecho",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"nutritec",
+    "price":"",
+    "newPrice":"1.50",
+    "store":"aves",
+    "tags":[""],
+    "category":["pets"],
+    "stock":true,
+    "styleTag":{
+      "name":"afrecho",
+      "color_back_top":"#00a550",
+      "color_back_bottom":"#feef0b",
+      "color_text":"#000"
+    },
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/nutritec/130101017-afrecho.webp",
+      "url_02":"",
+      "url_03":""
+    }
   }
 ]
