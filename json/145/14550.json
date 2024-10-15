@@ -79,5 +79,32 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14550",
+    "id":"145-50-1004",
+    "idProduct":"145501004",
+    "name":"pinza",
+    "unit":"1",
+    "extent":"und",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"1.20",
+    "store":"estetica",
+    "category":["health"],
+    "stock":true,
+    "styleTag":{
+      "name":"pinza",
+      "color_back_top":"#31a734",
+      "color_back_bottom":"#18622e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/generico/145501004-pinza.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

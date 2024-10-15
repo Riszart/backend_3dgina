@@ -147,7 +147,7 @@
     "newPrice":"5.80",
     "store":"toallas higienicas",
     "category":["health"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"rapigel",
       "color_back_top":"#3a5ca4",
@@ -174,7 +174,7 @@
     "newPrice":"8.00",
     "store":"toallas higienicas",
     "category":["health"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"nocturna",
       "color_back_top":"#591288",
