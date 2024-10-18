@@ -67,14 +67,14 @@
       "name":"bazar",
       "nameE":"category/bazar",
       "id":"140",
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/liquor-store.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/bazar.png"
     }
   },{
     "category-ferreteria":{
       "name":"ferreteria",
       "nameE":"category/ferreteria",
       "id":"145",
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/liquor-store.png"
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/ferreteria.png"
     }
   }
 ]
