@@ -4,9 +4,9 @@
     "idStore":"12510",
     "id":"125-10-1001",
     "idProduct":"125101001",
-    "name":"colores cortos 12 und - artesco",
+    "name":"colores cortos (12)",
     "unit":"1",
-    "extent":"und",
+    "extent":"pack",
     "brand":"artesco",
     "price":"",
     "newPrice":"4.00",
@@ -32,7 +32,7 @@
     "idStore":"12510",
     "id":"125-10-1002",
     "idProduct":"125101002",
-    "name":"colores cortos 12 und - artesco",
+    "name":"borador blanco pequeño",
     "unit":"1",
     "extent":"und",
     "brand":"artesco",
@@ -50,7 +50,315 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101001-borrador.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101002-borrador.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1003",
+    "idProduct":"125101003",
+    "name":"plastilina delgada (10)",
+    "unit":"1",
+    "extent":"pack",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"3.50",
+    "store":"utiles",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"plastilina",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101003-platilina.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1004",
+    "idProduct":"125101004",
+    "name":"limpiatipo de colores",
+    "unit":"1",
+    "extent":"und",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"utiles",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"colores",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101004-limpiatipo.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1005",
+    "idProduct":"125101005",
+    "name":"plastilina jumbo (12)",
+    "unit":"1",
+    "extent":"pack",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"utiles",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"jumbo",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101005-plastilina.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1006",
+    "idProduct":"125101006",
+    "name":"tamperas (7)",
+    "unit":"1",
+    "extent":"pack",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"8.00",
+    "store":"utiles",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"7 temperas",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101006-temperas.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1007",
+    "idProduct":"125101007",
+    "name":"corrector blanco",
+    "unit":"1",
+    "extent":"und",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"utiles",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"corrector",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101007-corrector.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1008",
+    "idProduct":"125101008",
+    "name":"regla de 30 cm",
+    "unit":"1",
+    "extent":"und",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"utiles",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"30cm",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101008-regla.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1009",
+    "idProduct":"125101009",
+    "name":"crayones de cera delgados (12)",
+    "unit":"1",
+    "extent":"pack",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"utiles",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"delgados",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101009-crayones.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1010",
+    "idProduct":"125101010",
+    "name":"crayones de cera jumbo (12)",
+    "unit":"1",
+    "extent":"pack",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"utiles",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"jumbo",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101010-crayones.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1011",
+    "idProduct":"125101011",
+    "name":"borrador blanco grande",
+    "unit":"1",
+    "extent":"und",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"1.50",
+    "store":"utiles",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"grande",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101011-borrador.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1012",
+    "idProduct":"125101012",
+    "name":"juego de reglas de 30cm",
+    "unit":"1",
+    "extent":"und",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"",
+    "store":"utiles",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"reglas",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125101012-regla.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12510",
+    "id":"125-10-1012",
+    "idProduct":"125101012",
+    "name":"mota para pizarra acrilica",
+    "unit":"1",
+    "extent":"und",
+    "brand":"",
+    "price":"",
+    "newPrice":"",
+    "store":"utiles",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"mota",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125101012-mota.webp",
       "url_02":"",
       "url_03":""
       }

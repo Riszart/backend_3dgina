@@ -14,7 +14,7 @@
     "category":["ferreteria"],
     "stock":true,
     "styleTag":{
-      "name":"",
+      "name":"vela",
       "color_back_top":"#010c8e",
       "color_back_bottom":"#0071ce",
       "color_text":"#fff"

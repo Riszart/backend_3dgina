@@ -110,5 +110,61 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12530",
+    "id":"125-30-1005",
+    "idProduct":"125301005",
+    "name":"goma sintética",
+    "unit":"60",
+    "extent":"ml",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"",
+    "store":"cintas y pegamentos",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"sintética",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125301005-goma.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12530",
+    "id":"125-30-1006",
+    "idProduct":"125301006",
+    "name":"goma en barra",
+    "unit":"21",
+    "extent":"gr",
+    "brand":"artesco",
+    "price":"",
+    "newPrice":"",
+    "store":"cintas y pegamentos",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"barra",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125301006-goma.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]
