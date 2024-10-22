@@ -112,7 +112,7 @@
     "idStore":"14510",
     "id":"145-10-1005",
     "idProduct":"145101005",
-    "name":"nosotras alasgel",
+    "name":"nosotras alas tela gel",
     "unit":"10",
     "extent":"und",
     "brand":"nosotras",
@@ -122,7 +122,7 @@
     "category":["health"],
     "stock":true,
     "styleTag":{
-      "name":"clasico",
+      "name":"telagel",
       "color_back_top":"#96cb03",
       "color_back_bottom":"#e21b92",
       "color_text":"#ffffff"
@@ -149,7 +149,7 @@
     "category":["health"],
     "stock":true,
     "styleTag":{
-      "name":"rapigel",
+      "name":"rapisec",
       "color_back_top":"#3a5ca4",
       "color_back_bottom":"#e21b92",
       "color_text":"#ffffff"

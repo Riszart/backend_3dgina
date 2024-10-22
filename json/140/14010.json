@@ -86,6 +86,62 @@
   {
     "idCategory":"140",
     "idStore":"14010",
+    "id":"140-10-1018",
+    "idProduct":"140101018",
+    "name":"bolivar - bebes y niños",
+    "unit":"730",
+    "extent":"gr",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"9.50",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"bebes y niños",
+      "color_back_top":"#6bbfe7",
+      "color_back_bottom":"#2a51ae",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101018-bolivar.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
+    "id":"140-10-1020",
+    "idProduct":"140101020",
+    "name":"bolivar - cuidado y suavidad",
+    "unit":"730",
+    "extent":"gr",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"9.50",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"cuidado y suavidad",
+      "color_back_top":"#aa1324",
+      "color_back_bottom":"#2a51ae",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101020-bolivar_cuidado_suavidad.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
     "id":"140-10-1004",
     "idProduct":"140101004",
     "name":"bolivar - limpieza total",
@@ -366,34 +422,6 @@
   {
     "idCategory":"140",
     "idStore":"14010",
-    "id":"140-10-1014",
-    "idProduct":"140101014",
-    "name":"sapolio - aros de poder",
-    "unit":"140",
-    "extent":"gr",
-    "brand":"alicorp",
-    "price":"",
-    "newPrice":"1.80",
-    "store":"detergentes",
-    "tags":["detergente"],
-    "categories":["cleaning"],
-    "stock":true,
-    "styleTag":{
-      "name":"detergente",
-      "color_back_top":"#f2dc34",
-      "color_back_bottom":"#d53d2e",
-      "color_text":"#ffffff"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101014-sapolio.webp",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"140",
-    "idStore":"14010",
     "id":"140-10-1015",
     "idProduct":"140101015",
     "name":"dest aroma limón",
@@ -478,90 +506,6 @@
   {
     "idCategory":"140",
     "idStore":"14010",
-    "id":"140-10-1018",
-    "idProduct":"140101018",
-    "name":"bolivar - bebes y niños",
-    "unit":"730",
-    "extent":"gr",
-    "brand":"alicorp",
-    "price":"",
-    "newPrice":"9.50",
-    "store":"detergentes",
-    "tags":["detergente"],
-    "categories":["cleaning"],
-    "stock":true,
-    "styleTag":{
-      "name":"bebes y niños",
-      "color_back_top":"#6bbfe7",
-      "color_back_bottom":"#2a51ae",
-      "color_text":"#ffffff"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101018-bolivar.webp",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"140",
-    "idStore":"14010",
-    "id":"140-10-1019",
-    "idProduct":"140101019",
-    "name":"sapolio",
-    "unit":"750",
-    "extent":"gr",
-    "brand":"alicorp",
-    "price":"",
-    "newPrice":"7.50",
-    "store":"detergentes",
-    "tags":["detergente"],
-    "categories":["cleaning"],
-    "stock":true,
-    "styleTag":{
-      "name":"detergente",
-      "color_back_top":"#f2dc34",
-      "color_back_bottom":"#d53d2e",
-      "color_text":"#ffffff"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101019-sapolio.webp",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"140",
-    "idStore":"14010",
-    "id":"140-10-1020",
-    "idProduct":"140101020",
-    "name":"bolivar - cuidado y suavidad",
-    "unit":"730",
-    "extent":"gr",
-    "brand":"alicorp",
-    "price":"",
-    "newPrice":"9.50",
-    "store":"detergentes",
-    "tags":["detergente"],
-    "categories":["cleaning"],
-    "stock":true,
-    "styleTag":{
-      "name":"cuidado y suavidad",
-      "color_back_top":"#aa1324",
-      "color_back_bottom":"#2a51ae",
-      "color_text":"#ffffff"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101020-bolivar_cuidado_suavidad.webp",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"140",
-    "idStore":"14010",
     "id":"140-10-1021",
     "idProduct":"140101021",
     "name":"ace - petalos florales",
@@ -611,6 +555,90 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/detergentes/140101022-ace.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
+    "id":"140-10-1019",
+    "idProduct":"140101019",
+    "name":"sapolio fresco limon",
+    "unit":"750",
+    "extent":"gr",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"7.50",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"fresco limon",
+      "color_back_top":"#f2dc34",
+      "color_back_bottom":"#d53d2e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101019-sapolio.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
+    "id":"140-10-1014",
+    "idProduct":"140101014",
+    "name":"sapolio fresco limon",
+    "unit":"140",
+    "extent":"gr",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"1.80",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"fresco limon",
+      "color_back_top":"#f2dc34",
+      "color_back_bottom":"#d53d2e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101014-sapolio.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
+    "id":"140-10-1023",
+    "idProduct":"140101023",
+    "name":"sapolio feria de flores",
+    "unit":"140",
+    "extent":"gr",
+    "brand":"alicorp",
+    "price":"",
+    "newPrice":"1.80",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"feria de flores",
+      "color_back_top":"#9b5f9f",
+      "color_back_bottom":"#d53d2e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101023-sapolio.webp",
       "url_02":"",
       "url_03":""
       }
