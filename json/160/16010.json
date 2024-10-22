@@ -5,23 +5,23 @@
     "id":"160-10-1001",
     "idProduct":"160101001",
     "name":"bolsas trasparentes (10x15)",
-    "unit":"",
-    "extent":"",
-    "brand":"",
+    "unit":"90",
+    "extent":"bol",
+    "brand":"generico",
     "price":"",
     "newPrice":"",
     "store":"bolsas",
     "category":["bazar"],
     "stock":true,
     "styleTag":{
-      "name":"",
+      "name":"10x15",
       "color_back_top":"#010c8e",
       "color_back_bottom":"#0071ce",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/160101001-bolsas.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/bazar/160101001-bolsas.webp",
       "url_02":"",
       "url_03":""
       }
@@ -32,10 +32,10 @@
     "id":"160-10-1002",
     "idProduct":"160101002",
     "name":"bolsa de basura negra",
-    "unit":"",
-    "extent":"",
-    "brand":"",
-    "price":"0.10",
+    "unit":"12",
+    "extent":"bol",
+    "brand":"generico",
+    "price":"1.00",
     "newPrice":"",
     "store":"bolsas",
     "category":["bazar"],
@@ -48,7 +48,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/bazar/160101002-negra.webp",
       "url_02":"",
       "url_03":""
       }
@@ -59,14 +59,14 @@
     "id":"160-10-1003",
     "idProduct":"160101003",
     "name":"bolsas negra",
-    "unit":"",
-    "extent":"",
+    "unit":"1",
+    "extent":"bol",
     "brand":"generico",
     "price":"",
     "newPrice":"",
     "store":"bolsas",
     "category":["bazar"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"",
       "color_back_top":"#010c8e",
@@ -75,7 +75,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/bazar/",
       "url_02":"",
       "url_03":""
       }
@@ -83,11 +83,11 @@
   {
     "idCategory":"160",
     "idStore":"16010",
-    "id":"160-10-1003",
-    "idProduct":"160101003",
+    "id":"160-10-1004",
+    "idProduct":"160101004",
     "name":"bolsas amarilla",
-    "unit":"",
-    "extent":"",
+    "unit":"1",
+    "extent":"bol",
     "brand":"generico",
     "price":"0.20",
     "newPrice":"",
@@ -102,7 +102,88 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/bazar/160101004-amarilla.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"160",
+    "idStore":"16010",
+    "id":"160-10-1005",
+    "idProduct":"160101005",
+    "name":"bolsas trasparentes (8x12)",
+    "unit":"90",
+    "extent":"bol",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"",
+    "store":"bolsas",
+    "category":["bazar"],
+    "stock":true,
+    "styleTag":{
+      "name":"8x12",
+      "color_back_top":"#010c8e",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/bazar/160101005-bolsas.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"160",
+    "idStore":"16010",
+    "id":"160-10-1006",
+    "idProduct":"160101006",
+    "name":"bolsas trasparentes (5x10)",
+    "unit":"90",
+    "extent":"bol",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"",
+    "store":"bolsas",
+    "category":["bazar"],
+    "stock":true,
+    "styleTag":{
+      "name":"5x10",
+      "color_back_top":"#010c8e",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/bazar/160101006-bolsas.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"160",
+    "idStore":"16010",
+    "id":"160-10-1007",
+    "idProduct":"160101007",
+    "name":"bolsas trasparentes (12x17)",
+    "unit":"90",
+    "extent":"bol",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"",
+    "store":"bolsas",
+    "category":["bazar"],
+    "stock":true,
+    "styleTag":{
+      "name":"12x17",
+      "color_back_top":"#010c8e",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/bazar/160101007-bolsas.webp",
       "url_02":"",
       "url_03":""
       }

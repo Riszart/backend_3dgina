@@ -41,14 +41,14 @@
     "category":["bazar"],
     "stock":true,
     "styleTag":{
-      "name":"sorbete",
+      "name":"colores",
       "color_back_top":"#010c8e",
       "color_back_bottom":"#0071ce",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/bazar/160201002-sorbetes.webp",
       "url_02":"",
       "url_03":""
       }
