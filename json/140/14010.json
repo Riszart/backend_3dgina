@@ -461,7 +461,7 @@
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"regular",
       "color_back_top":"#fe441a",
@@ -485,7 +485,7 @@
     "extent":"gr",
     "brand":"p&g",
     "price":"13.50",
-    "newPrice":"9.50",
+    "newPrice":"10.50",
     "store":"detergentes",
     "tags":["detergente"],
     "categories":["cleaning"],
