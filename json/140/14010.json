@@ -422,34 +422,6 @@
   {
     "idCategory":"140",
     "idStore":"14010",
-    "id":"140-10-1015",
-    "idProduct":"140101015",
-    "name":"dest aroma limón",
-    "unit":"150",
-    "extent":"gr",
-    "brand":"alicorp",
-    "price":"",
-    "newPrice":"1.30",
-    "store":"detergentes",
-    "tags":["detergente"],
-    "categories":["cleaning"],
-    "stock":false,
-    "styleTag":{
-      "name":"aroma limón",
-      "color_back_top":"#019fdf",
-      "color_back_bottom":"#121e8f",
-      "color_text":"#ffffff"
-    },
-    "description":"",
-    "image":{
-      "url_01":"",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"140",
-    "idStore":"14010",
     "id":"140-10-1016",
     "idProduct":"140101016",
     "name":"ace - petalos florales",
@@ -639,6 +611,62 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/detergentes/140101023-sapolio.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
+    "id":"140-10-1015",
+    "idProduct":"140101015",
+    "name":"dest floral",
+    "unit":"150",
+    "extent":"gr",
+    "brand":"aje",
+    "price":"",
+    "newPrice":"1.30",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"floral",
+      "color_back_top":"#019fdf",
+      "color_back_bottom":"#121e8f",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14010",
+    "id":"140-10-1024",
+    "idProduct":"140101024",
+    "name":"dest floral",
+    "unit":"350",
+    "extent":"gr",
+    "brand":"aje",
+    "price":"",
+    "newPrice":"3.50",
+    "store":"detergentes",
+    "tags":["detergente"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"floral",
+      "color_back_top":"#9b5f9f",
+      "color_back_bottom":"#d53d2e",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/140101024-dest.webp",
       "url_02":"",
       "url_03":""
       }
