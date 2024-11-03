@@ -93,7 +93,7 @@
     "extent":"ml",
     "brand":"alicorp",
     "price":"5.30",
-    "newPrice":"4.80",
+    "newPrice":"4.50",
     "store":"aceites",
     "tags":["aceites"],
     "category":["market"],
@@ -153,7 +153,7 @@
     "store":"aceites",
     "tags":["aceites"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"d´gussto",
       "color_back_top":"#feb201",
