@@ -121,11 +121,11 @@
     "extent":"pack",
     "brand":"artesco",
     "price":"",
-    "newPrice":"2.50",
+    "newPrice":"6.50",
     "store":"utiles",
     "tags":[""],
     "categories":["bookshop"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"jumbo",
       "color_back_top":"#0d2c7a",
