@@ -12,7 +12,7 @@
     "newPrice":"58.00",
     "store":"whisky",
     "category":["liquor-store"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"red label",
       "color_back_top":"#ab110e",
@@ -93,7 +93,7 @@
     "newPrice":"25.00",
     "store":"whisky",
     "category":["liquor-store"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"Old Times Red",
       "color_back_top":"#e0b96b",

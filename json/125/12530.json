@@ -125,7 +125,7 @@
     "store":"cintas y pegamentos",
     "tags":[""],
     "categories":["bookshop"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"sintética",
       "color_back_top":"#0d2c7a",
@@ -153,7 +153,7 @@
     "store":"cintas y pegamentos",
     "tags":[""],
     "categories":["bookshop"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"barra",
       "color_back_top":"#0d2c7a",

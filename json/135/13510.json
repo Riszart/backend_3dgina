@@ -265,7 +265,7 @@
     "store":"cervezas",
     "tags":[""],
     "category":["liquor-store"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"corona extra",
       "color_back_top":"#008b2a",

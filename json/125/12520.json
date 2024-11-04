@@ -181,7 +181,7 @@
     "store":"papeleria",
     "tags":[""],
     "categories":["bookshop"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"crepe",
       "color_back_top":"#0d2c7a",

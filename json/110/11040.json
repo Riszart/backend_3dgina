@@ -237,7 +237,7 @@
     "store":"conserva",
     "tags":["conserva"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"trozos atún",
       "color_back_top":"#ff6e00",

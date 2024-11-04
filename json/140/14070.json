@@ -41,7 +41,7 @@
     "store":"lavavajilla",
     "tags":["acido","piso"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"limon",
       "color_back_top":"#00833f",

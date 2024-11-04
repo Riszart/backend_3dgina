@@ -66,7 +66,7 @@
     "newPrice":"2.50",
     "store":"untar",
     "category":["breakfast"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"margarina",
       "color_back_top":"#feb800",

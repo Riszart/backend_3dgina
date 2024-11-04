@@ -174,7 +174,7 @@
     "newPrice":"8.00",
     "store":"toallas higienicas",
     "category":["health"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"nocturna",
       "color_back_top":"#591288",

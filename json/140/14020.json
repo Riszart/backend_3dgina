@@ -97,7 +97,7 @@
     "store":"jabones",
     "tags":["jabon","ropa"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"antibacterial",
       "color_back_top":"#aa1324",

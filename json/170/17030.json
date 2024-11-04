@@ -12,7 +12,7 @@
     "newPrice":"6.00",
     "store":"pila",
     "category":["ferreteria"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"AA",
       "color_back_top":"#010c8e",

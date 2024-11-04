@@ -9,11 +9,11 @@
     "extent":"kg",
     "brand":"sapolio",
     "price":"",
-    "newPrice":"9.50",
+    "newPrice":"10.00",
     "store":"lejias",
     "tags":[],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"lejia",
       "color_back_top":"#0168b4",
@@ -125,7 +125,7 @@
     "store":"lejias",
     "tags":["lejias"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"lejia",
       "color_back_top":"#0e4e93",
@@ -265,7 +265,7 @@
     "store":"lejias",
     "tags":["lejias"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"liguria",
       "color_back_top":"#0077c5",

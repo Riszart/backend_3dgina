@@ -181,7 +181,7 @@
     "store":"menestras",
     "tags":["lentejas"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"lentejas bb",
       "color_back_top":"#fe7814",

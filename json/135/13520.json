@@ -199,7 +199,7 @@
     "newPrice":"36.00",
     "store":"piscos",
     "category":["liquor-store"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"acholado",
       "color_back_top":"#6e0005",
@@ -226,7 +226,7 @@
     "newPrice":"36.00",
     "store":"piscos",
     "category":["liquor-store"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"quebranta",
       "color_back_top":"#6e0005",

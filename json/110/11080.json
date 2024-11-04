@@ -69,7 +69,7 @@
     "store":"intantanea",
     "tags":["sopa"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"carne",
       "color_back_top":"#ffcb00",
@@ -181,7 +181,7 @@
     "store":"intantanea",
     "tags":["sopa"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"carne",
       "color_back_top":"#ffcb00",
@@ -209,7 +209,7 @@
     "store":"intantanea",
     "tags":["sopa"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"picante",
       "color_back_top":"#ffcb00",

@@ -39,7 +39,7 @@
     "newPrice":"25.00",
     "store":"panetones",
     "category":["breakfast"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"donofrio",
       "color_back_top":"#001a59",

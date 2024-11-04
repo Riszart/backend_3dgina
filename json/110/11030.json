@@ -13,7 +13,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"spaghetti",
       "color_back_top":"#13452b",
@@ -153,7 +153,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"plumilla",
       "color_back_top":"#fdbe20",
@@ -181,7 +181,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"caracol",
       "color_back_top":"#fdbe20",
@@ -209,7 +209,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"corbata",
       "color_back_top":"#fdbe20",
@@ -237,7 +237,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"tornillo",
       "color_back_top":"#fdbe20",
@@ -321,7 +321,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"ensaladas",
       "color_back_top":"#15442b",
@@ -349,7 +349,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"rojo",
       "color_back_top":"#15442b",

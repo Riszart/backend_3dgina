@@ -41,7 +41,7 @@
     "store":"enjuages",
     "tags":["enjuage",""],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"downy",
       "color_back_top":"#df0a84",
@@ -237,7 +237,7 @@
     "store":"suavizante",
     "tags":["suavizante",""],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"lavanda",
       "color_back_top":"#6f4289",
@@ -265,7 +265,7 @@
     "store":"suavizante",
     "tags":["suavizante",""],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"baby & kids",
       "color_back_top":"#4dd2f7",
@@ -293,7 +293,7 @@
     "store":"suavizante",
     "tags":["suavizante",""],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"floral",
       "color_back_top":"#00aae5",
