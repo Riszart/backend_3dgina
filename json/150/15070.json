@@ -160,5 +160,32 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15070",
+    "id":"150-70-1007",
+    "idProduct":"150701007",
+    "name":"chocolate de taza",
+    "unit":"90",
+    "extent":"gr",
+    "brand":"D'Gussto",
+    "price":"",
+    "newPrice":"1.80",
+    "store":"chocolate",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"taza",
+      "color_back_top":"#fb0a03",
+      "color_back_bottom":"#990006",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/150701007-chocolate.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

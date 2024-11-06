@@ -2,34 +2,6 @@
   {
     "idCategory":"125",
     "idStore":"12530",
-    "id":"125-30-1001",
-    "idProduct":"125301001",
-    "name":"cinta adheciva masking tape",
-    "unit":"1",
-    "extent":"und",
-    "brand":"",
-    "price":"",
-    "newPrice":"",
-    "store":"cintas y pegamentos",
-    "tags":[""],
-    "categories":["bookshop"],
-    "stock":true,
-    "styleTag":{
-      "name":"",
-      "color_back_top":"#0d2c7a",
-      "color_back_bottom":"#0d2c7a",
-      "color_text":"#fff"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"125",
-    "idStore":"12530",
     "id":"125-30-1002",
     "idProduct":"125301002",
     "name":"cinta adheciva trasparente",
@@ -60,7 +32,7 @@
     "idStore":"12530",
     "id":"125-30-1003",
     "idProduct":"125301003",
-    "name":"goma",
+    "name":"goma liquida",
     "unit":"1",
     "extent":"und",
     "brand":"david",
@@ -71,14 +43,14 @@
     "categories":["bookshop"],
     "stock":true,
     "styleTag":{
-      "name":"",
+      "name":"goma",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/125301003-david.webp",
       "url_02":"",
       "url_03":""
       }
@@ -150,6 +122,146 @@
     "brand":"artesco",
     "price":"",
     "newPrice":"",
+    "store":"cintas y pegamentos",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":false,
+    "styleTag":{
+      "name":"barra",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125301006-goma.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12530",
+    "id":"125-30-1001",
+    "idProduct":"125301001",
+    "name":"masking tape (1/2 pulgadas)",
+    "unit":"1",
+    "extent":"und",
+    "brand":"",
+    "price":"",
+    "newPrice":"2.00",
+    "store":"cintas y pegamentos",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":false,
+    "styleTag":{
+      "name":"",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12530",
+    "id":"125-30-1007",
+    "idProduct":"125301007",
+    "name":"masking tape (3/4 pulgadas)",
+    "unit":"1",
+    "extent":"und",
+    "brand":"",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"cintas y pegamentos",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"barra",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125301006-goma.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12530",
+    "id":"125-30-1008",
+    "idProduct":"125301008",
+    "name":"masking tape (1 pulgadas) ",
+    "unit":"1",
+    "extent":"und",
+    "brand":"",
+    "price":"",
+    "newPrice":"3.00",
+    "store":"cintas y pegamentos",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"barra",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125301006-goma.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12530",
+    "id":"125-30-1009",
+    "idProduct":"125301009",
+    "name":"masking tape (1-1/2 pulgadas)",
+    "unit":"1",
+    "extent":"und",
+    "brand":"",
+    "price":"",
+    "newPrice":"3.50",
+    "store":"cintas y pegamentos",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"barra",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125301006-goma.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12530",
+    "id":"125-30-1010",
+    "idProduct":"125301010",
+    "name":"masking tape (2 pulgadas)",
+    "unit":"1",
+    "extent":"und",
+    "brand":"",
+    "price":"",
+    "newPrice":"4.00",
     "store":"cintas y pegamentos",
     "tags":[""],
     "categories":["bookshop"],
