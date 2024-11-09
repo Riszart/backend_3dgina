@@ -71,7 +71,7 @@
     "categories":["bookshop"],
     "stock":true,
     "styleTag":{
-      "name":"",
+      "name":"cilicona",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
@@ -155,7 +155,7 @@
     "categories":["bookshop"],
     "stock":false,
     "styleTag":{
-      "name":"",
+      "name":"1/2 pulgadas",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
@@ -183,14 +183,14 @@
     "categories":["bookshop"],
     "stock":true,
     "styleTag":{
-      "name":"barra",
+      "name":"3/4 pulgadas",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125301006-goma.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/",
       "url_02":"",
       "url_03":""
       }
@@ -211,14 +211,14 @@
     "categories":["bookshop"],
     "stock":true,
     "styleTag":{
-      "name":"barra",
+      "name":"1 pulgadas",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125301006-goma.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/",
       "url_02":"",
       "url_03":""
       }
@@ -239,14 +239,14 @@
     "categories":["bookshop"],
     "stock":true,
     "styleTag":{
-      "name":"barra",
+      "name":"1-1/2 pulgadas",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125301006-goma.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/",
       "url_02":"",
       "url_03":""
       }
@@ -267,14 +267,14 @@
     "categories":["bookshop"],
     "stock":false,
     "styleTag":{
-      "name":"barra",
+      "name":"2 pulgadas",
       "color_back_top":"#0d2c7a",
       "color_back_bottom":"#0d2c7a",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/125301006-goma.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/artesco/",
       "url_02":"",
       "url_03":""
       }

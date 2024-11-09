@@ -121,6 +121,7 @@
       "nameE":"category/breakfast",
       "id":"150",
       "urls":{
+        "enbutidos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15030.json",
         "untar":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15060.json",
         "desayuno":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15070.json",
         "cereales":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15010.json",

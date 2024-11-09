@@ -228,7 +228,7 @@
     "idStore":"11080",
     "id":"110-80-1009",
     "idProduct":"110801009",
-    "name":"zuko de maracuyá",
+    "name":"zuko",
     "unit":"15",
     "extent":"gr",
     "brand":"zuko",
@@ -245,6 +245,20 @@
       "color_text":"#fbfdfd"
     },
     "description":"",
+    "more":{
+      "110-80-1109":{
+        "idProduct":"110801109",
+        "name":"piña",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801010-zuko.webp"},
+      "110-80-1209":{
+        "idProduct":"110801209",
+        "name":"naranja",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801011-zuko.webp"},
+      "110-80-1309":{
+        "idProduct":"110801309",
+        "name":"maíz morado",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801012-zuko.webp"}
+    },
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801009-zuko.webp",
       "url_02":"",

@@ -4,15 +4,15 @@
     "idStore":"15030",
     "id":"150-30-1001",
     "idProduct":"150301001",
-    "name":"jamonada - san fernando",
-    "unit":"85",
+    "name":"hotdog - san fernando",
+    "unit":"100",
     "extent":"gr",
     "brand":"san fernando",
     "price":"",
-    "newPrice":"1.80",
+    "newPrice":"1.50",
     "store":"enbutidos",
     "category":["breakfast"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"jamonada",
       "color_back_top":"#08498c",
@@ -21,7 +21,34 @@
     },
     "description":"",
     "image":{
-      "url_01":"",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/enbutidos/sanfernano/150301001-sanfernando.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15030",
+    "id":"150-30-1002",
+    "idProduct":"150301002",
+    "name":"jamonada suiza",
+    "unit":"200",
+    "extent":"gr",
+    "brand":"suiza",  
+    "price":"",
+    "newPrice":"2.80",
+    "store":"enbutidos",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"jamonada",
+      "color_back_top":"#08498c",
+      "color_back_bottom":"#08498c",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/enbutidos/sanfernano/150301002-suiza.webp",
       "url_02":"",
       "url_03":""
       }
