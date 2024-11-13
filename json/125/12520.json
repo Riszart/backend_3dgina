@@ -334,5 +334,89 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12520",
+    "id":"125-20-1013",
+    "idProduct":"125201013",
+    "name":"papel kraft",
+    "unit":"1",
+    "extent":"und",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"0.80",
+    "store":"papeleria",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"kraft",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12520",
+    "id":"125-20-1014",
+    "idProduct":"125201014",
+    "name":"papel metalico",
+    "unit":"1",
+    "extent":"und",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"papeleria",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"metalico",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"125",
+    "idStore":"12520",
+    "id":"125-20-1015",
+    "idProduct":"125201015",
+    "name":"papel seda",
+    "unit":"1",
+    "extent":"und",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"2.50",
+    "store":"papeleria",
+    "tags":[""],
+    "categories":["bookshop"],
+    "stock":true,
+    "styleTag":{
+      "name":"seda",
+      "color_back_top":"#0d2c7a",
+      "color_back_bottom":"#0d2c7a",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/libreria/",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

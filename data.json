@@ -12,11 +12,27 @@
         "salsas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11050.json",
         "aceites":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11060.json",
         "condimentos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11070.json",
-        "instantanea":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11080.json"
-
-
+        "instantanea":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11080.json",
+        "postres":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11090.json",
+        "accesorios":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11095.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/market.jpg"
+    },
+    "category-breakfast":{
+      "name":"desayuno", 
+      "nameE":"category/breakfast",
+      "id":"150",
+      "urls":{
+        "enbutidos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15030.json",
+        "untar":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15060.json",
+        "desayuno":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15070.json",
+        "cereales":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15010.json",
+        "lacteos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15040.json",
+        "pan":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15050.json",
+        "huevos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15020.json",
+        "instantanea":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15080.json"
+      },
+      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/breakfast.jpg"
     },
     "category-candy":{
       "name":"Golosinas",
@@ -52,7 +68,8 @@
         "utiles":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/125/12510.json",
         "papeleria":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/125/12520.json",
         "cintas y pegamentos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/125/12530.json",
-        "corte":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/125/12540.json"
+        "corte":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/125/12540.json",
+        "adornos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/125/12550.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/bookshop.jpg"
     },
@@ -95,7 +112,7 @@
         "enjuages":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14050.json",
         "limpiadores":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14060.json",
         "lavavajilla":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14070.json",
-        "acsesorios":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14080.json"
+        "accesorios":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14080.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/clean-product.jpg"
     },
@@ -115,22 +132,6 @@
         "desodorante":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14590.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/personal-hygiene.jpg"
-    },
-    "category-breakfast":{
-      "name":"desayuno", 
-      "nameE":"category/breakfast",
-      "id":"150",
-      "urls":{
-        "enbutidos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15030.json",
-        "untar":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15060.json",
-        "desayuno":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15070.json",
-        "cereales":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15010.json",
-        "lacteos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15040.json",
-        "pan":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15050.json",
-        "huevos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15020.json",
-        "instantanea":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/150/15080.json"
-      },
-      "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/breakfast.jpg"
     },
     "category-bazar":{
       "name":"bazar", 

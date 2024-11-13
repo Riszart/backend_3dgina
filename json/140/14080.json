@@ -306,5 +306,33 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14080",
+    "id":"140-80-1012",
+    "idProduct":"140801012",
+    "name":"esponja con acero inoxidable",
+    "unit":"1",
+    "extent":"und",
+    "brand":"generico",
+    "price":"",
+    "newPrice":"1.00",
+    "store":"acsesorios",
+    "tags":[""],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"abrasiva",
+      "color_back_top":"#231f20",
+      "color_back_bottom":"#052770",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/guantes/140801012-esponja.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]

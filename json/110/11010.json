@@ -194,33 +194,5 @@
       "url_02":"",
       "url_03":""
       }
-  },
-  {
-    "idCategory":"110",
-    "idStore":"11010",
-    "id":"110-10-1008",
-    "idProduct":"110101008",
-    "name":"gelatina roja - (granel)",
-    "unit":"1",
-    "extent":"kg",
-    "brand":"standar",
-    "price":"",
-    "newPrice":"10.00",
-    "store":"menestras",
-    "tags":["gelatina"],
-    "category":["market"],
-    "stock":true,
-    "styleTag":{
-      "name":"roja",
-      "color_back_top":"#fe7814",
-      "color_back_bottom":"#fe7814",
-      "color_text":"#fbfdfd"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/pulses/110101008-gelatina.webp",
-      "url_02":"",
-      "url_03":""
-      }
   }
 ]
