@@ -1,0 +1,29 @@
+[
+  {
+    "idCategory":"160",
+    "idStore":"16030",
+    "id":"160-30-1001",
+    "idProduct":"160301001",
+    "name":"jugetes",
+    "unit":"1",
+    "extent":"und",
+    "brand":"plastilina",
+    "price":"",
+    "newPrice":"1.50",
+    "store":"jugeteria",
+    "category":["bazar"],
+    "stock":true,
+    "styleTag":{
+      "name":"jugetes",
+      "color_back_top":"#010c8e",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/bazar/jugetes/",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+]
