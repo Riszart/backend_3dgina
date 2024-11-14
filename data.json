@@ -21,6 +21,7 @@
       "nameE":"category/market",
       "id":"110",
       "urls":{
+        "accesorios":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11095.json",
         "memestras":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11010.json",
         "apanar":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11020.json",
         "pastas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11030.json",
@@ -29,8 +30,7 @@
         "aceites":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11060.json",
         "condimentos":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11070.json",
         "instantanea":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11080.json",
-        "postres":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11090.json",
-        "accesorios":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11095.json"
+        "postres":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/110/11090.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/market.jpg"
     },
@@ -65,12 +65,12 @@
       "nameE":"category/health",
       "id":"145",
       "urls":{
+        "farmacia":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14560.json",
+        "estetica":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14550.json",
         "papel-higienico":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14520.json",
         "jabon":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14530.json",
         "toallas-higienicas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14510.json",
         "dental":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14540.json",
-        "estetica":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14550.json",
-        "farmacia":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14560.json",
         "shampoo":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14570.json",
         "prestobarba":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14580.json",
         "desodorante":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/145/14590.json"
@@ -82,9 +82,9 @@
       "nameE":"category/pets",
       "id":"130",
       "urls":{
+        "aves":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13010.json",
         "perro":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13030.json",
-        "gato":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13020.json",        
-        "aves":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13010.json"
+        "gato":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/130/13020.json"     
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/pet-shop.jpg"
     },
@@ -109,14 +109,14 @@
       "id":"140",
       "tags":["jabones","detergentes","lejias"],
       "urls":{
+        "accesorios":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14080.json",
         "jabones":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14020.json",
         "detergentes":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14010.json",
         "lejias":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14030.json",
         "lejia color":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14040.json",
         "enjuages":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14050.json",
         "limpiadores":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14060.json",
-        "lavavajilla":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14070.json",
-        "accesorios":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14080.json"
+        "lavavajilla":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/140/14070.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/clean-product.jpg"
     },
@@ -149,9 +149,9 @@
       "nameE":"category/ferreteria",
       "id":"170",
       "urls":{
+        "pilas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/170/17030.json",
         "iluminacion":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/170/17010.json",
-        "ferreteria":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/170/17020.json",
-        "pilas":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/170/17030.json"
+        "ferreteria":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/json/170/17020.json"
       },
       "imgCategory":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/category/bazar.jpg"
     }

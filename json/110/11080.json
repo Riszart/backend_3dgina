@@ -239,7 +239,7 @@
     "category":["market"],
     "stock":true,
     "styleTag":{
-      "name":"maracuyá",
+      "name":"zuko",
       "color_back_top":"#00942e",
       "color_back_bottom":"#00942e",
       "color_text":"#fbfdfd"
@@ -249,105 +249,26 @@
       {
         "id":"110-80-1009-1",
         "idProduct":"1108010091",
-        "name":"piña",
+        "name":"zuko de piña",
         "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801010-zuko.webp"},
       {
         "id":"110-80-1009-2",
         "idProduct":"1108010092",
-        "name":"naranja",
+        "name":"zuko de naranja",
         "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801011-zuko.webp"},
       {
         "id":"110-80-1009-3",
         "idProduct":"1108010093",
-        "name":"maíz morado",
-        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801012-zuko.webp"}
+        "name":"zuko de maíz morado",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801012-zuko.webp"},
+      {
+        "id":"110-80-1009-3",
+        "idProduct":"1108010094",
+        "name":"zuko de maracuyá",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801009-zuko.webp"}
       ],
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801009-zuko.webp",
-      "url_02":"",
-      "url_03":""
-    }
-  },
-  {
-    "idCategory":"110",
-    "idStore":"11080",
-    "id":"110-80-1010",
-    "idProduct":"110801010",
-    "name":"zuko de piña",
-    "unit":"15",
-    "extent":"gr",
-    "brand":"zuko",
-    "price":"",
-    "newPrice":"1.20",
-    "store":"intantanea",
-    "tags":["sopa"],
-    "category":["market"],
-    "stock":true,
-    "styleTag":{
-      "name":"piña",
-      "color_back_top":"#00942e",
-      "color_back_bottom":"#00942e",
-      "color_text":"#fbfdfd"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801010-zuko.webp",
-      "url_02":"",
-      "url_03":""
-    }
-  },
-  {
-    "idCategory":"110",
-    "idStore":"11080",
-    "id":"110-80-1011",
-    "idProduct":"110801011",
-    "name":"zuko de naranja",
-    "unit":"15",
-    "extent":"gr",
-    "brand":"zuko",
-    "price":"",
-    "newPrice":"1.20",
-    "store":"intantanea",
-    "tags":["sopa"],
-    "category":["market"],
-    "stock":true,
-    "styleTag":{
-      "name":"naranja",
-      "color_back_top":"#00942e",
-      "color_back_bottom":"#00942e",
-      "color_text":"#fbfdfd"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801011-zuko.webp",
-      "url_02":"",
-      "url_03":""
-    }
-  },
-  {
-    "idCategory":"110",
-    "idStore":"11080",
-    "id":"110-80-1012",
-    "idProduct":"110801012",
-    "name":"zuko de maíz morado",
-    "unit":"15",
-    "extent":"gr",
-    "brand":"zuko",
-    "price":"",
-    "newPrice":"1.20",
-    "store":"intantanea",
-    "tags":["sopa"],
-    "category":["market"],
-    "stock":true,
-    "styleTag":{
-      "name":"morado",
-      "color_back_top":"#00942e",
-      "color_back_bottom":"#00942e",
-      "color_text":"#fbfdfd"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/110801012-zuko.webp",
       "url_02":"",
       "url_03":""
     }
