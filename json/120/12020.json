@@ -575,16 +575,51 @@
     "categories":["soda"],
     "stock":true,
     "styleTag":{
-      "name":"kr negra",
+      "name":"kr",
       "color_back_top":"#fe6716",
       "color_back_bottom":"#f78c0c",
       "color_text":"#fff"
     },
     "description":"",
+    "more":[
+        {
+          "id":"120-20-1020-1",
+          "idProduct":"1202010201",
+          "name":"kr negra",
+          "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201020-kr.webp",
+          "stock":true
+        },
+        {
+          "id":"120-20-1020-2",
+          "idProduct":"1202010202",
+          "name":"kr roja",
+          "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201021-kr.webp",
+          "stock":true
+        },
+        {
+          "id":"120-20-1020-3",
+          "idProduct":"1202010203",
+          "name":"kr naranja",
+          "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201022-kr.webp",
+          "stock":true
+        },
+        {
+          "id":"120-20-1020-4",
+          "idProduct":"1202010204",
+          "name":"kr limon",
+          "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201023-kr.webp",
+          "stock":true
+        },
+        {
+          "id":"120-20-1020-5",
+          "idProduct":"1202010205",
+          "name":"kr amarilla",
+          "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/",
+          "stock":true
+        }
+      ],
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201020-kr.webp",
-      "url_02":"",
-      "url_03":""
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201020-kr.webp"
       }
   },
   {
@@ -601,7 +636,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"kr roja",
       "color_back_top":"#fe6716",
@@ -610,7 +645,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201021-kr.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products",
       "url_02":"",
       "url_03":""
       }
@@ -629,7 +664,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"kr naranja",
       "color_back_top":"#fe6716",
@@ -638,7 +673,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201022-kr.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products",
       "url_02":"",
       "url_03":""
       }
@@ -657,7 +692,7 @@
     "store":"bebidas",
     "tags":["gaseosas","no retornable"],
     "categories":["soda"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"kr limon",
       "color_back_top":"#fe6716",
@@ -666,7 +701,7 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/120201023-kr.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products",
       "url_02":"",
       "url_03":""
       }
