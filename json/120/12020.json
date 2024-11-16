@@ -517,14 +517,7 @@
         "idProduct":"1202010173",
         "name":"cool amarilla",
         "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/1202010173-cool.webp",
-        "stock":true
-      },
-      {
-        "id":"120-20-1017-4",
-        "idProduct":"1202010174",
-        "name":"cool roja",
-        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/aje/ism/1202010174-cool.webp",
-        "stock":true
+        "stock":false
       }
     ],
     "image":{
