@@ -4,7 +4,7 @@
     "idStore":"14530",
     "id":"145-30-1001",
     "idProduct":"145301001",
-    "name":"neko - extra proteccion",
+    "name":"jabon neko",
     "unit":"125",
     "extent":"gr",
     "brand":"neko",
@@ -15,12 +15,28 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"extra proteccion",
+      "name":"neko",
       "color_back_top":"#0265a8",
       "color_back_bottom":"#14b5eb",
       "color_text":"#fff"
     },
     "description":"",
+    "more":[
+      {
+        "id":"145-30-1001-1",
+        "idProduct":"1453010011",
+        "name":"neko - extra proteccion",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/neko/1453010011-neko.webp",
+        "stock":true
+      },
+      {
+        "id":"145-30-1001-2",
+        "idProduct":"1453010012",
+        "name":"neko - extra suave",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/neko/1453010012-neko.webp",
+        "stock":true
+      }
+    ],
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/neko/145301001-neko.webp",
       "url_02":"",
@@ -32,25 +48,25 @@
     "idStore":"14530",
     "id":"145-30-1002",
     "idProduct":"145301002",
-    "name":"neko - extra suave",
-    "unit":"125",
-    "extent":"gr",
-    "brand":"neko",
+    "name":"",
+    "unit":"",
+    "extent":"",
+    "brand":"",
     "price":"",
-    "newPrice":"4.50",
+    "newPrice":"",
     "store":"jabones",
     "tags":["jabon","cara"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
-      "name":"extra suave",
+      "name":" ",
       "color_back_top":"#0265a8",
       "color_back_bottom":"#14b5eb",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/neko/145301002-neko.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -88,7 +104,7 @@
     "idStore":"14530",
     "id":"145-30-1004",
     "idProduct":"145301004",
-    "name":"Intensa Renovación Granada",
+    "name":"jabon palmolive",
     "unit":"110",
     "extent":"gr",
     "brand":"palmolive",
@@ -99,42 +115,63 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"Granada",
+      "name":"palmolive",
       "color_back_top":"#afc022",
       "color_back_bottom":"#016145",
       "color_text":"#fff"
     },
     "description":"Disfruta de su fragancia y fórmula con ingredientes 100% de origen natural y transfórmate con Palmolive® Naturals Intensa Renovación.",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/palmolive/145301004-palmolive.webp",
-      "url_02":"",
-      "url_03":""
+    "more":[
+      {
+        "id":"145-30-1004-1",
+        "idProduct":"1453010041",
+        "name":"palmolive - Granada",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/palmolive/1453010041-palmolive.webp",
+        "stock":true
+      },
+      {
+        "id":"145-30-1004-2",
+        "idProduct":"1453010042",
+        "name":"palmolive - Oliva y Aloe",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/palmolive/1453010042-palmolive.webp",
+        "stock":false
+      },
+      {
+        "id":"145-30-1004-3",
+        "idProduct":"1453010043",
+        "name":"palmolive - Sandía y Lychee",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/palmolive/1453010043-palmolive.webp",
+        "stock":true
       }
+    ],
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/palmolive/11453010041-palmolive.webp"
+    }
   },
   {
     "idCategory":"145",
     "idStore":"14530",
     "id":"145-30-1005",
     "idProduct":"145301005",
-    "name":"Sensación Humectante Oliva y Aloe",
-    "unit":"75",
-    "extent":"gr",
-    "brand":"palmolive",
+    "name":"",
+    "unit":"",
+    "extent":"",
+    "brand":"",
     "price":"",
-    "newPrice":"4.00",
+    "newPrice":"",
     "store":"jabones",  
     "tags":["jabon","cara"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
-      "name":"Oliva y Aloe",
+      "name":"",
       "color_back_top":"#afc022",
       "color_back_bottom":"#016145",
       "color_text":"#fff"
     },
-    "description":"Reconecta naturalmente con tus sentidos todos los días con el renovado Palmolive® Naturals Sensación Humectante Oliva y Aloe, que gracias a su fórmula con humectante natural y fabricada responsablemente*.",
+    "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/palmolive/145301005-palmolive.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -144,7 +181,7 @@
     "idStore":"14530",
     "id":"145-30-1006",
     "idProduct":"145301006",
-    "name":"Jabón en Barra Limpieza Profunda Protex®",
+    "name":"Jabón en Barra Protex®",
     "unit":"110",
     "extent":"gr",
     "brand":"protex",
@@ -161,8 +198,52 @@
       "color_text":"#fff"
     },
     "description":"Protex® Limpieza profunda jabón antibacterial, remueve grasa e impureza en los poros para una piel saludable. Ofrece una protección antibacterial natural con óleo de linaza. Elimina el 99.9 % de las bacterias* naturalmente manteniéndote protegido por hasta 12h**.",
+    "more":[
+      {
+        "id":"145-30-1006-1",
+        "idProduct":"1453010061",
+        "name":"Limpieza Profunda Protex®",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/1453010061-protex.webp",
+        "stock":true
+      },
+      {
+        "id":"145-30-1006-2",
+        "idProduct":"1453010062",
+        "name":"Avena Protex®",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/1453010062-protex.webp",
+        "stock":false
+      },
+      {
+        "id":"145-30-1006-3",
+        "idProduct":"1453010063",
+        "name":"Men Sport Protex®",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/1453010063-protex.webp",
+        "stock":true
+      },
+      {
+        "id":"145-30-1006-4",
+        "idProduct":"1453010064",
+        "name":"Protex® Herbal",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/1453010064-protex.webp",
+        "stock":true
+      },
+      {
+        "id":"145-30-1006-5",
+        "idProduct":"1453010065",
+        "name":"Protex® Carbon Detox",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/1453010065-protex.webp",
+        "stock":true
+      },
+      {
+        "id":"145-30-1006-6",
+        "idProduct":"1453010066",
+        "name":"Protex® Fresh",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/1453010066-protex.webp",
+        "stock":true
+      }
+    ],
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/145301006-protex.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/1453010061-protex.webp",
       "url_02":"",
       "url_03":""
       }
@@ -172,8 +253,8 @@
     "idStore":"14530",
     "id":"145-30-1007",
     "idProduct":"145301007",
-    "name":"Jabón en Barra Avena Protex®",
-    "unit":"110",
+    "name":"",
+    "unit":"",
     "extent":"gr",
     "brand":"protex",
     "price":"",
@@ -181,7 +262,7 @@
     "store":"jabones",
     "tags":["jabon","cara"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"Avena",
       "color_back_top":"#dfa874",
@@ -190,7 +271,7 @@
     },
     "description":"Protex® Avena, jabón antibacterial, remueve impurezas suavemente para una piel saludable. Ofrece una protección antibacterial natural con óleo de linaza. Elimina el 99.9 % de las bacterias* naturalmente manteniéndote protegido por hasta12h**.",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/145301007-protex.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -200,7 +281,7 @@
     "idStore":"14530",
     "id":"145-30-1008",
     "idProduct":"145301008",
-    "name":"Protex® Men Sport",
+    "name":"",
     "unit":"110",
     "extent":"gr",
     "brand":"protex",
@@ -209,7 +290,7 @@
     "store":"jabones",
     "tags":["jabon","cara"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"Men Sport",
       "color_back_top":"#0e253b",
@@ -218,7 +299,7 @@
     },
     "description":"Protex® Men Sport. Especialmente diseñado para hombres, ofreciendo la máxima protección de Protex® y acción desodorante. Eimina el 99.9 % de las bacterias*** naturalmente.",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/145301008-protex.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -228,7 +309,7 @@
     "idStore":"14530",
     "id":"145-30-1009",
     "idProduct":"145301009",
-    "name":"Jabón en Barra Protex® Herbal",
+    "name":"J",
     "unit":"110",
     "extent":"gr",
     "brand":"protex",
@@ -237,7 +318,7 @@
     "store":"jabones",
     "tags":["jabon","cara"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"Herbal",
       "color_back_top":"#4ca96e",
@@ -246,7 +327,7 @@
     },
     "description":"Protex® Herbal, jabón antibacterial, Ayuda a brindar el cuidado y protección que tu piel necesita. Eimina el 99.9 % de las bacterias* naturalmente manteniéndote protegido por hasta 12h**",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/145301009-protex.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -256,7 +337,7 @@
     "idStore":"14530",
     "id":"145-30-1010",
     "idProduct":"145301010",
-    "name":"Jabón en barra Protex® Carbón Detox",
+    "name":"",
     "unit":"110",
     "extent":"gr",
     "brand":"protex",
@@ -265,7 +346,7 @@
     "store":"jabones",
     "tags":["jabon","cara"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"Carbón Detox",
       "color_back_top":"#302f2f",
@@ -274,7 +355,7 @@
     },
     "description":"Jabón antibacterial Protex® Carbón Detox, con fórmula con carbón y óleo de linaza fortalece las defensas naturales de tu piel, ofreciendo limpieza y una protección superior con un efecto Natural de Detox para una piel saludable y naturalmente protegida.",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/145301010-protex.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -284,16 +365,16 @@
     "idStore":"14530",
     "id":"145-30-1011",
     "idProduct":"145301011",
-    "name":"Jabón en Barra Protex® Fresh",
-    "unit":"110",
-    "extent":"gr",
-    "brand":"protex",
+    "name":"",
+    "unit":" ",
+    "extent":" ",
+    "brand":" ",
     "price":"",
     "newPrice":"4.00",
     "store":"jabones",
     "tags":["jabon","cara"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"Fresh",
       "color_back_top":"#0078b2",
@@ -302,7 +383,7 @@
     },
     "description":"Protex® Fresh, jabón antibacterial. Elimina el 99.9% de las bacterias de la piel* y ayuda a brindar una sensación de limpieza y frescura.",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/145301011-protex.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -357,6 +438,50 @@
       "color_text":"#fff"
     },
     "description":"",
+    "more":[
+      {
+        "id":"145-30-1013-1",
+        "idProduct":"1453010131",
+        "name":"monclear antibacterial",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1453010131-monclear.webp",
+        "stock":true
+      },
+      {
+        "id":"145-30-1013-2",
+        "idProduct":"1453010132",
+        "name":"Avena Protex®",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1453010132-monclear.webp",
+        "stock":true
+      },
+      {
+        "id":"145-30-1013-3",
+        "idProduct":"1453010133",
+        "name":"Men Sport Protex®",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1453010133-monclear.webp",
+        "stock":true
+      },
+      {
+        "id":"145-30-1013-4",
+        "idProduct":"1453010134",
+        "name":"Protex® Herbal",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1453010134-monclear.webp",
+        "stock":true
+      },
+      {
+        "id":"145-30-1013-5",
+        "idProduct":"1453010135",
+        "name":"Protex® Carbon Detox",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1453010135-monclear.webp",
+        "stock":true
+      },
+      {
+        "id":"145-30-1013-6",
+        "idProduct":"1453010136",
+        "name":"Protex® Fresh",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1453010136-monclear.webp",
+        "stock":true
+      }
+    ],
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/145301013-monclear.webp",
       "url_02":"",

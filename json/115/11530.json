@@ -88,25 +88,25 @@
     "idStore":"11530",
     "id":"115-30-1001",
     "idProduct":"115301001",
-    "name":"casino - menta",
-    "unit":"43",
-    "extent":"gr",
-    "brand":"alicorp",
+    "name":"",
+    "unit":"",
+    "extent":"",
+    "brand":"",
     "price":"",
-    "newPrice":"1.00",
+    "newPrice":"",
     "store":"galletas",
     "tags":["victoria"],
     "category":["candy"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
-      "name":"casino menta",
+      "name":"",
       "color_back_top":"#12ce7f",
       "color_back_bottom":"#12ce7f",
       "color_text":"#fbfdfd"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301001-casino_menta.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -116,7 +116,7 @@
     "idStore":"11530",
     "id":"115-30-1020",
     "idProduct":"115301020",
-    "name":"picaras original",
+    "name":"picaras",
     "unit":"40",
     "extent":"gr",
     "brand":"costa",
@@ -127,14 +127,30 @@
     "category":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"original",
+      "name":"picaras",
       "color_back_top":"#f11",
       "color_back_bottom":"#f11",
       "color_text":"#fbfdfd"
     },
     "description":"",
+    "more":[
+      {
+        "id":"115-30-1020-1",
+        "idProduct":"1153010201",
+        "name":"picaras original",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010201-picaras.webp",
+        "stock":true
+      },
+      {
+        "id":"115-30-1020-2",
+        "idProduct":"1153010202",
+        "name":"picaras extrema",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010202-picaras.webp",
+        "stock":true
+      }
+    ],
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/115301020-picaras.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/1153010201-picaras.webp",
       "url_02":"",
       "url_03":""
       }
@@ -144,7 +160,7 @@
     "idStore":"11530",
     "id":"115-30-1002",
     "idProduct":"115301002",
-    "name":"casino - chocolate",
+    "name":"galleta casino",
     "unit":"43",
     "extent":"gr",
     "brand":"alicorp",
@@ -155,17 +171,52 @@
     "category":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"casino chocolate",
+      "name":"casino",
       "color_back_top":"#98684f",
       "color_back_bottom":"#98684f",
       "color_text":"#fbfdfd"
     },
     "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301002-casino_chocolate.webp",
-      "url_02":"",
-      "url_03":""
+    "more":[
+      {
+        "id":"115-30-1002-1",
+        "idProduct":"1153010021",
+        "name":"casino - chocolate",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010021-casino.webp",
+        "stock":true
+      },
+      {
+        "id":"115-30-1002-2",
+        "idProduct":"1153010022",
+        "name":"casino - menta",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010022-casino.webp",
+        "stock":true
+      },
+      {
+        "id":"115-30-1002-3",
+        "idProduct":"1153010023",
+        "name":"casino - fresa",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010023-casino.webp",
+        "stock":false
+      },
+      {
+        "id":"115-30-1002-4",
+        "idProduct":"1153010024",
+        "name":"casino - alfajor",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010024-casino.webp",
+        "stock":false
+      },
+      {
+        "id":"115-30-1002-5",
+        "idProduct":"1153010025",
+        "name":"casino - lucuma",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010025-casino.webp",
+        "stock":false
       }
+    ],
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010021-casino.webp"
+    }
   },
   {
     "idCategory":"115",
@@ -200,7 +251,7 @@
     "idStore":"11530",
     "id":"115-30-1003",
     "idProduct":"115301003",
-    "name":"tentación - chocolate",
+    "name":"galleta tentación",
     "unit":"43",
     "extent":"gr",
     "brand":"alicorp",
@@ -211,12 +262,42 @@
     "category":["candy"],
     "stock":true,
     "styleTag":{
-      "name":"chocolate",
+      "name":"tentación",
       "color_back_top":"#905c4e",
       "color_back_bottom":"#905c4e",
       "color_text":"#fbfdfd"
     },
     "description":"",
+    "more":[
+      {
+        "id":"115-30-1003-1",
+        "idProduct":"1153010031",
+        "name":"tentación - chocolate",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010031-tentacion.webp",
+        "stock":true
+      },
+      {
+        "id":"115-30-1003-2",
+        "idProduct":"1153010032",
+        "name":"tentación - naranja",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010032-tentacion.webp",
+        "stock":true
+      },
+      {
+        "id":"115-30-1003-3",
+        "idProduct":"1153010033",
+        "name":"tentación - vainilla",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010033-tentacion.webp",
+        "stock":false
+      },
+      {
+        "id":"115-30-1003-4",
+        "idProduct":"1153010034",
+        "name":"tentación - coco",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010034-tentacion.webp",
+        "stock":false
+      }
+    ],
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301003-tentacion_chocolate.webp",
       "url_02":"",
@@ -228,25 +309,25 @@
     "idStore":"11530",
     "id":"115-30-1004",
     "idProduct":"115301004",
-    "name":"tentación - naranja",
-    "unit":"43",
-    "extent":"gr",
+    "name":"",
+    "unit":"",
+    "extent":"",
     "brand":"alicorp",
     "price":"",
-    "newPrice":"1.00",
+    "newPrice":"",
     "store":"galletas",
     "tags":["victoria"],
     "category":["candy"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
-      "name":"naranja",
+      "name":"",
       "color_back_top":"#ef510a",
       "color_back_bottom":"#ef510a",
       "color_text":"#fbfdfd"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301004-tentacion_naranja.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -675,25 +756,25 @@
     "idStore":"11530",
     "id":"115-30-1021",
     "idProduct":"115301021",
-    "name":"picaras extrema",
-    "unit":"40",
-    "extent":"gr",
+    "name":"",
+    "unit":"",
+    "extent":"",
     "brand":"costa",
     "price":"",
-    "newPrice":"1.00",
+    "newPrice":"",
     "store":"galletas",
     "tags":["costa"],
     "category":["candy"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
-      "name":"extrema",
+      "name":"",
       "color_back_top":"#f11",
       "color_back_bottom":"#f11",
       "color_text":"#fbfdfd"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/115301021-picaras.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -843,25 +924,25 @@
     "idStore":"11530",
     "id":"115-30-1031",
     "idProduct":"115301031",
-    "name":"tentación - coco",
-    "unit":"43",
-    "extent":"gr",
+    "name":"",
+    "unit":"",
+    "extent":"",
     "brand":"alicorp",
     "price":"",
-    "newPrice":"1.00",
+    "newPrice":"",
     "store":"galletas",
     "tags":["victoria"],
     "category":["candy"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
-      "name":"coco",
+      "name":"",
       "color_back_top":"#905c4e",
       "color_back_bottom":"#905c4e",
       "color_text":"#fbfdfd"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301031-tentacion.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/",
       "url_02":"",
       "url_03":""
       }
@@ -871,18 +952,18 @@
     "idStore":"11530",
     "id":"115-30-1032",
     "idProduct":"115301032",
-    "name":"tentación - vainilla",
-    "unit":"43",
-    "extent":"gr",
+    "name":"",
+    "unit":"",
+    "extent":"",
     "brand":"alicorp",
     "price":"",
-    "newPrice":"1.00",
+    "newPrice":"",
     "store":"galletas",
     "tags":["victoria"],
     "category":["candy"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
-      "name":"vainilla",
+      "name":"",
       "color_back_top":"#905c4e",
       "color_back_bottom":"#905c4e",
       "color_text":"#fbfdfd"

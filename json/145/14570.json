@@ -74,9 +74,53 @@
       "color_text":"#ffffff"
     },
     "description":"",
+    "more":[
+      {
+        "id":"145-70-1003-1",
+        "idProduct":"1457010031",
+        "name":"rojo",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1457010031-pantene.webp",
+        "stock":true
+      },
+      {
+        "id":"145-70-1003-2",
+        "idProduct":"1457010032",
+        "name":"verde",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1457010032-pantene.webp",
+        "stock":true
+      },
+      {
+        "id":"145-70-1003-3",
+        "idProduct":"1457010033",
+        "name":"negro",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1457010033-pantene.webp",
+        "stock":true
+      },
+      {
+        "id":"145-70-1003-4",
+        "idProduct":"1457010034",
+        "name":"dorado",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1457010034-pantene.webp",
+        "stock":true
+      },
+      {
+        "id":"145-70-1003-5",
+        "idProduct":"1457010035",
+        "name":"",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1457010035-pantene.webp",
+        "stock":false
+      },
+      {
+        "id":"145-70-1003-6",
+        "idProduct":"1457010036",
+        "name":"",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1457010036-pantene.webp",
+        "stock":false
+      }
+    ],
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG",
-      "url_02":"",
+      "url_02":"",                                                                                                                                                                                                                                                                                                                                                                                               
       "url_03":""
       }
   },
