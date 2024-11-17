@@ -66,7 +66,7 @@
     "newPrice":"30.00",
     "store":"rons",
     "category":["liquor-store"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"cartavio black",
       "color_back_top":"#787978",
@@ -228,7 +228,7 @@
     "newPrice":"10.00",
     "store":"rons",
     "category":["liquor-store"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"cartavio black",
       "color_back_top":"#787978",
