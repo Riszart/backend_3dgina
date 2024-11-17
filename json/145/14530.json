@@ -38,7 +38,7 @@
       }
     ],
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/neko/145301001-neko.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/neko/1453010011-neko.webp",
       "url_02":"",
       "url_03":""
       }
@@ -192,7 +192,7 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"Limpieza Profunda",
+      "name":"Protex®",
       "color_back_top":"#8c8b8e",
       "color_back_bottom":"#023092",
       "color_text":"#fff"
@@ -243,10 +243,8 @@
       }
     ],
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/1453010061-protex.webp",
-      "url_02":"",
-      "url_03":""
-      }
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/colgatePalmolive/protex/1453010061-protex.webp"
+    }
   },
   {
     "idCategory":"145",
@@ -421,7 +419,7 @@
     "idStore":"14530",
     "id":"145-30-1013",
     "idProduct":"145301013",
-    "name":"monclear antibacterial",
+    "name":"jabon monclear",
     "unit":"145",
     "extent":"gr",
     "brand":"monclear",
@@ -432,7 +430,7 @@
     "categories":["cleaning"],
     "stock":true,
     "styleTag":{
-      "name":"antibacterial",
+      "name":"monclear",
       "color_back_top":"#183d70",
       "color_back_bottom":"#1a428a",
       "color_text":"#fff"
@@ -449,44 +447,42 @@
       {
         "id":"145-30-1013-2",
         "idProduct":"1453010132",
-        "name":"Avena Protex®",
+        "name":"monclear nutri care",
         "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1453010132-monclear.webp",
         "stock":true
       },
       {
         "id":"145-30-1013-3",
         "idProduct":"1453010133",
-        "name":"Men Sport Protex®",
+        "name":"monclear radiante",
         "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1453010133-monclear.webp",
         "stock":true
       },
       {
         "id":"145-30-1013-4",
         "idProduct":"1453010134",
-        "name":"Protex® Herbal",
+        "name":"monclear amarillo energia",
         "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1453010134-monclear.webp",
         "stock":true
       },
       {
         "id":"145-30-1013-5",
         "idProduct":"1453010135",
-        "name":"Protex® Carbon Detox",
+        "name":"monclear azul refrescante",
         "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1453010135-monclear.webp",
         "stock":true
       },
       {
         "id":"145-30-1013-6",
         "idProduct":"1453010136",
-        "name":"Protex® Fresh",
+        "name":"",
         "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/1453010136-monclear.webp",
-        "stock":true
+        "stock":false
       }
     ],
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/145301013-monclear.webp",
-      "url_02":"",
-      "url_03":""
-      }
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/other/monclear/145301013-monclear.webp"
+    }
   },
   {
     "idCategory":"145",
