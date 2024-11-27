@@ -229,7 +229,7 @@
     "store":"bebidas",
     "tags":["agua","no retornable"],
     "categories":["soda"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"sin gas",
       "color_back_top":"#ff912f",
