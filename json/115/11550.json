@@ -472,7 +472,7 @@
     "store":"snacks",
     "tags":["takis"],
     "categories":["candy"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"blue heat",
       "color_back_top":"#0f497b",

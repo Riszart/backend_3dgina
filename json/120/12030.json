@@ -13,7 +13,7 @@
     "store":"bebidas",
     "tags":["frugos","no retornable","caja"],
     "categories":["soda"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"durazno",
       "color_back_top":"#201718",
