@@ -265,7 +265,7 @@
     "store":"lacteos",
     "tags":["leche"],
     "category":["breakfast"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"Pura Vida",
       "color_back_top":"#0032a1",
@@ -293,7 +293,7 @@
     "store":"lacteos",
     "tags":["leche"],
     "category":["breakfast"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"Pura Vida",
       "color_back_top":"#0032a1",

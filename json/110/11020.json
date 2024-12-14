@@ -138,5 +138,61 @@
       "url_02":"",
       "url_03":""
     }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11020",
+    "id":"110-20-1006",
+    "idProduct":"110201006",
+    "name":"harina blanca flor preparada",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"Blanca Flor",
+    "price":"",
+    "newPrice":"7.50",
+    "store":"apanar",
+    "tags":["arina"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"harina",
+      "color_back_top":"#2d2f5a",
+      "color_back_bottom":"#437fc1",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/reposteria/110201006-harina.webp",
+      "url_02":"",
+      "url_03":""
+    }
+  },
+  {
+    "idCategory":"110",
+    "idStore":"11020",
+    "id":"110-20-1007",
+    "idProduct":"110201007",
+    "name":"harina blanca flor sin preparada",
+    "unit":"1",
+    "extent":"kg",
+    "brand":"Blanca Flor",
+    "price":"",
+    "newPrice":"7.00",
+    "store":"apanar",
+    "tags":["arina"],
+    "category":["market"],
+    "stock":true,
+    "styleTag":{
+      "name":"harina",
+      "color_back_top":"#4a4e8a",
+      "color_back_bottom":"#f95060",
+      "color_text":"#fbfdfd"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/reposteria/110201007-harina.webp",
+      "url_02":"",
+      "url_03":""
+    }
   }
 ]

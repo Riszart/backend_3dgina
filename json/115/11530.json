@@ -299,7 +299,7 @@
       }
     ],
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/115301003-tentacion_chocolate.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010031-tentacion.webp",
       "url_02":"",
       "url_03":""
       }
@@ -561,7 +561,7 @@
     "idStore":"11530",
     "id":"115-30-1013",
     "idProduct":"115301013",
-    "name":"wafer sabor chocolate",
+    "name":"wafer costa",
     "unit":"105",
     "extent":"gr",
     "brand":"costa",
@@ -577,9 +577,32 @@
       "color_back_bottom":"#79695c",
       "color_text":"#fbfdfd"
     },
-    "description":"wafer sabor a chocolate",
+    "description":"",
+    "more":[
+      {
+        "id":"115-30-1013-1",
+        "idProduct":"1153010131",
+        "name":"tentación - chocolate",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010131-wafer.webp",
+        "stock":true
+      },
+      {
+        "id":"115-30-1013-2",
+        "idProduct":"1153010132",
+        "name":"tentación - vainilla",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010132-wafer.webp",
+        "stock":true
+      },
+      {
+        "id":"115-30-1013-3",
+        "idProduct":"1153010133",
+        "name":"tentación - fresa",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/snack/1153010133-wafer.webp",
+        "stock":true
+      }
+    ],
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/115301013-wafer_chocolate.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/ambrosoli/cookie/1153010131-wafer.webp",
       "url_02":"",
       "url_03":""
       }

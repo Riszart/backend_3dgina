@@ -153,7 +153,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"plumilla",
       "color_back_top":"#fdbe20",
@@ -181,7 +181,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"caracol",
       "color_back_top":"#fdbe20",
@@ -209,7 +209,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"corbata",
       "color_back_top":"#fdbe20",
@@ -237,7 +237,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"tornillo",
       "color_back_top":"#fdbe20",
@@ -265,7 +265,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"letras",
       "color_back_top":"#15442b",
@@ -293,7 +293,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"munición",
       "color_back_top":"#15442b",
@@ -377,7 +377,7 @@
     "store":"pasta",
     "tags":["pasta"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"tornillo",
       "color_back_top":"#15442b",

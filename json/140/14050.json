@@ -237,7 +237,7 @@
     "store":"suavizante",
     "tags":["suavizante",""],
     "categories":["cleaning"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"lavanda",
       "color_back_top":"#6f4289",

@@ -112,7 +112,7 @@
     "idStore":"15050",
     "id":"150-50-1005",
     "idProduct":"150501005",
-    "name":"paneton todinno + todinito",
+    "name":"paneton todinno + todinito - caja",
     "unit":"900",
     "extent":"gr",
     "brand":"todinno",
@@ -123,13 +123,40 @@
     "stock":false,
     "styleTag":{
       "name":"todinno",
-      "color_back_top":"#0c1857",
-      "color_back_bottom":"#0c1857",
+      "color_back_top":"#ee1589",
+      "color_back_bottom":"#897460",
       "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/150501005-paneton.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/paneton/150501005-paneton.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"150",
+    "idStore":"15050",
+    "id":"150-50-1006",
+    "idProduct":"150501006",
+    "name":"paneton todinno + todinito - bolsa",
+    "unit":"900",
+    "extent":"gr",
+    "brand":"todinno",
+    "price":"",
+    "newPrice":"25.00",
+    "store":"panetones",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"todinno",
+      "color_back_top":"#ee1589",
+      "color_back_bottom":"#897460",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/molitalia/paneton/150501006-paneton.webp",
       "url_02":"",
       "url_03":""
       }
