@@ -13,7 +13,7 @@
     "store":"lavavajilla",
     "tags":["acido","piso"],
     "categories":["cleaning"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"limon",
       "color_back_top":"#00833f",
@@ -55,34 +55,7 @@
       "url_03":""
       }
   },
-  {
-    "idCategory":"140",
-    "idStore":"14070",
-    "id":"140-70-1003",
-    "idProduct":"140701003",
-    "name":"Lavavajilla pasta lavax",
-    "unit":"850",
-    "extent":"gr",
-    "brand":"lavax",
-    "price":"",
-    "newPrice":"7.50",
-    "store":"lavavajilla",
-    "tags":["acido","piso"],
-    "categories":["cleaning"],
-    "stock":true,
-    "styleTag":{
-      "name":"limon",
-      "color_back_top":"#439c6f",
-      "color_back_bottom":"#0c1d89",
-      "color_text":"#ffffff"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/lavax/140701003-lavax.webp",
-      "url_02":"",
-      "url_03":""
-      }
-  },
+
   {
     "idCategory":"140",
     "idStore":"14070",
@@ -144,7 +117,91 @@
     "idStore":"14070",
     "id":"140-70-1007",
     "idProduct":"140701007",
-    "name":"Lavavajilla pasta lavax",
+    "name":"Lavavajilla liquido sapolio",
+    "unit":"300",
+    "extent":"ml",
+    "brand":"sapolio",
+    "price":"",
+    "newPrice":"4.50",
+    "store":"lavavajilla",
+    "tags":["acido","piso"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"limón",
+      "color_back_top":"#feca21",
+      "color_back_bottom":"#e42312",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/lavavajilla/140701007-sapolio.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14070",
+    "id":"140-70-1008",
+    "idProduct":"140701008",
+    "name":"Lavavajilla liquido sapolio",
+    "unit":"500",
+    "extent":"ml",
+    "brand":"sapolio",
+    "price":"",
+    "newPrice":"6.00",
+    "store":"lavavajilla",
+    "tags":["acido","piso"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"limón",
+      "color_back_top":"#feca21",
+      "color_back_bottom":"#e42312",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/lavavajilla/140701008-sapolio.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14070",
+    "id":"140-70-1009",
+    "idProduct":"140701009",
+    "name":"Lavavajilla liquido sapolio",
+    "unit":"750",
+    "extent":"ml",
+    "brand":"sapolio",
+    "price":"",
+    "newPrice":"8.50",
+    "store":"lavavajilla",
+    "tags":["acido","piso"],
+    "categories":["cleaning"],
+    "stock":false,
+    "styleTag":{
+      "name":"limón",
+      "color_back_top":"#feca21",
+      "color_back_bottom":"#e42312",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/limpieza/lavavajilla/140701009-sapolio.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14070",
+    "id":"140-70-1006",
+    "idProduct":"140701006",
+    "name":"Lavavajilla pasta lavax - avena",
     "unit":"850",
     "extent":"ml",
     "brand":"lavax",
@@ -153,7 +210,7 @@
     "store":"lavavajilla",
     "tags":["acido","piso"],
     "categories":["cleaning"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"avena",
       "color_back_top":"#231f20",
@@ -162,7 +219,91 @@
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/vega/vclean/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/lavax/140701006-lavax.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14070",
+    "id":"140-70-1003",
+    "idProduct":"140701003",
+    "name":"Lavavajilla pasta lavax - verde",
+    "unit":"850",
+    "extent":"gr",
+    "brand":"lavax",
+    "price":"",
+    "newPrice":"7.50",
+    "store":"lavavajilla",
+    "tags":["acido","piso"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"verde",
+      "color_back_top":"#439c6f",
+      "color_back_bottom":"#0c1d89",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/lavax/140701003-lavax.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14070",
+    "id":"140-70-1010",
+    "idProduct":"140701010",
+    "name":"Lavavajilla pasta lavax - rosado",
+    "unit":"850",
+    "extent":"ml",
+    "brand":"lavax",
+    "price":"",
+    "newPrice":"7.50",
+    "store":"lavavajilla",
+    "tags":["acido","piso"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"rosado",
+      "color_back_top":"#feca21",
+      "color_back_bottom":"#e42312",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/lavax/140701010-lavax.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"140",
+    "idStore":"14070",
+    "id":"140-70-1011",
+    "idProduct":"140701011",
+    "name":"Lavavajilla pasta lavax - uva",
+    "unit":"850",
+    "extent":"ml",
+    "brand":"lavax",
+    "price":"",
+    "newPrice":"7.50",
+    "store":"lavavajilla",
+    "tags":["acido","piso"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"uva",
+      "color_back_top":"#feca21",
+      "color_back_bottom":"#e42312",
+      "color_text":"#ffffff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ritinza/lavax/140701011-lavax.webp",
       "url_02":"",
       "url_03":""
       }
