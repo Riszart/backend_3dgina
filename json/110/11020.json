@@ -13,7 +13,7 @@
     "store":"apanar",
     "tags":["arina"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"sin preparar",
       "color_back_top":"#13452b",
@@ -41,7 +41,7 @@
     "store":"apanar",
     "tags":["arina"],
     "category":["market"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"sin preparar",
       "color_back_top":"#13452b",

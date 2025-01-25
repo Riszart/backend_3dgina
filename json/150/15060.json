@@ -220,7 +220,7 @@
     "idStore":"15060",
     "id":"150-60-1009",
     "idProduct":"150601009",
-    "name":"mantequilla - sachet",
+    "name":"mantequilla copn sal - barra",
     "unit":"50",
     "extent":"gr",
     "brand":"gloria",
@@ -238,6 +238,34 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/gloria/150601009-mantequilla.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  }
+  ,
+  {
+    "idCategory":"150",
+    "idStore":"15060",
+    "id":"150-60-1010",
+    "idProduct":"150601010",
+    "name":"mantequilla con sal - barra",
+    "unit":"90",
+    "extent":"gr",
+    "brand":"gloria",
+    "price":"",
+    "newPrice":"6.00",
+    "store":"untar",
+    "category":["breakfast"],
+    "stock":true,
+    "styleTag":{
+      "name":"mantequilla",
+      "color_back_top":"#c7af80",
+      "color_back_bottom":"#fc0010",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/gloria/",
       "url_02":"",
       "url_03":""
       }

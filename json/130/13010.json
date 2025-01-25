@@ -67,7 +67,7 @@
     "store":"aves",
     "tags":[""],
     "category":["pets"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"entero",
       "color_back_top":"#00a550",

@@ -13,7 +13,7 @@
     "store":"bebidas",
     "tags":["energizante","no retornable"],
     "categories":["soda"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"maracuyá",
       "color_back_top":"#201718",
@@ -153,7 +153,7 @@
     "store":"energizante",
     "tags":["energizante","no retornable"],
     "categories":["soda"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"uva verde",
       "color_back_top":"#2c9942",

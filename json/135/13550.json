@@ -36,10 +36,10 @@
     "extent":"ml",
     "brand":"russkaya",
     "price":"",
-    "newPrice":"26.00",
+    "newPrice":"25.00",
     "store":"vodka",
     "category":["liquor-store"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"vooka russkaya pink",
       "color_back_top":"#f375a4",

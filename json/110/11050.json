@@ -97,7 +97,7 @@
     "store":"salsas",
     "tags":["salsas"],
     "category":["market"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"mayonesa",
       "color_back_top":"#018240",
