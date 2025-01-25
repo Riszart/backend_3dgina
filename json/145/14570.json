@@ -4,54 +4,82 @@
     "idStore":"14570",
     "id":"145-70-1001",
     "idProduct":"145701001",
-    "name":"H&S limpieza renovadora",
-    "unit":"30",
+    "name":"shampoo H&S 375ml",
+    "unit":"375",
     "extent":"ml",
     "brand":"procter and gamble",
-    "price":"",
-    "newPrice":"1.30",
+    "price":"19.00",
+    "newPrice":"16.00",
     "store":"shampoo",
     "category":["health"],
     "stock":true,
     "styleTag":{
-      "name":"azul",
+      "name":"h&s",
       "color_back_top":"#31a734",
       "color_back_bottom":"#18622e",
       "color_text":"#ffffff"
     },
     "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG",
-      "url_02":"",
-      "url_03":""
+    "more":[
+      {
+        "id":"145-70-1001-1",
+        "idProduct":"1457010011",
+        "name":"limpieza renovadora",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/shampoo/1457010011-shmapoo.webp",
+        "stock":true
+      },
+      {
+        "id":"145-70-1001-2",
+        "idProduct":"1457010012",
+        "name":"Suave y Manejable 2en1",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/shampoo/1457010012-shmapoo.webp",
+        "stock":true
       }
+    ],
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG"
+    }
   },
   {
     "idCategory":"145",
     "idStore":"14570",
     "id":"145-70-1002",
     "idProduct":"145701002",
-    "name":"H&S Suave Manejable 2en1",
-    "unit":"30",
+    "name":"shampoo H&S 180ml",
+    "unit":"180",
     "extent":"ml",
     "brand":"procter and gamble",
-    "price":"",
-    "newPrice":"1.30",
+    "price":"10.00",
+    "newPrice":"9.00",
     "store":"shampoo",
     "category":["health"],
     "stock":true,
     "styleTag":{
-      "name":"rosado",
+      "name":"h&s",
       "color_back_top":"#31a734",
       "color_back_bottom":"#18622e",
       "color_text":"#ffffff"
     },
     "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG",
-      "url_02":"",
-      "url_03":""
+    "more":[
+      {
+        "id":"145-70-1002-1",
+        "idProduct":"1457010021",
+        "name":"limpieza renovadora",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/shampoo/1457010021-shmapoo.webp",
+        "stock":true
+      },
+      {
+        "id":"145-70-1002-2",
+        "idProduct":"1457010022",
+        "name":"Suave y Manejable 2en1",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG/shampoo/1457010022-shmapoo.webp",
+        "stock":true
       }
+    ],
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG"
+    }
   },
   {
     "idCategory":"145",
@@ -119,9 +147,7 @@
       }
     ],
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG",
-      "url_02":"",                                                                                                                                                                                                                                                                                                                                                                                               
-      "url_03":""
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/PG"
       }
   },
   {
@@ -129,7 +155,7 @@
     "idStore":"14570",
     "id":"145-70-1004",
     "idProduct":"145701004",
-    "name":"sedal zero caspa 2en1",
+    "name":"shampoo sedal",
     "unit":"40",
     "extent":"ml",
     "brand":"unilever",
@@ -139,68 +165,62 @@
     "category":["health"],
     "stock":true,
     "styleTag":{
-      "name":"azul",
+      "name":"sedal",
       "color_back_top":"#d93d8e",
       "color_back_bottom":"#001f60",
       "color_text":"#ffffff"
     },
     "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/unilever/145701004-sedal.webp",
-      "url_02":"",
-      "url_03":""
+    "more":[
+      {
+        "id":"145-70-1004-1",
+        "idProduct":"1457010041",
+        "name":"sedal zero caspa 2en1",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/unilever/145701004-sedal.webp",
+        "stock":true
+      },
+      {
+        "id":"145-70-1004-2",
+        "idProduct":"1457010042",
+        "name":"sedal ceramidas",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/unilever/145701005-sedal.webp",
+        "stock":true
+      },
+      {
+        "id":"145-70-1004-3",
+        "idProduct":"1457010043",
+        "name":"sedal duo",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/unilever/145701006-sedal.webp",
+        "stock":true
       }
+    ],
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/unilever/145701006-sedal.webp"
+    }
   },
   {
     "idCategory":"145",
     "idStore":"14570",
     "id":"145-70-1005",
     "idProduct":"145701005",
-    "name":"sedal ceramidas shampoo",
-    "unit":"40",
+    "name":"amaras reparacion control frizz",
+    "unit":"400",
     "extent":"ml",
-    "brand":"unilever",
+    "brand":"alicorp",
     "price":"",
-    "newPrice":"1.30",
+    "newPrice":"14.00",
     "store":"shampoo",
     "category":["health"],
     "stock":true,
     "styleTag":{
-      "name":"rosado",
+      "name":"amaras",
       "color_back_top":"#d93d8e",
       "color_back_bottom":"#001f60",
       "color_text":"#ffffff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/unilever/145701005-sedal.webp",
-      "url_02":"",
-      "url_03":""
-      }
-  },
-  {
-    "idCategory":"145",
-    "idStore":"14570",
-    "id":"145-70-1006",
-    "idProduct":"145701006",
-    "name":"sedal duo",
-    "unit":"40",
-    "extent":"ml",
-    "brand":"unilever",
-    "price":"",
-    "newPrice":"1.30",
-    "store":"shampoo",
-    "category":["health"],
-    "stock":true,
-    "styleTag":{
-      "name":"blanco",
-      "color_back_top":"#d93d8e",
-      "color_back_bottom":"#001f60",
-      "color_text":"#ffffff"
-    },
-    "description":"",
-    "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/unilever/145701006-sedal.webp",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/",
       "url_02":"",
       "url_03":""
       }

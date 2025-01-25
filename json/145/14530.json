@@ -511,5 +511,33 @@
       "url_02":"",
       "url_03":""
       }
+  },
+  {
+    "idCategory":"145",
+    "idStore":"14530",
+    "id":"145-30-1015",
+    "idProduct":"145301015",
+    "name":"jabón liquido antivacterial - frutos rojos",
+    "unit":"400",
+    "extent":"ml", 
+    "brand":"vclean",
+    "price":"",
+    "newPrice":"6.00",
+    "store":"jabones",
+    "tags":["jabon","cara"],
+    "categories":["cleaning"],
+    "stock":true,
+    "styleTag":{
+      "name":"jabon",
+      "color_back_top":"#ce3c2f",
+      "color_back_bottom":"#085ca7",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/vega/vclean/145301015-jabon-liquido.webp",
+      "url_02":"",
+      "url_03":""
+      }
   }
 ]
