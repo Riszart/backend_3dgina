@@ -12,7 +12,7 @@
     "newPrice":"58.00",
     "store":"whisky",
     "category":["liquor-store"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"red label",
       "color_back_top":"#ab110e",
@@ -62,11 +62,11 @@
     "unit":"750",
     "extent":"ml",
     "brand":"jonny wolker",
-    "price":"",
-    "newPrice":"260.00",
+    "price":"300",
+    "newPrice":"283.00",
     "store":"whisky",
     "category":["liquor-store"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"gold label",
       "color_back_top":"#e0b96b",

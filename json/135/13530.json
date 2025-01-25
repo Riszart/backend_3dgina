@@ -12,7 +12,7 @@
     "newPrice":"26.00",
     "store":"rons",
     "category":["liquor-store"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"cartavio black",
       "color_back_top":"#787978",
@@ -93,7 +93,7 @@
     "newPrice":"32.00",
     "store":"rons",
     "category":["liquor-store"],
-    "stock":false,
+    "stock":true,
     "styleTag":{
       "name":"selecto 5 años",
       "color_back_top":"#371f18",
@@ -116,8 +116,8 @@
     "unit":"750",
     "extent":"ml",
     "brand":"cartavio",
-    "price":"33.00",
-    "newPrice":"30.00",
+    "price":"30.00",
+    "newPrice":"28.00",
     "store":"rons",
     "category":["liquor-store"],
     "stock":true,
