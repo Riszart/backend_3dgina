@@ -214,13 +214,13 @@
     "stock":true,
     "styleTag":{
       "name":"amaras",
-      "color_back_top":"#d93d8e",
-      "color_back_bottom":"#001f60",
-      "color_text":"#ffffff"
+      "color_back_top":"#ffc0b1",
+      "color_back_bottom":"#d38d63",
+      "color_text":"#fff"
     },
     "description":"",
     "image":{
-      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/",
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/145701005-amaras.webp",
       "url_02":"",
       "url_03":""
       }

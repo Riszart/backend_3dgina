@@ -58,12 +58,12 @@
     "idStore":"17010",
     "id":"170-10-1003",
     "idProduct":"170101003",
-    "name":"foco led 15w - luz fria (1500lm)",
+    "name":"foco led 15w - luz fria (1400lm)",
     "unit":"1",
     "extent":"und",
     "brand":"phelix",
     "price":"",
-    "newPrice":"7.00",
+    "newPrice":"8.00",
     "store":"iluminacion",
     "category":["ferreteria"],
     "stock":true,
@@ -76,6 +76,87 @@
     "description":"",
     "image":{
       "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ferreteria/170101003-foco-led.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"170",
+    "idStore":"17010",
+    "id":"170-10-1004",
+    "idProduct":"170101004",
+    "name":"foco led 30w - luz fria (2900lm)",
+    "unit":"1",
+    "extent":"und",
+    "brand":"phelix",
+    "price":"15.00",
+    "newPrice":"13.00",
+    "store":"iluminacion",
+    "category":["ferreteria"],
+    "stock":true,
+    "styleTag":{
+      "name":"30W",
+      "color_back_top":"#010c8e",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ferreteria/170101004-foco-led.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"170",
+    "idStore":"17010",
+    "id":"170-10-1005",
+    "idProduct":"170101005",
+    "name":"foco led 5w - luz fria (420lm)",
+    "unit":"1",
+    "extent":"und",
+    "brand":"phelix",
+    "price":"",
+    "newPrice":"4.50",
+    "store":"iluminacion",
+    "category":["ferreteria"],
+    "stock":true,
+    "styleTag":{
+      "name":"5W",
+      "color_back_top":"#010c8e",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ferreteria/170101005-foco-led.webp",
+      "url_02":"",
+      "url_03":""
+      }
+  },
+  {
+    "idCategory":"170",
+    "idStore":"17010",
+    "id":"170-10-1006",
+    "idProduct":"170101006",
+    "name":"foco led 22w - luz fria (2100lm)",
+    "unit":"1",
+    "extent":"und",
+    "brand":"phelix",
+    "price":"12.00",
+    "newPrice":"11.00",
+    "store":"iluminacion",
+    "category":["ferreteria"],
+    "stock":true,
+    "styleTag":{
+      "name":"22W",
+      "color_back_top":"#010c8e",
+      "color_back_bottom":"#0071ce",
+      "color_text":"#fff"
+    },
+    "description":"",
+    "image":{
+      "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/ferreteria/170101006-foco-led.webp",
       "url_02":"",
       "url_03":""
       }
