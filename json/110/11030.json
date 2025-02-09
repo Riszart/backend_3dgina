@@ -26,33 +26,33 @@
         "id":"110-30-1001-1",
         "idProduct":"1103010011",
         "name":"fideos letras",
-        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/licorp/pastas/DonVittorio/1103010011-donvittorio.webp",
         "stock":true
       },
       {
         "id":"110-30-1001-2",
         "idProduct":"1103010012",
         "name":"fideos munición",
-        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/licorp/pastas/DonVittorio/1103010012-donvittorio.webp",
         "stock":true
       },
       {
         "id":"110-30-1001-3",
         "idProduct":"1103010013",
         "name":"fideos codo chico",
-        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/licorp/pastas/DonVittorio/1103010013-donvittorio.webp",
         "stock":true
       },
       {
         "id":"110-30-1001-4",
         "idProduct":"1103010014",
         "name":"fideos corbata chica",
-        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/",
+        "image":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/licorp/pastas/DonVittorio/1103010014-donvittorio.webp",
         "stock":true
       }
     ],
   "image":{
-    "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/grupoNutresa/"
+    "url_01":"https://raw.githubusercontent.com/Riszart/backend_3dgina/main/img_products/alicorp/pastas/DonVittorio/110301001-donvittorio.webp"
     }
   },
   {
