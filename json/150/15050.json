@@ -39,7 +39,7 @@
     "newPrice":"26.00",
     "store":"panetones",
     "category":["breakfast"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"donofrio",
       "color_back_top":"#001a59",
@@ -66,7 +66,7 @@
     "newPrice":"24.00",
     "store":"panetones",
     "category":["breakfast"],
-    "stock":true,
+    "stock":false,
     "styleTag":{
       "name":"gloria",
       "color_back_top":"#0c1857",
